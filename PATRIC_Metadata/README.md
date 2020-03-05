@@ -21,7 +21,7 @@ Data that related to pathogenicity, and which might be most predictive for model
 The host name field at patric has received the most attention, and is also the most populated.  
 The remaining fields vary in their quality and some are nearly free form text. 
 
-I have generated a program, *cleanup_PATRIC_metadata.pl* that reads a tab-delimite set of PATRIC fields in the following order
+I have generated a program, *cleanup_PATRIC_metadata.pl* that reads a tab-delimited set of PATRIC fields in the following order:
 
 	0.  genome id
 	1.  sra accession
@@ -35,6 +35,26 @@ I have generated a program, *cleanup_PATRIC_metadata.pl* that reads a tab-delimi
 	7.  isolation site
 	10. isolation source
   
-  
+ It also reads as input a set of ontology tables (tab-delimited text format) for cleaning up the fields. Current versions are:  
+ 
+ * Host-3-20.txt
+ * Envt-3-20.txt
+ * Body-3-20.txt
+ 
+ These are managed by hand in a corresponding set of excel files. 
+ 
+ The code works in the following way:
+ 1.  It reads the host ontology and cleans the host filed
+ 2.  For genomes lacking a curated host, it reads the Environment ontology, and applies the environment ontology for any field that maches in fileds 5-10.
+ 3.  For genomes with a human host, it reads fields 5-10 and tries to apply the human body site ontology 
+ 4.  For genomes with no classifie environment or host it reads fields 5-10 and tries to find human host, or human body site
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
