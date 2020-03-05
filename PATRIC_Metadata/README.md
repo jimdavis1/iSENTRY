@@ -4,11 +4,11 @@
 
 This repo contains the up to date metadata cleanup work that has been done for the iSENTRY project using the data from PATRIC.
 
-The objective of this work is to build clean metadata fields that describe bacterial pathogens and non pathogens for use in machine learning and other algorithmic prediction projects. 
+The objective of this work is to build clean metadata fields that describe bacterial pathogens and non pathogens for use in machine learning and other algorithmic forms of prediction. 
 
-PATRIC contains genomes and metadata from GenBank and other sources, including the literature and data for genomes assembled from SRA.
+PATRIC contains genomes and metadata from GenBank and other sources, including the literature and data for genomes assembled from SRA. 
 
-Data that related to pathogenicity, and which might be most predictive for models include the following SOLR fields:
+The following SOLR fields  relate to pathogenicity, have the most data, and are likely to be most predictive:
 
 * host name
 * body sample site
@@ -18,10 +18,10 @@ Data that related to pathogenicity, and which might be most predictive for model
 * isolation site
 * isolation source
 
-The host name field at patric has received the most attention, and is also the most populated.  
+The host name field at patric has received the most curation, and is also the most populated.  
 The remaining fields vary in their quality and some are nearly free form text. 
 
-I have generated a program, *cleanup_PATRIC_metadata.pl* that reads a tab-delimited set of PATRIC fields in the following order:
+I have generated a program, `*cleanup_PATRIC_metadata.pl*` that reads a tab-delimited set of PATRIC fields in the following order:
 
 	0.  genome id
 	1.  sra accession
@@ -46,12 +46,17 @@ I have generated a program, *cleanup_PATRIC_metadata.pl* that reads a tab-delimi
  The code works in the following way:
 
     1. It reads the host ontology and cleans the host field
-    2. For genomes lacking a curated host, it reads the environment ontology,and applies the environment ontology for any field that maches in fileds 5-10.
+    2. For genomes lacking a curated host, it reads the environment ontology and applies the environment ontology for any field that matches in fileds 5-10.
     3. For genomes with a human host, it reads fields 5-10 and tries to apply the human body site ontology 
     4. For genomes with no classified environment or host it reads fields 5-10 and tries to find a human host filed or a human body site
- 
- 
- 
+
+
+The code returns three formatted files:
+
+    1.  Genomes with formatted hosts 
+    2.  Genomes with formatted environments
+    3.  Genomes with formatted human body sites
+
  
 
 
