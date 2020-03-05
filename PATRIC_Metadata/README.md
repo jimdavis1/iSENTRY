@@ -45,10 +45,10 @@ I have generated a program, *cleanup_PATRIC_metadata.pl* that reads a tab-delimi
  
  The code works in the following way:
 
-1. It reads the host ontology and cleans the host field
+`1. It reads the host ontology and cleans the host field
 2. For genomes lacking a curated host, it reads the environment ontology,and applies the environment ontology for any field that maches in fileds 5-10.
 3. For genomes with a human host, it reads fields 5-10 and tries to apply the human body site ontology 
-4. For genomes with no classified environment or host it reads fields 5-10 and tries to find a human host filed or a human body site
+4. For genomes with no classified environment or host it reads fields 5-10 and tries to find a human host filed or a human body site`
  
  
  
