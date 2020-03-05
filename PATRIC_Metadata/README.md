@@ -21,7 +21,7 @@ The following SOLR fields  relate to pathogenicity, have the most data, and are 
 The host name field at patric has received the most curation, and is also the most populated.  
 The remaining fields vary in their quality and some are nearly free form text. 
 
-I have generated a program, `*cleanup_PATRIC_metadata.pl*` that reads a tab-delimited set of PATRIC fields in the following order:
+I have generated a program, *`cleanup_PATRIC_metadata.pl`* that reads a tab-delimited set of PATRIC fields in the following order:
 
 	0.  genome id
 	1.  sra accession
