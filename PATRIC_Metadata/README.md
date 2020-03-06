@@ -101,5 +101,13 @@ Likewise, the body site ontology file is also a simple mapping between names in 
 |intestine|intestine|gastrointestinal tract||clinical|
 |intestine of patients with crohn's disease|intestine|gastrointestinal tract|chrons disease|clinical|
 
-These ontologies are obviously a work in progress.  They are intended to be as simple as possible and to yeild the most predictive power.  In this regard, the body site data still requires the most work  because the body sites are currently least predicitive and also not deliniated in a way that offers good predictive power. 
+These ontologies are obviously a work in progress.  They are intended to be as simple as possible and to yeild the most predictive power.  In this regard, the body site data still requires the most work because these models are still our weakest ones. 
+
+Overall out of the 321,355 genomes:
+    
+    114,622 genomes have a host
+    	90,164 are human
+    30,705 genomes have a classifiable environment
+    62,752 genomes have a body site
+
 
