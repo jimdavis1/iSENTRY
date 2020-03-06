@@ -67,27 +67,27 @@ The output files are formatted as ID, SRA ID, species, host, curated metadata
 
 The host ontology file is a simple mapping between commonly occuring host names to a standard host name, e.g.,
     
-| Common Name | Curated name |
+| PATRIC Name | Curated Name |
 | ----------- | -----------  |
-|  Chicken | Chicken, Gallus gallus
+|  ANIMAL-chicken | Chicken, Gallus gallus
+|  Chickens | Chicken, Gallus gallus
+|  Gallus gallus | Chicken, Gallus gallus
+|  Young Chicken | Chicken, Gallus gallus
+|  animal-chicken-young chicke | Chicken, Gallus gallus
+|  egg laying hen | Chicken, Gallus gallus
 
 
+The environment ontology file is a simple mapping between names in the database and environments of varying levels of specificity, e.g.,
 
-    
-    Young Chickens	Chicken, Gallus gallus
-ANIMAL-chicken	Chicken, Gallus gallus
-Chickens	Chicken, Gallus gallus
-Gallus gallus	Chicken, Gallus gallus
-Gallus gallus domesticus	Chicken, Gallus gallus
-Gallus gallus domesticus (chicken)	Chicken, Gallus gallus
-Young Chicken	Chicken, Gallus gallus
-animal-chicken-young chicken	Chicken, Gallus gallus
-chicken	Chicken, Gallus gallus
-egg laying hen	Chicken, Gallus gallus
-Animal-Chicken-Young Chicken	Chicken, Gallus gallus
-chicken	Chicken, Gallus gallus
-
-
+| PATRIC Name | Level 1     |Level 2     |Level 3       |Level 4 |
+| ----------- | ----------- | -----------| -----------  | -----------  |
+|Tap water|environmental|water|freshwater|drinking or tap water
+|household tap filter|environmental|water|freshwater|drinking or tap water
+|lake water|environmental|water|freshwater|freshwater pond or lake
+|freshwater lake|environmental|water|freshwater|freshwater pond or lake
+|Lake Lanier|environmental|water|freshwater|freshwater pond or lake
+|freshwater lake, 40-80 m depth|environmental|water|freshwater|freshwater pond or lake
+|Advanced Water Purification Facility|environmental|water|freshwater|water purification facility
 
 
 
