@@ -77,6 +77,7 @@ The host ontology file is a simple mapping between commonly occuring host names 
 |  egg laying hen | Chicken, Gallus gallus
 
 
+
 The environment ontology file is a simple mapping between names in the database and environments of varying levels of specificity, e.g.,
 
 | PATRIC Name | Level 1     |Level 2     |Level 3       |Level 4 |
@@ -90,7 +91,15 @@ The environment ontology file is a simple mapping between names in the database 
 |Advanced Water Purification Facility|environmental|water|freshwater|water purification facility
 
 
+Likewise, the body site ontology file is also a simple mapping between names in the database and body sites of varying levels of specificity.  It also provides disease and whether or not the sample is listed as a clinical specimen or from a healty person. 
 
+| PATRIC Name | Level 1     |Level 2     |Disease      |Clinical or Healthy|
+| ----------- | ----------- | -----------| -----------  | -----------  |
+|intestinal cancer|intestine|gastrointestinal tract|cancer|clinical|
+|intestinal metaplasia|intestine|gastrointestinal tract|intestinal metaplasia|clinical|
+|intestinal metaplasia|intestine|gastrointestinal tract|intestinal metaplasia|clinical|
+|intestine|intestine|gastrointestinal tract||clinical|
+|intestine of patients with crohn's disease|intestine|gastrointestinal tract|chrons disease|clinical|
 
-
+These ontologies are obviously a work in progress.  They are intended to be as simple as possible and to yeild the most predictive power.  In this regard, the body site data still requires the most work  because the body sites are currently least predicitive and also not deliniated in a way that offers good predictive power. 
 
