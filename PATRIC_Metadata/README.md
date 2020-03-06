@@ -105,8 +105,7 @@ These ontologies are obviously a work in progress.  They are intended to be as s
 
 Overall out of the 321,355 genomes:
     
-    114,622 genomes have a host
-    	90,164 are human
+    114,622 genomes have a host, 90,164 are human
     30,705 genomes have a classifiable environment
     62,752 genomes have a body site
 
