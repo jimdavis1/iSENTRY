@@ -109,4 +109,4 @@ Overall out of the 321,355 genomes:
     30,705 genomes have a classifiable environment
     62,752 genomes have a body site
 
-
+The Non-PATRIC-genomes directory contains the full list of host and environmental metadata from PATRIC and other sources.  It also contains the additonal curated body sites for genomes that are not integrated in PATRIC.
