@@ -1,0 +1,1 @@
+{'hospital environment': 3, 'water': 5, 'environmental': 0, 'food production': 2, 'feces': 1, 'sewage': 4}

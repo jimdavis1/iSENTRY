@@ -1,0 +1,21 @@
+                     precision    recall  f1-score   support
+
+              blood       0.66      0.73      0.70      6509
+cerebrospinal fluid       0.47      0.21      0.29      1480
+               lung       0.63      0.26      0.37       519
+              nasal       0.65      0.78      0.71      1067
+        nasopharynx       0.83      0.92      0.87      4822
+      penis,urethra       0.93      1.00      0.97        70
+         perirectum       0.78      0.78      0.78        79
+            pharynx       0.75      0.88      0.81        48
+             rectum       0.81      0.60      0.69       366
+               skin       0.78      0.78      0.78       459
+        soft tissue       0.51      0.57      0.54        75
+             sputum       0.72      0.66      0.69      1658
+             throat       0.69      0.54      0.61       335
+            trachea       0.52      0.35      0.42        88
+            urethra       1.00      0.96      0.98       138
+              urine       0.66      0.68      0.67      1893
+                          0.00      0.00      0.00         0
+
+        avg / total       0.70      0.71      0.70     19606

@@ -1,0 +1,16 @@
+	Chicken, Gallus gallus	Cow, Bos taurus	Dog, Canis lupus familiaris	European hare, Lepus europaeus	Horse, Equus caballus	Human, Homo sapiens	Jackdraw, Corvus monedula	Maize, Zea mays	Mouse, Mus musculus	Pig, Sus scrofa	Sheep, Ovis aries	Soybean	Tilapia, Oreochromis niloticus	Turkey, Meleagris gallopavo	
+Chicken, Gallus gallus	739	40	1	0	1	241	0	0	1	27	0	0	0	0	0
+Cow, Bos taurus	16	1649	0	0	3	316	0	0	0	73	0	0	0	1	0
+Dog, Canis lupus familiaris	11	19	40	0	0	70	0	0	0	4	0	0	0	0	0
+European hare, Lepus europaeus	0	0	0	99	0	10	0	0	0	0	0	0	0	0	0
+Horse, Equus caballus	1	18	0	0	128	18	0	0	0	5	0	0	0	0	0
+Human, Homo sapiens	234	487	6	16	13	23480	2	0	0	292	7	0	1	0	0
+Jackdraw, Corvus monedula	0	0	0	0	0	1	44	0	0	0	0	0	0	0	0
+Maize, Zea mays	0	0	0	0	0	1	0	173	0	0	0	26	0	0	0
+Mouse, Mus musculus	0	6	0	0	0	13	0	0	68	0	0	0	0	0	0
+Pig, Sus scrofa	23	77	0	0	1	207	0	0	0	1006	0	0	0	0	0
+Sheep, Ovis aries	0	21	0	0	0	23	0	0	0	4	56	0	0	0	0
+Soybean	0	0	0	0	0	1	0	26	0	0	0	148	0	0	0
+Tilapia, Oreochromis niloticus	0	0	0	0	0	1	0	0	0	0	0	0	37	0	0
+Turkey, Meleagris gallopavo	15	1	0	0	0	16	0	0	0	4	0	0	0	44	0
+	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1

@@ -1,0 +1,10 @@
+	bacteremia	bloodstream infection	cystic fibrosis	itra-abdominal tract infection	pneumonia	respiratory tract infection	urinary tract infection	wound	
+bacteremia	0	0	0	0	0	0	0	0	50
+bloodstream infection	0	0	0	0	0	0	0	0	61
+cystic fibrosis	0	0	0	0	0	0	0	0	123
+itra-abdominal tract infection	0	0	0	0	0	0	0	0	66
+pneumonia	0	0	0	0	0	0	0	0	77
+respiratory tract infection	0	0	0	0	0	0	0	0	63
+urinary tract infection	0	0	0	0	0	0	0	0	191
+wound	0	0	0	0	0	0	0	0	354
+	0	0	0	0	0	0	0	0	1

@@ -1,0 +1,13 @@
+                                precision    recall  f1-score   support
+
+                    bacteremia       0.00      0.00      0.00        50
+         bloodstream infection       0.00      0.00      0.00        61
+               cystic fibrosis       0.00      0.00      0.00       123
+itra-abdominal tract infection       0.00      0.00      0.00        66
+                     pneumonia       0.00      0.00      0.00        77
+   respiratory tract infection       0.00      0.00      0.00        63
+       urinary tract infection       0.00      0.00      0.00       191
+                         wound       0.00      0.00      0.00       354
+                                     0.00      0.00      0.00         0
+
+                   avg / total       0.00      0.00      0.00       985

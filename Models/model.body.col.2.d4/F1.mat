@@ -1,0 +1,4 @@
+Species	ALL	bacteremia	bloodstream infection	cystic fibrosis	itra-abdominal tract infection	pneumonia	respiratory tract infection	urinary tract infection	wound
+Acinetobacter baumannii	0.43757918030704496					0.0			1.0
+Escherichia coli	0.0	0.0	0.0					0.0	
+Pseudomonas aeruginosa	0.07224599725077334			0.0	0.0		0.0	0.0	1.0

@@ -1,0 +1,18 @@
+	blood	cerebrospinal fluid	lung	nasal	nasopharynx	penis,urethra	perirectum	pharynx	rectum	skin	soft tissue	sputum	throat	trachea	urethra	urine	
+blood	4775	329	31	117	581	0	0	0	16	20	0	175	3	10	0	452	0
+cerebrospinal fluid	906	308	0	0	252	0	0	14	0	0	0	0	0	0	0	0	0
+lung	165	2	135	19	39	0	2	0	0	1	0	67	0	5	0	84	0
+nasal	75	0	1	827	0	0	0	0	0	18	41	66	39	0	0	0	0
+nasopharynx	392	14	0	0	4414	0	0	0	0	0	0	2	0	0	0	0	0
+penis,urethra	0	0	0	0	0	70	0	0	0	0	0	0	0	0	0	0	0
+perirectum	4	0	0	0	0	0	62	0	0	0	0	13	0	0	0	0	0
+pharynx	3	3	0	0	0	0	0	42	0	0	0	0	0	0	0	0	0
+rectum	73	0	1	0	0	0	0	0	220	0	0	0	0	0	0	72	0
+skin	26	0	0	38	0	0	0	0	0	359	0	4	32	0	0	0	0
+soft tissue	0	0	0	32	0	0	0	0	0	0	43	0	0	0	0	0	0
+sputum	271	0	16	148	13	0	14	0	3	20	0	1099	4	10	0	60	0
+throat	5	0	1	87	0	0	0	0	0	42	0	19	181	0	0	0	0
+trachea	29	0	6	0	0	0	0	0	0	0	0	20	0	31	0	2	0
+urethra	0	0	0	0	0	5	0	0	0	0	0	0	0	0	133	0	0
+urine	477	0	24	0	0	0	1	0	33	0	0	56	2	4	0	1296	0
+	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1

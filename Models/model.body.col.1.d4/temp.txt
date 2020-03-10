@@ -1,0 +1,1 @@
+{'nasal, oral and pharynx': 4, 'skin, soft tissue': 7, 'sputum': 8, 'mucus': 3, 'rectal, perirectal, anal': 5, 'respiratory tract': 6, 'stool': 9, 'gastrointestinal tract': 2, 'urogenital tract': 10, 'wound': 11, 'circulatory system': 1, 'brain, spinal cord': 0}

@@ -1,0 +1,21 @@
+                                precision    recall  f1-score   support
+
+        Chicken, Gallus gallus       0.71      0.70      0.71      1050
+               Cow, Bos taurus       0.71      0.80      0.75      2058
+   Dog, Canis lupus familiaris       0.85      0.28      0.42       144
+European hare, Lepus europaeus       0.86      0.91      0.88       109
+         Horse, Equus caballus       0.88      0.75      0.81       170
+           Human, Homo sapiens       0.96      0.96      0.96     24538
+     Jackdraw, Corvus monedula       0.96      0.98      0.97        45
+               Maize, Zea mays       0.87      0.86      0.87       200
+           Mouse, Mus musculus       0.99      0.78      0.87        87
+               Pig, Sus scrofa       0.71      0.77      0.74      1314
+             Sheep, Ovis aries       0.89      0.54      0.67       104
+                       Soybean       0.85      0.85      0.85       175
+Tilapia, Oreochromis niloticus       0.97      0.97      0.97        38
+   Turkey, Meleagris gallopavo       0.98      0.55      0.70        80
+                                     0.00      0.00      0.00         0
+
+                     micro avg       0.92      0.92      0.92     30112
+                     macro avg       0.81      0.71      0.74     30112
+                  weighted avg       0.92      0.92      0.92     30112

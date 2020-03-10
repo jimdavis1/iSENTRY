@@ -1,0 +1,1 @@
+{'itra-abdominal tract infection': 3, 'bloodstream infection': 1, 'bacteremia': 0, 'urinary tract infection': 6, 'wound': 7, 'pneumonia': 4, 'cystic fibrosis': 2, 'respiratory tract infection': 5}

@@ -1,0 +1,17 @@
+                          precision    recall  f1-score   support
+
+      brain, spinal cord       0.46      0.26      0.33      1540
+      circulatory system       0.66      0.70      0.68      7229
+  gastrointestinal tract       0.91      0.80      0.85       815
+                   mucus       0.92      0.55      0.69        40
+ nasal, oral and pharynx       0.79      0.87      0.83      6567
+rectal, perirectal, anal       0.83      0.53      0.65       476
+       respiratory tract       0.55      0.43      0.48      1443
+       skin, soft tissue       0.73      0.77      0.75       542
+                  sputum       0.65      0.62      0.63      1480
+                   stool       0.87      0.89      0.88      3445
+        urogenital tract       0.54      0.65      0.59      2200
+                   wound       0.55      0.38      0.45       881
+                               0.00      0.00      0.00         0
+
+             avg / total       0.70      0.71      0.70     26658

@@ -1,0 +1,1 @@
+{'sputum': 11, 'cerebrospinal fluid': 1, 'pharynx': 7, 'soft tissue': 10, 'nasal': 3, 'trachea': 13, 'urine': 15, 'penis,urethra': 5, 'perirectum': 6, 'throat': 12, 'lung': 2, 'blood': 0, 'skin': 9, 'nasopharynx': 4, 'rectum': 8, 'urethra': 14}

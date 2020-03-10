@@ -1,0 +1,1 @@
+{'dairy product': 0, 'waste water': 5, 'soil': 3, 'swine feces': 4, 'water': 6, 'meat product': 1, 'sediment': 2}

@@ -1,0 +1,1 @@
+{'turkey': 8, 'pork': 6, 'beef': 0, 'permafrost soil': 5, 'seawater': 7, 'ocean sediment': 4, 'feral swine feces': 2, 'chicken': 1, 'freshwater': 3}
