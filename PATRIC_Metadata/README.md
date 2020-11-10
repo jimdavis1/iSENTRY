@@ -112,7 +112,8 @@ Overall out of the 321,355 genomes:
 The Non-PATRIC-genomes directory contains the full list of host and environmental metadata from PATRIC and other sources.  It also contains the additonal curated body sites for genomes that are not integrated in PATRIC.
 
 
-#11-2020 updates:
+# 11-2020 updates:
+
 I have updated the Host and Body site ontologies.  Nothing changed in Body site, except that I swapped the order of the fields so that the least specific field comes first.
 
 	cleanup_PATRIC_metadata.pl -hs Host-Ontology-11-20.txt -es Envt-Ontology-3-20.txt -bs Body-Site-Ontology-11-20.txt -oe Envt-11-20.txt -ob Body-11-20.txt -oh Host-11-20.txt <11-2020.meta
