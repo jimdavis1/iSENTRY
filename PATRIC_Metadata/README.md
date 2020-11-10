@@ -139,3 +139,4 @@ I have updated the Host and Body site ontologies.  Nothing changed in Body site,
 	Unclassified with data, but not human body site	12369
 	Unclassified, no data	33293
 
+I have also added a small script called `All_PATRIC_genomes.pl`.  It does a cleaner faster job of getting all PATRIC genome ids. 
