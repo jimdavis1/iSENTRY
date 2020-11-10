@@ -110,3 +110,31 @@ Overall out of the 321,355 genomes:
     62,752 genomes have a body site
 
 The Non-PATRIC-genomes directory contains the full list of host and environmental metadata from PATRIC and other sources.  It also contains the additonal curated body sites for genomes that are not integrated in PATRIC.
+
+
+#11-2020 updates:
+I have updated the Host and Body site ontologies.  Nothing changed in Body site, except that I swapped the order of the fields so that the least specific field comes first.
+
+	cleanup_PATRIC_metadata.pl -hs Host-Ontology-11-20.txt -es Envt-Ontology-3-20.txt -bs Body-Site-Ontology-11-20.txt -oe Envt-11-20.txt -ob Body-11-20.txt -oh Host-11-20.txt <11-2020.meta
+
+	Host Clasified: 102247
+	Host Unclassified	3152
+	No Host	68277
+
+
+	Envt Processed: 71429
+	Environment Clasified: 16779
+	Environment Unclassified	21357
+	No Environment	33293
+
+
+	Total Human Host: 85992
+	Body Site Processed from Human Host: 55580
+	Human Host, data with no body site classification	11686
+	No Body Site for human host	18726
+
+	Host reclaimed from genomes with no declared host field: 2157
+	Body Site reclaimed from genomes with no declared human host: 4661
+	Unclassified with data, but not human body site	12369
+	Unclassified, no data	33293
+
