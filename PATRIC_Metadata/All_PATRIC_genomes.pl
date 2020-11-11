@@ -72,7 +72,6 @@ if ($noplasmid)
 	print STDERR "Size = $size\n"; 
 }
 
-
 if ($uncult)
 {
 	print STDERR "No Uncultured\n"; 
@@ -102,7 +101,7 @@ if ($candid)
 	{
 		my @line = split /\t/; 
 		my $name = $line[1];
-		unless (($name =~ /candid/i)|| ($name =~ /^\[/) || ($name =~ /^[a-z]/) || ($name =~ /(^\")|(^\')/) || ($name =~ /(taxon)|(archaeon)|(bacterium)/))
+		unless (($name =~ /candid/i)|| ($name =~ /^\[/) || ($name =~ /^[a-z]/) || ($name =~ /(^\")|(^\')/) || ($name =~ /(taxon)|(archaeon)|(bacterium)|(group)/))
 		{ 
 			push @array1, $_;
 		}
@@ -116,7 +115,18 @@ if ($sp)
 	print STDERR "no sp. genomes\n"; 
 	@array = @array1;
 	@array1 = (); 
-	@array1 = grep {$_ !~ /sp\./i}@array;	
+	
+	foreach(@array)
+	{
+		my $entry = $_;
+		my @line = split /\t/;
+		my @name = split (" ", $line[1]);  
+		
+		unless ($name[1] =~ /sp\./)
+		{
+			push @array1, $entry;
+		}
+	}
 	my $size = scalar @array1;
 	print STDERR "Size = $size\n"; 
 }

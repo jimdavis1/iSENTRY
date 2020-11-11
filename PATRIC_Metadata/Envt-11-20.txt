@@ -307,6 +307,16 @@
 101571.97	SRR1955973	Burkholderia ubonensis	environmental	soil	
 101571.98	SRR1955979	Burkholderia ubonensis	environmental	water	
 101571.99	SRR1956000	Burkholderia ubonensis	environmental	soil	
+1029981.3		Salmonella enterica	food production	plant product	peanut butter	
+1030002.3	SRR955117	Salmonella enterica	environmental	
+1030003.3	SRR519466,SRR519467	Salmonella enterica	environmental	
+1030004.3	SRR955116	Salmonella enterica	environmental	
+1030005.3	SRR652939	Salmonella enterica	food production	meat product	turkey	
+1030006.3	SRR652934	Salmonella enterica	food production	meat product	chicken	
+1030007.3		Salmonella enterica	environmental	
+1037258.3	SRR955118	Salmonella enterica	environmental	
+1037259.3	SRR955119	Salmonella enterica	environmental	
+1037261.3	SRR955113	Salmonella enterica	environmental	
 1053167.3		Bacillus cereus	environmental	soil	
 1053168.3		Bacillus cereus	environmental	soil	
 1053169.3		Bacillus cereus	environmental	soil	
@@ -379,6 +389,20 @@
 1053247.3		Bacillus cereus	environmental	soil	
 1053248.3		Bacillus cereus	environmental	soil	
 1053250.3		Bacillus cereus	environmental	soil	
+1054948.3	SRR955137	Salmonella enterica	environmental	
+1054949.3	SRR955115	Salmonella enterica	environmental	
+1054955.3	SRR955134	Salmonella enterica	environmental	
+1054956.3	SRR955135	Salmonella enterica	environmental	
+1054957.4	SRR652932	Salmonella enterica	food production	meat product	chicken	
+1054958.4	SRR519470,SRR652925	Salmonella enterica	food production	meat product	turkey	
+1054959.4	SRR519756,SRR652926	Salmonella enterica	food production	meat product	chicken	
+1054960.4	SRR652941	Salmonella enterica	food production	meat product	chicken	
+1054961.3	SRR955136	Salmonella enterica	environmental	
+1054962.3	SRR955114	Salmonella enterica	environmental	
+1054963.4	SRR652940	Salmonella enterica	food production	meat product	chicken	
+1054964.3	SRR955138	Salmonella enterica	environmental	
+1054965.4	SRR652942	Salmonella enterica	food production	meat product	chicken	
+1054966.4	SRR652944	Salmonella enterica	food production	meat product	chicken	
 106654.157		Acinetobacter nosocomialis	environmental	
 106654.158		Acinetobacter nosocomialis	environmental	
 106654.159		Acinetobacter nosocomialis	environmental	
@@ -414,10 +438,66 @@
 106654.93		Acinetobacter nosocomialis	industrial	metal	metal	
 106654.94		Acinetobacter nosocomialis	industrial	metal	metal	
 106654.95		Acinetobacter nosocomialis	industrial	metal	metal	
+1072596.3		Salmonella enterica	environmental	
+1072597.3	SRR3185133	Salmonella enterica	environmental	
+1072598.3	SRR3185132	Salmonella enterica	environmental	
+1072599.3		Salmonella enterica	environmental	
+1072600.3		Salmonella enterica	environmental	
+1072601.3		Salmonella enterica	environmental	
+1072602.3	SRR3185131	Salmonella enterica	environmental	
+1079468.3		Salmonella enterica	food production	plant product	peanut butter	
+1079901.3	SRR3665082	Salmonella enterica	food production	meat product	pork	
+1079901.4		Salmonella enterica	food production	meat product	pork	
 1085379.3		Bacillus cereus	environmental	soil	
 1085386.3		Bacillus cereus	environmental	soil	
 1085388.3		Bacillus cereus	environmental	soil	
 1085389.3		Bacillus cereus	environmental	soil	
+108619.104		Salmonella enterica	environmental	soil	
+108619.106		Salmonella enterica	environmental	water	
+108619.107		Salmonella enterica	environmental	water	
+108619.108		Salmonella enterica	environmental	water	
+108619.110		Salmonella enterica	environmental	soil	
+108619.111		Salmonella enterica	environmental	soil	
+108619.114		Salmonella enterica	environmental	water	
+108619.115		Salmonella enterica	environmental	water	
+108619.116		Salmonella enterica	environmental	water	
+108619.117		Salmonella enterica	environmental	soil	
+108619.118		Salmonella enterica	environmental	soil	
+108619.123		Salmonella enterica	environmental	
+108619.124		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+108619.125		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+108619.126		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+108619.127		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+108619.128		Salmonella enterica	environmental	
+108619.129		Salmonella enterica	environmental	
+108619.130		Salmonella enterica	environmental	
+108619.17	SRR2567031	Salmonella enterica	food production	meat product	chicken	
+108619.18	SRR2567121	Salmonella enterica	food production	meat product	chicken	
+108619.19	SRR3664650	Salmonella enterica	food production	meat product	turkey	
+108619.191		Salmonella enterica	environmental	water	
+108619.192		Salmonella enterica	environmental	water	
+108619.193		Salmonella enterica	environmental	water	
+108619.197		Salmonella enterica	environmental	water	
+108619.198		Salmonella enterica	environmental	water	
+108619.20	SRR3664909	Salmonella enterica	food production	meat product	turkey	
+108619.211		Salmonella enterica	environmental	water	
+108619.212		Salmonella enterica	environmental	water	
+108619.238		Salmonella enterica	food production	dairy product	cheese	
+108619.239		Salmonella enterica	food production	meat product	chicken	
+108619.240		Salmonella enterica	food production	meat product	chicken	
+108619.241		Salmonella enterica	food production	meat product	chicken	
+108619.242		Salmonella enterica	food production	meat product	chicken	
+108619.251		Salmonella enterica	sewage	waste water	
+108619.28	SRR4012936	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+108619.29	SRR4012935	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+108619.30	SRR4012938	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+108619.32	SRR4012939	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+108619.33	SRR4012940	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+108619.52		Salmonella enterica	food production	meat product	turkey	
+108619.53		Salmonella enterica	food production	meat product	beef	
+108619.75		Salmonella enterica	environmental	water	
+108619.77		Salmonella enterica	food production	
+108619.78		Salmonella enterica	food production	meat product	beef	
 1095640.3	SRR491178	Vibrio cholerae	environmental	water	
 1095641.3	SRR491176	Vibrio cholerae	environmental	water	
 1095646.3	SRR491132	Vibrio cholerae	environmental	water	
@@ -431,6 +511,30 @@
 1095654.3	SRR491154	Vibrio cholerae	environmental	water	
 1122618.5	SRR3948004	Oenococcus oeni	food production	alcohol product	wine	
 1124479.7		Vibrio cholerae	environmental	water	
+1124937.3	SRR652922	Salmonella enterica	food production	meat product	turkey	
+1124938.4	SRR652933	Salmonella enterica	food production	meat product	turkey	
+1124939.4	SRR652936	Salmonella enterica	food production	meat product	turkey	
+1124940.4	SRR652928	Salmonella enterica	food production	meat product	turkey	
+1124942.3	SRR652918	Salmonella enterica	food production	meat product	turkey	
+1124943.4	SRR652913	Salmonella enterica	food production	meat product	turkey	
+1124944.5	SRR652935	Salmonella enterica	food production	meat product	turkey	
+1124950.3	SRR955264	Salmonella enterica	food production	meat product	chicken	
+1124951.3	SRR955265	Salmonella enterica	food production	meat product	chicken	
+1124952.3	SRR955266	Salmonella enterica	food production	meat product	chicken	
+1124953.3	SRR955267	Salmonella enterica	food production	meat product	chicken	
+1124954.3	SRR955268	Salmonella enterica	food production	meat product	chicken	
+1128955.5	SRR652908	Salmonella enterica	food production	meat product	turkey	
+1128956.4	SRR652943	Salmonella enterica	food production	meat product	turkey	
+1128957.4	SRR652927	Salmonella enterica	food production	meat product	turkey	
+1128958.4	SRR652919	Salmonella enterica	food production	meat product	turkey	
+1128962.4	SRR652937	Salmonella enterica	food production	meat product	turkey	
+1128963.3	SRR652917	Salmonella enterica	food production	meat product	turkey	
+1128964.5	SRR652938	Salmonella enterica	food production	meat product	turkey	
+1128965.4	SRR652915	Salmonella enterica	food production	meat product	turkey	
+1128966.4	SRR652914	Salmonella enterica	food production	meat product	turkey	
+1128967.4	SRR652929,SRR656818,SRR656819	Salmonella enterica	food production	meat product	turkey	
+1128968.4	SRR652930,SRR656743,SRR656744,SRR656748	Salmonella enterica	food production	meat product	turkey	
+1128969.4	SRR652931,SRR656741,SRR656742	Salmonella enterica	food production	meat product	turkey	
 1131734.3		Bacillus licheniformis	environmental	soil	agricultural soil	
 1134669.3		Listeria monocytogenes	environmental	
 1136873.11		Bacillus subtilis	environmental	
@@ -439,21 +543,73 @@
 1138909.3	SRR530365,SRR639459	Enterococcus faecium	environmental	water	freshwater	river or stream	
 1138910.3	SRR530358,SRR639788	Enterococcus faecium	environmental	water	freshwater	river or stream	
 1147787.3		Pseudomonas aeruginosa	environmental	water	
+1151166.3		Salmonella enterica	environmental	water	
+1151181.3		Salmonella enterica	food production	
 1158646.3	SRR534017,SRR534018,SRR630846,SRR641748	Enterococcus faecium	feces	
 1158648.3	SRR534022,SRR534025,SRR641775,SRR641780	Enterococcus faecium	feces	
 1158650.3	SRR534021,SRR534028,SRR630840,SRR640916	Enterococcus faecium	feces	
 1158652.3	SRR534023,SRR534026,SRR631001,SRR641760	Enterococcus faecium	feces	
+115981.100		Salmonella enterica	sewage	waste water	
+115981.101		Salmonella enterica	sewage	waste water	
+115981.102		Salmonella enterica	sewage	waste water	
+115981.15	SRR2566949	Salmonella enterica	food production	meat product	beef	
+115981.16	SRR2567089	Salmonella enterica	food production	meat product	beef	
+115981.17	SRR2567095	Salmonella enterica	food production	meat product	beef	
+115981.18	SRR2567181	Salmonella enterica	food production	meat product	chicken	
+115981.19	SRR2567114	Salmonella enterica	food production	meat product	beef	
+115981.22	SRR3665078	Salmonella enterica	food production	meat product	turkey	
+115981.23	SRR3664878	Salmonella enterica	food production	meat product	turkey	
+1160769.10		Salmonella enterica	food production	meat product	turkey	
+1160769.3	SRR2566953	Salmonella enterica	food production	meat product	chicken	
+1160769.4	SRR2566967	Salmonella enterica	food production	meat product	chicken	
+1160769.5	SRR2567016	Salmonella enterica	food production	meat product	chicken	
+1160769.6	SRR2567197	Salmonella enterica	food production	meat product	turkey	
+1160769.7	SRR3665227	Salmonella enterica	food production	meat product	pork	
+1160769.8	SRR3664733	Salmonella enterica	food production	meat product	turkey	
 1163392.3		Pseudomonas aeruginosa	environmental	soil	
+1163747.3	SRR955109	Salmonella enterica	environmental	
 1169297.3	SRR638039,SRR638572,SRR638596,SRR638664	Enterococcus faecalis	food production	dairy product	milk	
 1169311.3	SRR639857,SRR640904,SRR647145,SRR652275	Enterococcus faecalis	food production	dairy product	milk	
 1169411.3		Bacillus licheniformis	environmental	soil	
 1169412.3		Bacillus licheniformis	environmental	soil	
 1169413.3		Pseudomonas aeruginosa	environmental	soil	
+1173468.3	SRR3242168,SRR498389	Salmonella enterica	environmental	water	freshwater	irrigation or canal	
+1173471.3	SRR498391	Salmonella enterica	environmental	
+1173472.3	SRR497733	Salmonella enterica	environmental	
+1173779.10	SRR4012854	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+1173779.11	SRR4012875	Salmonella enterica	environmental	water	freshwater	river or stream	
+1173779.13		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+1173779.3	SRR4012690	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+1173779.4	SRR4012837	Salmonella enterica	environmental	water	freshwater	river or stream	
+1173779.5	SRR4012853	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+1173779.6	SRR4012858	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+1173779.7	SRR4012877	Salmonella enterica	environmental	water	freshwater	river or stream	
+1173779.8	SRR4012886	Salmonella enterica	environmental	water	freshwater	river or stream	
+1173779.9	SRR4012904	Salmonella enterica	environmental	water	freshwater	river or stream	
 1173954.3	SRR1266638,SRR1422879	Vibrio parahaemolyticus	environmental	
+117541.3	SRR2566930	Salmonella enterica	food production	meat product	pork	
+117541.4	SRR3665042	Salmonella enterica	food production	meat product	pork	
+1177153.3		Klebsiella pneumoniae	environmental	soil	
 1182783.3		Xanthomonas campestris	environmental	soil	
+1192585.4		Salmonella enterica	feces	
+1192589.4		Salmonella enterica	feces	
+1192775.3		Salmonella enterica	food production	meat product	turkey	
+1192775.4		Salmonella enterica	food production	meat product	turkey	
+1192775.5		Salmonella enterica	food production	meat product	turkey	
+1192783.3		Salmonella enterica	environmental	water	
+1192839.10		Salmonella enterica	food production	meat product	turkey	
+1192839.11		Salmonella enterica	food production	meat product	turkey	
+1192839.3	SRR3664648	Salmonella enterica	food production	meat product	turkey	
+1192839.4	SRR3665016	Salmonella enterica	food production	meat product	turkey	
+1192839.5	SRR3665157	Salmonella enterica	food production	meat product	turkey	
+1192839.7		Salmonella enterica	food production	meat product	chicken	
+1192839.8		Salmonella enterica	food production	meat product	turkey	
+1192839.9		Salmonella enterica	food production	meat product	turkey	
 1193146.3		Pseudomonas putida	sewage	waste water	
 1193499.3		Pseudomonas putida	environmental	soil	
 1193501.3		Pseudomonas aeruginosa	environmental	soil	
+1194150.3	SRR957996,SRR957997	Salmonella enterica	food production	dairy product	milk	
+119602.196		Streptococcus dysgalactiae	hospital environment	hospital bedding	
 1196168.3		Listeria monocytogenes	food production	dairy product	cheese	
 1196170.3		Listeria monocytogenes	food production	dairy product	cheese	
 1196173.3		Listeria monocytogenes	food production	dairy product	cheese	
@@ -462,9 +618,11 @@
 1196187.3		Listeria monocytogenes	food production	meat product	meat	
 1196188.3		Listeria monocytogenes	food production	meat product	meat	
 1196192.3		Listeria monocytogenes	food production	
+119857.29	SRR2895618,SRR2895620,SRR2895621	Francisella tularensis	environmental	water	
 1201039.3		Bacillus subtilis	environmental	water	freshwater	river or stream	
 1206774.3		Oenococcus oeni	food production	alcohol product	wine	
 1206775.3		Oenococcus oeni	food production	alcohol product	wine	
+1208611.3	SRR957989	Salmonella enterica	environmental	water	freshwater	river or stream	
 1211113.3		Pseudomonas aeruginosa	environmental	soil	
 1215087.3		Pseudomonas putida	environmental	soil	
 1215087.7		Pseudomonas putida	environmental	soil	
@@ -493,6 +651,9 @@
 1238222.3	SRR748546	Vibrio parahaemolyticus	environmental	water	
 1238223.3	SRR768478	Vibrio parahaemolyticus	environmental	water	
 1238224.3		Vibrio parahaemolyticus	environmental	water	
+1242090.3		Salmonella enterica	sewage	
+1242097.3	SRR1976209,SRR2125442,SRR2125443	Salmonella enterica	food production	meat product	meat	
+1242100.3	SRR1976222,SRR2125444	Salmonella enterica	feces	
 1247.145		Oenococcus oeni	food production	alcohol product	wine	
 1247.427	SRR3114812	Oenococcus oeni	food production	alcohol product	wine	
 1247.428	SRR3114811	Oenococcus oeni	food production	alcohol product	wine	
@@ -624,6 +785,7 @@
 1247.697		Oenococcus oeni	food production	alcohol product	wine	
 1247.698		Oenococcus oeni	food production	alcohol product	wine	
 1247727.4		Campylobacter coli	environmental	
+1248404.4		Campylobacter jejuni	environmental	
 1248431.3		Bacillus anthracis	environmental	soil	
 1248436.3		Bacillus anthracis	environmental	soil	
 1249476.3	SRR1609217,SRR1609218,SRR1609219	Burkholderia pseudomallei	environmental	soil	
@@ -740,10 +902,39 @@
 1254.63		Pediococcus acidilactici	food production	
 1254.64		Pediococcus acidilactici	food production	
 1254.65		Pediococcus acidilactici	food production	
+1256198.3		Lactobacillus paracasei	food production	dairy product	
+1256199.3		Lactobacillus paracasei	food production	dairy product	
+1256201.3		Lactobacillus paracasei	food production	dairy product	
+1256202.3		Lactobacillus paracasei	food production	dairy product	
+1256204.3		Lactobacillus paracasei	food production	dairy product	
+1256206.3		Lactobacillus paracasei	food production	dairy product	
+1256207.3		Lactobacillus paracasei	food production	dairy product	
+1256211.3		Lactobacillus paracasei	food production	dairy product	
+1256212.3		Lactobacillus paracasei	food production	dairy product	
+1256215.3		Lactobacillus paracasei	food production	dairy product	
+1256216.3		Lactobacillus paracasei	food production	dairy product	
+1256217.3		Lactobacillus paracasei	food production	dairy product	
+1256218.3		Lactobacillus paracasei	food production	dairy product	
+1256220.3		Lactobacillus paracasei	food production	dairy product	
+1256223.3		Lactobacillus paracasei	food production	dairy product	
+1256226.3		Lactobacillus paracasei	food production	dairy product	
 1259823.3		Enterobacter hormaechei	feces	
 1260282.3		Enterobacter hormaechei	feces	
 1263863.3		Vibrio cholerae	environmental	water	
+1265623.3		Salmonella enterica	sewage	waste water	
+1265624.3		Salmonella enterica	sewage	waste water	
+1265625.3		Salmonella enterica	sewage	waste water	
+1265628.3		Salmonella enterica	sewage	waste water	
+1265634.3		Salmonella enterica	food production	
+1265635.3		Salmonella enterica	environmental	
+1265648.3		Salmonella enterica	sewage	waste water	
+1265652.3		Salmonella enterica	sewage	waste water	
+1265653.3		Salmonella enterica	sewage	waste water	
+1265654.3		Salmonella enterica	sewage	waste water	
+1265662.3		Salmonella enterica	sewage	waste water	
+1265670.3		Salmonella enterica	sewage	waste water	
 1267547.3	SRR767787	Bacillus subtilis	environmental	soil	meadow soil	
+1271862.5	SRR921435,SRR926370,SRR926371,SRR926372	Salmonella enterica	food production	meat product	chicken	
 127906.24		Vibrio cholerae	environmental	water	freshwater	freshwater pond or lake	
 127906.25		Vibrio cholerae	environmental	water	freshwater	freshwater pond or lake	
 127906.26		Vibrio cholerae	environmental	water	freshwater	freshwater pond or lake	
@@ -1112,6 +1303,17 @@
 1290.230		Staphylococcus hominis	environmental	
 1290.90		Staphylococcus hominis	food production	dairy product	kefir	
 1293288.3		Listeria monocytogenes	feces	
+1299085.3		Salmonella enterica	food production	
+1299165.3		Salmonella enterica	environmental	
+1299166.3		Salmonella enterica	environmental	
+1299167.3		Salmonella enterica	environmental	
+1299169.3		Salmonella enterica	environmental	
+1299170.3		Salmonella enterica	environmental	
+1299171.3		Salmonella enterica	environmental	
+1299172.3		Salmonella enterica	environmental	
+1299173.3		Salmonella enterica	environmental	
+1299174.3		Salmonella enterica	environmental	
+1299175.3		Salmonella enterica	environmental	
 1304.1285		Streptococcus salivarius	environmental	
 1307.1643		Streptococcus suis	industrial	metal or plastic	metal or plastic	
 1307.1645		Streptococcus suis	environmental	plant matter	wood	
@@ -1139,12 +1341,17 @@
 1314.715		Streptococcus pyogenes	hospital environment	hospital sink	
 1315314.5		Vibrio cholerae	sewage	
 132264.5		Bacillus thuringiensis	environmental	soil	
+1323580.3		Salmonella enterica	environmental	water	freshwater	river or stream	
+1324335.3		Salmonella enterica	food production	
+1324342.3		Salmonella enterica	environmental	water	
 1324966.3		Bacillus thuringiensis	environmental	soil	
 1328309.5		Lactobacillus plantarum	food production	dough	sourdough	
 1328869.3		Enterococcus faecium	food production	dairy product	cheese	
 1330527.3		Escherichia coli	food production	meat product	beef	
 1333855.3		Pseudomonas aeruginosa	environmental	water	
 1335618.3		Oenococcus oeni	food production	alcohol product	wine	
+134047.3	SRR2566886	Salmonella enterica	food production	meat product	pork	
+134047.4	SRR3665012	Salmonella enterica	food production	meat product	turkey	
 1340854.3	SRR921310	Enterobacter cloacae	environmental	water	
 1343738.3	SRR1270040,SRR1270116	Vibrio cholerae	environmental	water	freshwater	river or stream	
 1348578.3	SRR1103703	Bacillus licheniformis	environmental	soil	
@@ -1887,12 +2094,54 @@
 1354.343		Enterococcus hirae	environmental	water	freshwater	river or stream	
 1354.348		Enterococcus hirae	environmental	water	freshwater	river or stream	
 1354.46		Enterococcus hirae	environmental	plant matter	wood	
+135461.10		Bacillus subtilis	food production	
+135461.131		Bacillus subtilis	environmental	
+135461.132		Bacillus subtilis	environmental	
+135461.146		Bacillus subtilis	environmental	sediment	ocean sediment	
+135461.22		Bacillus subtilis	environmental	soil	
+135461.47		Bacillus subtilis	food production	
+135461.48		Bacillus subtilis	food production	
+135461.49		Bacillus subtilis	food production	
+135461.50		Bacillus subtilis	food production	
+135461.51		Bacillus subtilis	food production	
+135461.61		Bacillus subtilis	food production	
+135461.62		Bacillus subtilis	environmental	soil	
+135461.63		Bacillus subtilis	environmental	soil	
+135461.64		Bacillus subtilis	environmental	sediment	ocean sediment	
+135461.69		Bacillus subtilis	environmental	soil	
 1357270.3		Pseudomonas syringae	environmental	water	freshwater	river or stream	
 1357277.3		Pseudomonas syringae	environmental	water	freshwater	freshwater pond or lake	
 1357278.4		Pseudomonas syringae	environmental	water	freshwater	freshwater pond or lake	
 1357287.3		Pseudomonas syringae	environmental	water	freshwater	freshwater pond or lake	
 1357288.3		Pseudomonas syringae	environmental	water	freshwater	river or stream	
 1357289.4		Pseudomonas syringae	environmental	water	freshwater	river or stream	
+1358.140		Lactococcus lactis	food production	dairy product	kefir	
+1358.141		Lactococcus lactis	food production	dairy product	kefir	
+1358.142		Lactococcus lactis	food production	dairy product	kefir	
+1358.143		Lactococcus lactis	industrial	metal	metal	
+1358.176		Lactococcus lactis	industrial	metal	metal	
+1358.177		Lactococcus lactis	environmental	plant matter	wood	
+1358.178		Lactococcus lactis	industrial	metal or plastic	metal or plastic	
+1358.179		Lactococcus lactis	industrial	metal	metal	
+1358.180		Lactococcus lactis	industrial	metal	metal	
+1358.181		Lactococcus lactis	industrial	metal or plastic	metal or plastic	
+1358.182		Lactococcus lactis	industrial	metal or plastic	metal or plastic	
+1358.183		Lactococcus lactis	environmental	plant matter	wood	
+1358.184		Lactococcus lactis	food production	dairy product	kefir	
+1358.66		Lactococcus lactis	food production	dairy product	cheese	
+1358.769		Lactococcus lactis	food production	
+1358.812		Lactococcus lactis	food production	dairy product	milk	
+1358.813		Lactococcus lactis	food production	dairy product	cheese	
+1358.814		Lactococcus lactis	food production	dairy product	cheese	
+1358.815		Lactococcus lactis	food production	dairy product	cheese	
+1358.820		Lactococcus lactis	food production	plant product	kimchi	
+1358.931		Lactococcus lactis	food production	dairy product	cheese	
+1359.118		Lactococcus lactis	food production	dairy product	cheese	
+1359.239		Lactococcus lactis	food production	dairy product	milk	
+1359.240		Lactococcus lactis	food production	dairy product	milk	
+1360.114		Lactococcus lactis	environmental	soil	
+1360.261		Lactococcus lactis	food production	dairy product	cheese	
+1360.90		Lactococcus lactis	food production	dairy product	cheese	
 1365186.3		Klebsiella pneumoniae	environmental	
 1366051.3		Bacillus amyloliquefaciens	environmental	soil	
 1383063.3		Legionella pneumophila	environmental	water	
@@ -1945,6 +2194,24 @@
 1392.698	SRR5811163	Bacillus anthracis	environmental	
 1392.699	SRR5811217	Bacillus anthracis	environmental	
 1392.94	SRR2155551,SRR2155552,SRR2164197	Bacillus anthracis	environmental	soil	
+1395104.3		Salmonella enterica	food production	meat product	turkey	
+1395105.3		Salmonella enterica	food production	meat product	turkey	
+1395106.3		Salmonella enterica	food production	meat product	turkey	
+1395107.3		Salmonella enterica	food production	meat product	turkey	
+1395108.3		Salmonella enterica	food production	meat product	turkey	
+1395109.3		Salmonella enterica	food production	meat product	turkey	
+1395110.3		Salmonella enterica	food production	meat product	turkey	
+1395111.3		Salmonella enterica	food production	meat product	turkey	
+1395112.3		Salmonella enterica	food production	meat product	turkey	
+1395113.3		Salmonella enterica	food production	meat product	turkey	
+1395114.3		Salmonella enterica	food production	meat product	turkey	
+1395115.3		Salmonella enterica	food production	meat product	turkey	
+1395116.3		Salmonella enterica	food production	meat product	turkey	
+1395117.3		Salmonella enterica	food production	meat product	turkey	
+1395118.3		Salmonella enterica	food production	meat product	turkey	
+1395119.3		Salmonella enterica	food production	meat product	turkey	
+1395120.3		Salmonella enterica	food production	meat product	chicken	
+1395121.3		Salmonella enterica	food production	meat product	turkey	
 1396.1128		Bacillus cereus	environmental	
 1396.1312		Bacillus cereus	food production	meat product	pork	
 1396.1314		Bacillus cereus	industrial	metal	metal	
@@ -2159,12 +2426,17 @@
 1396.724		Bacillus cereus	food production	dairy product	milk	
 1396.727		Bacillus cereus	food production	dairy product	milk	
 1396.741		Bacillus cereus	environmental	water	saline lake	
+1399783.3		Salmonella enterica	food production	meat product	beef	
+1399787.3		Salmonella enterica	food production	meat product	turkey	
+1399788.3		Salmonella enterica	food production	meat product	pork	
+1400811.3		Salmonella enterica	food production	meat product	chicken	
 1400815.3		Listeria monocytogenes	food production	meat product	pork	
 1400816.3		Listeria monocytogenes	food production	meat product	beef	
 1400822.3		Enterococcus faecium	food production	
 1400823.3		Enterococcus faecium	food production	
 1400824.3		Enterococcus faecium	food production	
 1400825.3		Enterococcus faecium	food production	
+140099.3		Salmonella enterica	food production	
 1401659.3		Cronobacter sakazakii	food production	dairy product	milk	
 1402.140		Bacillus licheniformis	food production	
 1402.141		Bacillus licheniformis	food production	
@@ -2296,17 +2568,90 @@
 1408264.3		Burkholderia pseudomallei	environmental	water	
 1410521.3		Pseudomonas putida	environmental	soil	
 1410655.3		Enterococcus faecalis	feces	
+1410937.3		Salmonella enterica	environmental	water	
+1412477.3	SRR1183774	Salmonella enterica	food production	
+1412479.3	SRR1183776	Salmonella enterica	food production	
+1412483.3	SRR1183780	Salmonella enterica	food production	
+1412484.3	SRR1183781	Salmonella enterica	food production	
+1412509.3	SRR1183806	Salmonella enterica	food production	
+1412511.3	SRR1183808	Salmonella enterica	food production	
+1412515.3	SRR1183812	Salmonella enterica	food production	
+1412516.3	SRR1183813	Salmonella enterica	food production	
+1412519.3	SRR1183816	Salmonella enterica	food production	
+1412520.3	SRR1183817	Salmonella enterica	food production	
+1412521.3	SRR1183818	Salmonella enterica	food production	
+1412522.3	SRR1183819	Salmonella enterica	food production	
+1412523.3	SRR1183820	Salmonella enterica	food production	
+1412524.3	SRR1183821	Salmonella enterica	food production	
+1412525.3	SRR1183822	Salmonella enterica	food production	
+1412526.3	SRR1183823	Salmonella enterica	food production	
+1412527.3	SRR1183824	Salmonella enterica	food production	
+1412528.3	SRR1183825	Salmonella enterica	food production	
+1412529.3	SRR1183826	Salmonella enterica	food production	
+1412530.3	SRR1183827	Salmonella enterica	food production	
+1412531.3	SRR1183828	Salmonella enterica	food production	
+1412532.3	SRR1183829	Salmonella enterica	food production	
+1412533.3	SRR1183830	Salmonella enterica	food production	
+1412536.3	SRR1183833	Salmonella enterica	food production	
+1412537.3	SRR1183834	Salmonella enterica	food production	
+1412540.3	SRR1183837	Salmonella enterica	food production	
+1412541.3	SRR1183838	Salmonella enterica	food production	
+1412542.3	SRR1183839	Salmonella enterica	food production	
+1412543.3	SRR1183840	Salmonella enterica	food production	
+1412544.3	SRR1183841	Salmonella enterica	food production	
+1412545.3	SRR1183842	Salmonella enterica	food production	
+1412546.3	SRR1183843	Salmonella enterica	food production	
+1412547.3	SRR1183844	Salmonella enterica	food production	
+1412548.3	SRR1183845	Salmonella enterica	food production	
+1412550.3	SRR1183847	Salmonella enterica	food production	
+1412551.3	SRR1183848	Salmonella enterica	food production	
+1412552.3	SRR1183849	Salmonella enterica	food production	
+1412554.3	SRR1183851	Salmonella enterica	food production	
+1412556.3	SRR1183853	Salmonella enterica	food production	
+1412557.3	SRR1183854	Salmonella enterica	food production	
+1412558.3	SRR1183855	Salmonella enterica	food production	
+1412560.3	SRR1183857	Salmonella enterica	food production	
+1412561.3	SRR1183858	Salmonella enterica	food production	
+1412563.3	SRR1183860	Salmonella enterica	food production	
+1412565.3	SRR1183862	Salmonella enterica	food production	
+1412568.3	SRR1183865	Salmonella enterica	food production	
+1412569.3	SRR1183866	Salmonella enterica	food production	
+1412571.3	SRR1183868	Salmonella enterica	food production	
+1412573.3	SRR1183870	Salmonella enterica	food production	
+1412574.3	SRR1183871	Salmonella enterica	food production	
+1412575.3	SRR1183872	Salmonella enterica	food production	
+1412576.3	SRR1183873	Salmonella enterica	food production	
+1412577.3	SRR1183874	Salmonella enterica	food production	
+1412578.3	SRR1183875	Salmonella enterica	food production	
+1412579.3	SRR1183876	Salmonella enterica	food production	
+1412580.3	SRR1183877	Salmonella enterica	food production	
+1412581.3	SRR1183878	Salmonella enterica	food production	
+1412582.3	SRR1183879	Salmonella enterica	food production	
+1412583.3	SRR1183880	Salmonella enterica	food production	
+1412586.3	SRR1183883	Salmonella enterica	food production	
+1412587.3	SRR1183884	Salmonella enterica	food production	
+1412593.3	SRR1183890	Salmonella enterica	food production	
+1412594.3	SRR1183891	Salmonella enterica	food production	
+1412600.3	SRR1183897	Salmonella enterica	food production	
+1412609.3	SRR1183906	Salmonella enterica	food production	
+1412610.3	SRR1183907	Salmonella enterica	food production	
+1412611.3	SRR1183908	Salmonella enterica	food production	
+1412612.3	SRR1183909	Salmonella enterica	food production	
+1412616.3	SRR1183913	Salmonella enterica	food production	
+1412619.3	SRR1183916	Salmonella enterica	food production	
 1412842.4		Bacillus anthracis	environmental	soil	
 1412843.4		Bacillus anthracis	environmental	soil	
 1412898.4		Bacillus amyloliquefaciens	environmental	soil	
 1413458.3	SRR1303418	Staphylococcus aureus	food production	
 1413459.3	SRR1303239	Staphylococcus aureus	food production	
+1415168.3		Lactococcus lactis	food production	dairy product	cheese	
 1415774.5		Clostridium botulinum	environmental	sediment	ocean sediment	
 1415784.4		Bacillus toyonensis	environmental	soil	
 1416675.3		Escherichia coli	food production	meat product	chicken	
 1416676.6		Escherichia coli	food production	meat product	chicken	
 1416676.7		Escherichia coli	food production	meat product	chicken	
 1417987.3		Listeria monocytogenes	food production	
+1418107.3		Aeromonas hydrophila	environmental	soil	
 1423.1019		Bacillus subtilis	environmental	soil	
 1423.1054		Bacillus subtilis	feces	
 1423.1068		Bacillus subtilis	sewage	waste water	
@@ -2395,6 +2740,7 @@
 1423.939		Bacillus subtilis	food production	plant product	kimchi	
 1423.940		Bacillus subtilis	food production	plant product	kimchi	
 1423139.4	SRR1043577	Bacillus thuringiensis	environmental	sediment	estuary sediment	
+1423830.3	SRR1151129	Lactobacillus paracasei	food production	dairy product	milk	
 1428.1000		Bacillus thuringiensis	environmental	soil	
 1428.1001		Bacillus thuringiensis	environmental	soil	
 1428.1033		Bacillus thuringiensis	environmental	soil	
@@ -2524,6 +2870,34 @@
 1430.33		Bacillus thuringiensis	environmental	
 1430.38		Bacillus thuringiensis	environmental	soil	
 1430.6	SRR1174235	Bacillus thuringiensis	environmental	soil	
+1430437.3		Salmonella enterica	environmental	
+1430438.3		Salmonella enterica	environmental	
+1430439.3		Salmonella enterica	environmental	
+1432046.3		Salmonella enterica	environmental	
+143221.15	SRR1048315,SRR965708	Salmonella enterica	food production	plant product	peanut butter	
+143221.16		Salmonella enterica	environmental	
+143221.17	SRR965745	Salmonella enterica	environmental	
+143221.22	SRR1048333,SRR1171469	Salmonella enterica	food production	plant product	peanut butter	
+143221.24	SRR1048330,SRR1177362	Salmonella enterica	food production	plant product	peanut butter	
+143221.27	SRR1048331,SRR965707	Salmonella enterica	food production	plant product	peanut butter	
+143221.28	SRR1048239,SRR1177183	Salmonella enterica	food production	plant product	peanut butter	
+143221.30	SRR1048285,SRR1177266	Salmonella enterica	food production	plant product	peanut butter	
+143221.31	SRR1048622,SRR1177371	Salmonella enterica	environmental	
+143221.32	SRR1048319,SRR965704	Salmonella enterica	food production	plant product	peanut butter	
+143221.33	SRR1048236,SRR1171398	Salmonella enterica	food production	plant product	peanut butter	
+143221.36	SRR1048300,SRR1171438	Salmonella enterica	food production	plant product	peanut butter	
+143221.38	SRR1048312,SRR1177328,SRR1544338	Salmonella enterica	food production	plant product	peanut butter	
+143221.4		Salmonella enterica	food production	plant product	peanut butter	
+143221.59	SRR949424	Salmonella enterica	food production	plant product	peanut butter	
+143221.6		Salmonella enterica	food production	plant product	peanut butter	
+143221.60	SRR949423	Salmonella enterica	food production	plant product	peanut butter	
+143221.62	SRR1048298,SRR1171439	Salmonella enterica	food production	plant product	peanut butter	
+143221.63	SRR1104739,SRR965711	Salmonella enterica	food production	plant product	peanut butter	
+143221.65	SRR1048290,SRR1177286	Salmonella enterica	food production	plant product	peanut butter	
+143221.76	SRR1048334,SRR1171470	Salmonella enterica	food production	plant product	peanut butter	
+143221.79		Salmonella enterica	food production	plant product	peanut butter	
+143221.8	SRR1048305,SRR1177225,SRR1177318	Salmonella enterica	food production	plant product	peanut butter	
+143221.90		Salmonella enterica	sewage	waste water	
 1433288.7		Streptococcus thermophilus	food production	dairy product	cheese	
 1433289.7		Streptococcus thermophilus	food production	dairy product	cheese	
 1434192.3		Burkholderia pseudomallei	environmental	
@@ -2568,8 +2942,28 @@
 1435371.3		Burkholderia pseudomallei	environmental	
 1435373.3		Burkholderia pseudomallei	environmental	
 1435374.3		Burkholderia pseudomallei	environmental	
+1436135.3		Salmonella enterica	food production	meat product	chicken	
+1436137.3		Salmonella enterica	food production	meat product	chicken	
 1437006.3		Bacillus subtilis	environmental	soil	
 143794.3		Bacillus thuringiensis	environmental	soil	
+1439831.3		Salmonella enterica	food production	meat product	chicken	
+1439832.3		Salmonella enterica	food production	meat product	pork	
+1439833.3		Salmonella enterica	food production	meat product	pork	
+1439834.3		Salmonella enterica	food production	meat product	pork	
+1439835.3		Salmonella enterica	food production	meat product	chicken	
+1439836.3		Salmonella enterica	food production	meat product	turkey	
+1439837.3		Salmonella enterica	food production	meat product	chicken	
+1439838.3		Salmonella enterica	food production	meat product	turkey	
+1439839.3		Salmonella enterica	food production	meat product	turkey	
+1439840.3		Salmonella enterica	food production	meat product	chicken	
+1439844.3		Salmonella enterica	food production	meat product	chicken	
+1439845.3		Salmonella enterica	food production	meat product	beef	
+1439846.3		Salmonella enterica	food production	meat product	beef	
+1439847.3		Salmonella enterica	food production	meat product	beef	
+1439848.3		Salmonella enterica	food production	meat product	chicken	
+1439849.3		Salmonella enterica	food production	meat product	beef	
+1439850.3		Salmonella enterica	food production	meat product	turkey	
+1439851.3		Salmonella enterica	food production	meat product	turkey	
 1439856.3		Burkholderia pseudomallei	environmental	
 1439857.3		Burkholderia pseudomallei	environmental	
 1439858.3		Burkholderia pseudomallei	environmental	
@@ -2582,7 +2976,10 @@
 1441.4		Bacillus thuringiensis	environmental	soil	
 1441928.3		Pseudomonas aeruginosa	environmental	soil	
 1443105.3		Pseudomonas aeruginosa	environmental	water	freshwater	river or stream	
+1443276.3		Salmonella enterica	food production	meat product	chicken	
+1448139.3		Aeromonas hydrophila	environmental	plant matter	compost	
 1448140.3		Pseudomonas aeruginosa	environmental	plant matter	compost	
+1449093.3		Lactococcus lactis	food production	dairy product	milk	
 1449752.10		Staphylococcus epidermidis	environmental	
 1449752.11		Staphylococcus epidermidis	environmental	
 1449752.12		Staphylococcus epidermidis	environmental	
@@ -2594,6 +2991,47 @@
 1453472.3		Escherichia coli	environmental	sediment	ocean sediment	
 1457158.3		Bacillus amyloliquefaciens	environmental	soil	
 1457300.3		Escherichia coli	environmental	sediment	ocean sediment	
+1463164.105		Klebsiella quasipneumoniae	feces	
+1463164.107		Klebsiella quasipneumoniae	feces	
+1463164.108		Klebsiella quasipneumoniae	feces	
+1463164.109		Klebsiella quasipneumoniae	feces	
+1463164.110		Klebsiella quasipneumoniae	feces	
+1463164.111		Klebsiella quasipneumoniae	feces	
+1463164.112		Klebsiella quasipneumoniae	feces	
+1463164.113		Klebsiella quasipneumoniae	feces	
+1463164.114		Klebsiella quasipneumoniae	feces	
+1463164.115		Klebsiella quasipneumoniae	feces	
+1463164.116		Klebsiella quasipneumoniae	feces	
+1463164.117		Klebsiella quasipneumoniae	feces	
+1463164.118		Klebsiella quasipneumoniae	feces	
+1463164.119		Klebsiella quasipneumoniae	feces	
+1463164.120		Klebsiella quasipneumoniae	feces	
+1463164.121		Klebsiella quasipneumoniae	feces	
+1463164.122		Klebsiella quasipneumoniae	feces	
+1463164.123		Klebsiella quasipneumoniae	feces	
+1463164.124		Klebsiella quasipneumoniae	feces	
+1463164.125		Klebsiella quasipneumoniae	feces	
+1463164.126		Klebsiella quasipneumoniae	feces	
+1463164.127		Klebsiella quasipneumoniae	feces	
+1463164.128		Klebsiella quasipneumoniae	feces	
+1463164.129		Klebsiella quasipneumoniae	feces	
+1463164.130		Klebsiella quasipneumoniae	feces	
+1463164.131		Klebsiella quasipneumoniae	feces	
+1463164.133		Klebsiella quasipneumoniae	feces	
+1463164.134		Klebsiella quasipneumoniae	feces	
+1463164.135		Klebsiella quasipneumoniae	feces	
+1463164.136		Klebsiella quasipneumoniae	feces	
+1463164.137		Klebsiella quasipneumoniae	feces	
+1463164.138		Klebsiella quasipneumoniae	feces	
+1463164.139		Klebsiella quasipneumoniae	feces	
+1463164.143		Klebsiella quasipneumoniae	environmental	water	
+1463164.146		Klebsiella quasipneumoniae	environmental	water	
+1463164.168		Klebsiella quasipneumoniae	environmental	
+1463164.169		Klebsiella quasipneumoniae	environmental	
+1463164.170		Klebsiella quasipneumoniae	environmental	
+1463164.171		Klebsiella quasipneumoniae	environmental	
+1463164.172		Klebsiella quasipneumoniae	environmental	
+1463164.173		Klebsiella quasipneumoniae	environmental	
 1463165.170		Klebsiella quasipneumoniae	hospital environment	hospital surface	
 1463165.21		Klebsiella quasipneumoniae	feces	
 1463165.22		Klebsiella quasipneumoniae	feces	
@@ -2674,6 +3112,119 @@
 1491.709		Clostridium botulinum	environmental	soil	
 1491.717		Clostridium botulinum	environmental	soil	
 1491.779		Clostridium botulinum	environmental	sediment	ocean sediment	
+149385.10	SRR2567023	Salmonella enterica	food production	meat product	turkey	
+149385.11	SRR2567035	Salmonella enterica	food production	meat product	turkey	
+149385.12	SRR2567040	Salmonella enterica	food production	meat product	turkey	
+149385.13	SRR2567100	Salmonella enterica	food production	meat product	turkey	
+149385.14	SRR2567118	Salmonella enterica	food production	meat product	turkey	
+149385.15	SRR2567153	Salmonella enterica	food production	meat product	turkey	
+149385.16	SRR2567155	Salmonella enterica	food production	meat product	turkey	
+149385.17	SRR2567156	Salmonella enterica	food production	meat product	turkey	
+149385.18	SRR2567158	Salmonella enterica	food production	meat product	turkey	
+149385.19	SRR2567157	Salmonella enterica	food production	meat product	turkey	
+149385.20	SRR2567172	Salmonella enterica	food production	meat product	turkey	
+149385.21	SRR3664978	Salmonella enterica	food production	meat product	turkey	
+149385.22	SRR3665000	Salmonella enterica	food production	meat product	turkey	
+149385.23	SRR3665054	Salmonella enterica	food production	meat product	turkey	
+149385.24	SRR3664839	Salmonella enterica	food production	meat product	turkey	
+149385.25	SRR3665240	Salmonella enterica	food production	meat product	pork	
+149385.26	SRR3665263	Salmonella enterica	food production	meat product	turkey	
+149385.27	SRR3664619	Salmonella enterica	food production	meat product	turkey	
+149385.28	SRR3664900	Salmonella enterica	food production	meat product	turkey	
+149385.29		Salmonella enterica	food production	meat product	turkey	
+149385.30		Salmonella enterica	food production	meat product	turkey	
+149385.31		Salmonella enterica	food production	meat product	turkey	
+149385.33		Salmonella enterica	food production	meat product	turkey	
+149385.34		Salmonella enterica	food production	meat product	turkey	
+149385.6	SRR2566910	Salmonella enterica	food production	meat product	turkey	
+149385.7	SRR2566913	Salmonella enterica	food production	meat product	chicken	
+149385.73		Salmonella enterica	sewage	waste water	
+149385.74		Salmonella enterica	sewage	waste water	
+149385.8	SRR2566958	Salmonella enterica	food production	meat product	turkey	
+149385.9	SRR2566976	Salmonella enterica	food production	meat product	turkey	
+149386.14		Salmonella enterica	sewage	waste water	
+149386.15		Salmonella enterica	sewage	waste water	
+149386.16		Salmonella enterica	sewage	waste water	
+149386.17		Salmonella enterica	sewage	waste water	
+149386.18		Salmonella enterica	sewage	waste water	
+149387.11		Salmonella enterica	food production	meat product	turkey	
+149387.5	SRR2566982	Salmonella enterica	food production	meat product	chicken	
+149387.6	SRR2567048	Salmonella enterica	food production	meat product	chicken	
+149387.7	SRR2567146	Salmonella enterica	food production	meat product	turkey	
+149387.8	SRR3664726	Salmonella enterica	food production	meat product	turkey	
+149390.11		Salmonella enterica	sewage	waste water	
+149390.12		Salmonella enterica	sewage	waste water	
+149390.13		Salmonella enterica	sewage	waste water	
+149390.14		Salmonella enterica	sewage	waste water	
+149390.3	SRR3664639	Salmonella enterica	food production	meat product	pork	
+149391.3	SRR2567090	Salmonella enterica	food production	meat product	chicken	
+149391.4	SRR2567109	Salmonella enterica	food production	meat product	chicken	
+149391.5	SRR3664816	Salmonella enterica	food production	meat product	chicken	
+149391.6	SRR3664862	Salmonella enterica	food production	meat product	chicken	
+149391.7	SRR4012838	Salmonella enterica	environmental	water	freshwater	river or stream	
+149391.8	SRR4012839	Salmonella enterica	environmental	water	freshwater	river or stream	
+149391.9		Salmonella enterica	food production	meat product	chicken	
+149539.1415		Salmonella enterica	environmental	
+149539.1487		Salmonella enterica	environmental	
+149539.1530		Salmonella enterica	feces	
+149539.1531		Salmonella enterica	feces	
+149539.1533		Salmonella enterica	feces	
+149539.1534		Salmonella enterica	food production	meat product	chicken	
+149539.1536		Salmonella enterica	feces	
+149539.1572		Salmonella enterica	sewage	waste water	
+149539.1573		Salmonella enterica	sewage	waste water	
+149539.1574		Salmonella enterica	sewage	waste water	
+149539.1575		Salmonella enterica	sewage	waste water	
+149539.317	SRR1533624	Salmonella enterica	environmental	
+149539.320	SRR1533834	Salmonella enterica	environmental	
+149539.321	SRR1533835	Salmonella enterica	environmental	
+149539.322	SRR1533455	Salmonella enterica	environmental	
+149539.323	SRR1533454	Salmonella enterica	environmental	
+149539.324	SRR1533456	Salmonella enterica	environmental	
+149539.325	SRR1533457	Salmonella enterica	environmental	
+149539.326	SRR1533150	Salmonella enterica	environmental	
+149539.327	SRR1533592	Salmonella enterica	environmental	
+149539.341	SRR2566860	Salmonella enterica	food production	meat product	chicken	
+149539.342	SRR2566868	Salmonella enterica	food production	meat product	chicken	
+149539.343	SRR2566869	Salmonella enterica	food production	meat product	chicken	
+149539.344	SRR2567019	Salmonella enterica	food production	meat product	chicken	
+149539.345	SRR2567106	Salmonella enterica	food production	meat product	chicken	
+149539.346	SRR2567130	Salmonella enterica	food production	meat product	chicken	
+149539.347	SRR2566879	Salmonella enterica	food production	meat product	chicken	
+149539.348	SRR2566875	Salmonella enterica	food production	meat product	chicken	
+149539.349	SRR2566908	Salmonella enterica	food production	meat product	chicken	
+149539.350	SRR2566923	Salmonella enterica	food production	meat product	chicken	
+149539.351	SRR2566954	Salmonella enterica	food production	meat product	chicken	
+149539.352	SRR2566956	Salmonella enterica	food production	meat product	chicken	
+149539.353	SRR2566998	Salmonella enterica	food production	meat product	chicken	
+149539.354	SRR2567003	Salmonella enterica	food production	meat product	chicken	
+149539.355	SRR2567020	Salmonella enterica	food production	meat product	turkey	
+149539.356	SRR2566862	Salmonella enterica	food production	meat product	chicken	
+149539.357	SRR2567059	Salmonella enterica	food production	meat product	turkey	
+149539.358	SRR2566887	Salmonella enterica	food production	meat product	chicken	
+149539.359	SRR2566881	Salmonella enterica	food production	meat product	chicken	
+149539.360	SRR2566907	Salmonella enterica	food production	meat product	chicken	
+149539.361	SRR2567070	Salmonella enterica	food production	meat product	chicken	
+149539.362	SRR2567091	Salmonella enterica	food production	meat product	chicken	
+149539.363	SRR2567108	Salmonella enterica	food production	meat product	chicken	
+149539.364	SRR2567113	Salmonella enterica	food production	meat product	chicken	
+149539.365	SRR2567129	Salmonella enterica	food production	meat product	chicken	
+149539.366	SRR2567202	Salmonella enterica	food production	meat product	chicken	
+149539.367	SRR2567203	Salmonella enterica	food production	meat product	chicken	
+149539.388	SRR3665132	Salmonella enterica	food production	meat product	chicken	
+149539.389	SRR3665044	Salmonella enterica	food production	meat product	turkey	
+149539.390	SRR3665115	Salmonella enterica	food production	meat product	chicken	
+149539.391	SRR3664627	Salmonella enterica	food production	meat product	turkey	
+149539.440		Salmonella enterica	food production	
+149539.576		Salmonella enterica	food production	meat product	chicken	
+149539.664		Salmonella enterica	food production	meat product	pork	
+149539.748		Salmonella enterica	food production	meat product	meat	
+149539.763		Salmonella enterica	food production	
+149539.764		Salmonella enterica	food production	
+149539.795		Salmonella enterica	food production	
+149539.797		Salmonella enterica	food production	
+149539.798		Salmonella enterica	food production	
+149539.824		Salmonella enterica	environmental	soil	
 1496.1268	ERR789073,ERR789074	Peptoclostridium difficile	environmental	sediment	
 1496.1270	ERR789063	Peptoclostridium difficile	environmental	sediment	
 1496.1271	ERR789067	Peptoclostridium difficile	environmental	sediment	
@@ -2978,6 +3529,8 @@
 1503054.97		Burkholderia stagnalis	environmental	soil	
 1503054.98		Burkholderia stagnalis	environmental	soil	
 1503054.99		Burkholderia stagnalis	environmental	soil	
+1507806.28		Campylobacter fetus	feces	
+1507806.5		Campylobacter fetus	feces	
 1509.100		Clostridium sporogenes	environmental	soil	
 1509.30		Clostridium sporogenes	food production	dairy product	milk	
 1509.39		Clostridium sporogenes	environmental	soil	
@@ -3171,6 +3724,110 @@
 1598.146		Lactobacillus reuteri	food production	dough	sourdough	
 1598.514		Lactobacillus reuteri	food production	dough	sourdough	
 1598.515		Lactobacillus reuteri	food production	dough	sourdough	
+1620418.16		Salmonella enterica	food production	dairy product	cheese	
+1620418.17		Salmonella enterica	food production	dairy product	cheese	
+1620418.3	SRR3665059	Salmonella enterica	food production	meat product	turkey	
+1620418.4		Salmonella enterica	food production	meat product	turkey	
+1620418.5		Salmonella enterica	food production	meat product	turkey	
+1620418.6		Salmonella enterica	food production	meat product	turkey	
+1620419.10	SRR2566911	Salmonella enterica	food production	meat product	chicken	
+1620419.100		Salmonella enterica	food production	meat product	chicken	
+1620419.101		Salmonella enterica	food production	meat product	turkey	
+1620419.11	SRR2566916	Salmonella enterica	food production	meat product	chicken	
+1620419.111		Salmonella enterica	food production	meat product	chicken	
+1620419.112		Salmonella enterica	food production	meat product	turkey	
+1620419.114		Salmonella enterica	food production	meat product	chicken	
+1620419.12	SRR2566928	Salmonella enterica	food production	meat product	chicken	
+1620419.13	SRR2566931	Salmonella enterica	food production	meat product	chicken	
+1620419.131	SRR2567047	Salmonella enterica	food production	meat product	chicken	
+1620419.14	SRR2566932	Salmonella enterica	food production	meat product	chicken	
+1620419.15	SRR2566933	Salmonella enterica	food production	meat product	chicken	
+1620419.16	SRR2566934	Salmonella enterica	food production	meat product	chicken	
+1620419.17	SRR2566935	Salmonella enterica	food production	meat product	chicken	
+1620419.18	SRR2566950	Salmonella enterica	food production	meat product	chicken	
+1620419.19	SRR2566951	Salmonella enterica	food production	meat product	chicken	
+1620419.20	SRR2566952	Salmonella enterica	food production	meat product	chicken	
+1620419.21	SRR2566955	Salmonella enterica	food production	meat product	chicken	
+1620419.22	SRR2566971	Salmonella enterica	food production	meat product	chicken	
+1620419.23	SRR2566972	Salmonella enterica	food production	meat product	chicken	
+1620419.24	SRR2566974	Salmonella enterica	food production	meat product	chicken	
+1620419.25	SRR2566983	Salmonella enterica	food production	meat product	chicken	
+1620419.26	SRR2567005	Salmonella enterica	food production	meat product	chicken	
+1620419.27	SRR2567006	Salmonella enterica	food production	meat product	chicken	
+1620419.28	SRR2567015	Salmonella enterica	food production	meat product	chicken	
+1620419.29	SRR2567025	Salmonella enterica	food production	meat product	chicken	
+1620419.3	SRR2566880	Salmonella enterica	food production	meat product	chicken	
+1620419.30	SRR2567026	Salmonella enterica	food production	meat product	chicken	
+1620419.31	SRR2567032	Salmonella enterica	food production	meat product	chicken	
+1620419.32	SRR2567033	Salmonella enterica	food production	meat product	chicken	
+1620419.33	SRR2567041	Salmonella enterica	food production	meat product	chicken	
+1620419.34	SRR2567047	Salmonella enterica	food production	meat product	chicken	
+1620419.35	SRR2567060	Salmonella enterica	food production	meat product	chicken	
+1620419.36	SRR2567065	Salmonella enterica	food production	meat product	chicken	
+1620419.37	SRR2567066	Salmonella enterica	food production	meat product	chicken	
+1620419.38	SRR2567068	Salmonella enterica	food production	meat product	chicken	
+1620419.39	SRR2567069	Salmonella enterica	food production	meat product	chicken	
+1620419.4	SRR2566896	Salmonella enterica	food production	meat product	chicken	
+1620419.40	SRR2567079	Salmonella enterica	food production	meat product	chicken	
+1620419.41	SRR2567078	Salmonella enterica	food production	meat product	chicken	
+1620419.42	SRR2567097	Salmonella enterica	food production	meat product	chicken	
+1620419.43	SRR2567107	Salmonella enterica	food production	meat product	chicken	
+1620419.44	SRR2567112	Salmonella enterica	food production	meat product	chicken	
+1620419.45	SRR2567115	Salmonella enterica	food production	meat product	chicken	
+1620419.46	SRR2567148	Salmonella enterica	food production	meat product	chicken	
+1620419.47	SRR2567161	Salmonella enterica	food production	meat product	chicken	
+1620419.48	SRR2567165	Salmonella enterica	food production	meat product	chicken	
+1620419.49	SRR2567168	Salmonella enterica	food production	meat product	chicken	
+1620419.5	SRR2566898	Salmonella enterica	food production	meat product	chicken	
+1620419.50	SRR2567193	Salmonella enterica	food production	meat product	chicken	
+1620419.51	SRR2567194	Salmonella enterica	food production	meat product	chicken	
+1620419.52	SRR2567196	Salmonella enterica	food production	meat product	chicken	
+1620419.53	SRR2566937	Salmonella enterica	food production	meat product	chicken	
+1620419.54	SRR2566938	Salmonella enterica	food production	meat product	chicken	
+1620419.55	SRR2567009	Salmonella enterica	food production	meat product	pork	
+1620419.56	SRR2567022	Salmonella enterica	food production	meat product	chicken	
+1620419.57	SRR2567024	Salmonella enterica	food production	meat product	chicken	
+1620419.58	SRR2567042	Salmonella enterica	food production	meat product	chicken	
+1620419.59	SRR2567029	Salmonella enterica	food production	meat product	pork	
+1620419.6	SRR2566897	Salmonella enterica	food production	meat product	chicken	
+1620419.60	SRR2566957	Salmonella enterica	food production	meat product	chicken	
+1620419.61	SRR2566936	Salmonella enterica	food production	meat product	chicken	
+1620419.62	SRR2567007	Salmonella enterica	food production	meat product	turkey	
+1620419.63	SRR2567021	Salmonella enterica	food production	meat product	chicken	
+1620419.64	SRR2567162	Salmonella enterica	food production	meat product	chicken	
+1620419.65	SRR2567189	Salmonella enterica	food production	meat product	chicken	
+1620419.66	SRR3664976	Salmonella enterica	food production	meat product	turkey	
+1620419.67	SRR3665011	Salmonella enterica	food production	meat product	pork	
+1620419.68	SRR3665102	Salmonella enterica	food production	meat product	chicken	
+1620419.69	SRR3665303	Salmonella enterica	food production	meat product	pork	
+1620419.7	SRR2566904	Salmonella enterica	food production	meat product	chicken	
+1620419.70	SRR3664616	Salmonella enterica	food production	meat product	turkey	
+1620419.71	SRR3664701	Salmonella enterica	food production	meat product	turkey	
+1620419.72	SRR3665004	Salmonella enterica	food production	meat product	chicken	
+1620419.73	SRR3665064	Salmonella enterica	food production	meat product	chicken	
+1620419.74	SRR3665127	Salmonella enterica	food production	meat product	chicken	
+1620419.75	SRR3665146	Salmonella enterica	food production	meat product	chicken	
+1620419.76	SRR3665186	Salmonella enterica	food production	meat product	turkey	
+1620419.77	SRR3665191	Salmonella enterica	food production	meat product	chicken	
+1620419.78	SRR3665311	Salmonella enterica	food production	meat product	turkey	
+1620419.79	SRR3664630	Salmonella enterica	food production	meat product	turkey	
+1620419.8	SRR2566905	Salmonella enterica	food production	meat product	chicken	
+1620419.80	SRR3664660	Salmonella enterica	food production	meat product	chicken	
+1620419.81	SRR3664700	Salmonella enterica	food production	meat product	chicken	
+1620419.82	SRR3664727	Salmonella enterica	food production	meat product	pork	
+1620419.83	SRR3664736	Salmonella enterica	food production	meat product	chicken	
+1620419.84	SRR3664741	Salmonella enterica	food production	meat product	turkey	
+1620419.85	SRR3664772	Salmonella enterica	food production	meat product	chicken	
+1620419.86	SRR3664792	Salmonella enterica	food production	meat product	chicken	
+1620419.87	SRR3664834	Salmonella enterica	food production	meat product	chicken	
+1620419.88	SRR3665294	Salmonella enterica	food production	meat product	chicken	
+1620419.89	SRR3665306	Salmonella enterica	food production	meat product	chicken	
+1620419.9	SRR2566906	Salmonella enterica	food production	meat product	chicken	
+1620419.90	SRR3664770	Salmonella enterica	food production	meat product	chicken	
+1620419.91	SRR3664836	Salmonella enterica	food production	meat product	chicken	
+1620419.92	SRR3664924	Salmonella enterica	food production	meat product	pork	
+1620419.93	SRR3664949	Salmonella enterica	food production	meat product	chicken	
+1620419.98		Salmonella enterica	food production	meat product	chicken	
 1624.312		Lactobacillus salivarius	feces	
 1624.313		Lactobacillus salivarius	feces	
 1624.82		Lactobacillus salivarius	food production	meat product	beef	
@@ -4549,6 +5206,34 @@
 1639.983		Listeria monocytogenes	food production	food processing environment	
 1639.996	SRR1950325,SRR1950326,SRR1950327	Listeria monocytogenes	food production	dairy product	cheese	
 1639.997	SRR1950322,SRR1950323,SRR1950324	Listeria monocytogenes	environmental	water	
+165302.10	SRR3664959	Salmonella enterica	food production	meat product	turkey	
+165302.11	SRR3664957	Salmonella enterica	food production	meat product	pork	
+165302.15		Salmonella enterica	food production	meat product	turkey	
+165302.3	SRR2566943	Salmonella enterica	food production	meat product	turkey	
+165302.4	SRR2567039	Salmonella enterica	food production	meat product	turkey	
+165302.5	SRR2567073	Salmonella enterica	food production	meat product	turkey	
+165302.6	SRR2567140	Salmonella enterica	food production	meat product	turkey	
+165302.7	SRR2567154	Salmonella enterica	food production	meat product	turkey	
+165302.8	SRR3665038	Salmonella enterica	food production	meat product	turkey	
+165302.9	SRR3664734	Salmonella enterica	food production	meat product	turkey	
+1667327.22		Klebsiella quasipneumoniae	feces	
+1667327.23		Klebsiella quasipneumoniae	feces	
+1667327.24		Klebsiella quasipneumoniae	feces	
+1667327.25		Klebsiella quasipneumoniae	feces	
+1667327.27		Klebsiella quasipneumoniae	environmental	
+1667327.29		Klebsiella quasipneumoniae	environmental	
+1697389.3	SRR2567102	Salmonella enterica	food production	meat product	turkey	
+1697389.4	SRR2567124	Salmonella enterica	food production	meat product	turkey	
+1697389.5	SRR2567127	Salmonella enterica	food production	meat product	turkey	
+1697389.6	SRR2567133	Salmonella enterica	food production	meat product	turkey	
+1697389.7	SRR2567180	Salmonella enterica	food production	meat product	turkey	
+1697390.3	SRR2566874	Salmonella enterica	food production	meat product	chicken	
+1697390.4	SRR2567080	Salmonella enterica	food production	meat product	pork	
+1697390.5	SRR2567163	Salmonella enterica	food production	meat product	turkey	
+1697390.6	SRR2567199	Salmonella enterica	food production	meat product	pork	
+1697390.7	SRR2566888	Salmonella enterica	food production	meat product	chicken	
+1697390.8	SRR2566878	Salmonella enterica	food production	meat product	chicken	
+1697391.3	SRR2566882	Salmonella enterica	food production	meat product	chicken	
 1698524.4		Microcystis aeruginosa	environmental	water	freshwater	
 176280.83		Staphylococcus epidermidis	environmental	
 180843.3		Bacillus thuringiensis	environmental	soil	
@@ -4599,7 +5284,146 @@
 1890302.87		Bacillus wiedmannii	environmental	soil	
 1890302.94		Bacillus wiedmannii	environmental	soil	
 1903187.3		Microcystis aeruginosa	environmental	water	freshwater	
+1911135.3	SRR4012914	Salmonella enterica	environmental	water	freshwater	river or stream	
+1911135.4	SRR4012917	Salmonella enterica	environmental	water	freshwater	river or stream	
+1911135.5		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+1911136.11	SRR4012921	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+1911136.12	SRR4012878	Salmonella enterica	environmental	water	freshwater	river or stream	
+1911136.13	SRR4012891	Salmonella enterica	environmental	water	freshwater	river or stream	
+1911136.14	SRR4012895	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+1911136.3	SRR4012677	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+1911136.4	SRR4012687	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+1911136.5	SRR4012810	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+1911136.6	SRR4012811	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+1911136.7	SRR4012883	Salmonella enterica	environmental	
+1911136.8	SRR4012884	Salmonella enterica	environmental	
+1911136.9	SRR4012889	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+1911137.3	SRR4012679	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
 1914537.3		Microcystis aeruginosa	environmental	water	freshwater	freshwater pond or lake	
+1925258.6		Salmonella enterica	environmental	water	
+192954.22	SRR2566990	Salmonella enterica	food production	meat product	chicken	
+192954.23	SRR2567195	Salmonella enterica	food production	meat product	chicken	
+192954.24	SRR2567208	Salmonella enterica	food production	meat product	chicken	
+192954.25	SRR2567186	Salmonella enterica	food production	meat product	beef	
+192954.26	SRR3665190	Salmonella enterica	food production	meat product	chicken	
+192954.27	SRR3664643	Salmonella enterica	food production	meat product	chicken	
+192954.28	SRR3664883	Salmonella enterica	food production	meat product	chicken	
+192954.29	SRR3664919	Salmonella enterica	food production	meat product	chicken	
+192954.30	SRR4012815	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+192954.31	SRR4012822	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+192954.34		Salmonella enterica	food production	meat product	chicken	
+192954.35		Salmonella enterica	food production	meat product	chicken	
+192954.48		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+192954.55		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+192954.56		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+192954.57		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+192954.83		Salmonella enterica	sewage	waste water	
+192954.84		Salmonella enterica	sewage	waste water	
+192954.85		Salmonella enterica	sewage	waste water	
+192954.86		Salmonella enterica	sewage	waste water	
+192954.87		Salmonella enterica	sewage	waste water	
+192954.88		Salmonella enterica	sewage	waste water	
+192954.89		Salmonella enterica	sewage	waste water	
+192954.90		Salmonella enterica	sewage	waste water	
+192954.91		Salmonella enterica	sewage	waste water	
+192954.92		Salmonella enterica	sewage	waste water	
+192954.93		Salmonella enterica	sewage	waste water	
+192954.94		Salmonella enterica	sewage	waste water	
+192954.95		Salmonella enterica	sewage	waste water	
+192954.96		Salmonella enterica	sewage	waste water	
+192954.97		Salmonella enterica	sewage	waste water	
+192954.98		Salmonella enterica	sewage	waste water	
+192955.100	SRR2567206	Salmonella enterica	food production	meat product	chicken	
+192955.101	SRR2567209	Salmonella enterica	food production	meat product	chicken	
+192955.102	SRR2567210	Salmonella enterica	food production	meat product	chicken	
+192955.103	SRR2566912	Salmonella enterica	food production	meat product	chicken	
+192955.104	SRR2567054	Salmonella enterica	food production	meat product	turkey	
+192955.105	SRR2567076	Salmonella enterica	food production	meat product	chicken	
+192955.106	SRR2567094	Salmonella enterica	food production	meat product	chicken	
+192955.107	SRR2567170	Salmonella enterica	food production	meat product	chicken	
+192955.110	SRR3665119	Salmonella enterica	food production	meat product	chicken	
+192955.111	SRR3664783	Salmonella enterica	food production	meat product	chicken	
+192955.112	SRR3664854	Salmonella enterica	food production	meat product	pork	
+192955.113	SRR3665024	Salmonella enterica	food production	meat product	chicken	
+192955.114	SRR3665043	Salmonella enterica	food production	meat product	chicken	
+192955.115	SRR3665199	Salmonella enterica	food production	meat product	chicken	
+192955.116	SRR3665270	Salmonella enterica	food production	meat product	chicken	
+192955.117	SRR3665309	Salmonella enterica	food production	meat product	chicken	
+192955.118	SRR3665313	Salmonella enterica	food production	meat product	turkey	
+192955.119	SRR3665314	Salmonella enterica	food production	meat product	beef	
+192955.120	SRR3665316	Salmonella enterica	food production	meat product	beef	
+192955.121	SRR3664628	Salmonella enterica	food production	meat product	chicken	
+192955.122	SRR3664666	Salmonella enterica	food production	meat product	chicken	
+192955.123	SRR3664860	Salmonella enterica	food production	meat product	chicken	
+192955.124	SRR3664885	Salmonella enterica	food production	meat product	turkey	
+192955.125	SRR3664932	Salmonella enterica	food production	meat product	chicken	
+192955.126	SRR3664940	Salmonella enterica	food production	meat product	chicken	
+192955.127	SRR3664952	Salmonella enterica	food production	meat product	chicken	
+192955.128	SRR3664626	Salmonella enterica	food production	meat product	chicken	
+192955.129	SRR3664718	Salmonella enterica	food production	meat product	chicken	
+192955.130	SRR3664752	Salmonella enterica	food production	meat product	chicken	
+192955.131	SRR3664843	Salmonella enterica	food production	meat product	beef	
+192955.155		Salmonella enterica	food production	meat product	turkey	
+192955.165		Salmonella enterica	food production	meat product	chicken	
+192955.168		Salmonella enterica	food production	meat product	turkey	
+192955.169		Salmonella enterica	food production	meat product	turkey	
+192955.173		Salmonella enterica	food production	meat product	beef	
+192955.180		Salmonella enterica	environmental	water	
+192955.246		Salmonella enterica	food production	meat product	chicken	
+192955.247		Salmonella enterica	food production	meat product	chicken	
+192955.248		Salmonella enterica	food production	meat product	chicken	
+192955.249		Salmonella enterica	food production	meat product	chicken	
+192955.403	SRR6898497	Salmonella enterica	feces	
+192955.445	SRR3295549	Salmonella enterica	food production	meat product	turkey	
+192955.451	SRR2587216	Salmonella enterica	food production	meat product	chicken	
+192955.459	SRR1637080	Salmonella enterica	food production	meat product	turkey	
+192955.461	SRR1763866	Salmonella enterica	food production	meat product	turkey	
+192955.465	SRR3027706	Salmonella enterica	food production	meat product	chicken	
+192955.468	SRR1048324	Salmonella enterica	food production	meat product	beef	
+192955.60	SRR2566859	Salmonella enterica	food production	meat product	chicken	
+192955.61	SRR2566861	Salmonella enterica	food production	meat product	chicken	
+192955.62	SRR2566858	Salmonella enterica	food production	meat product	chicken	
+192955.63	SRR2566866	Salmonella enterica	food production	meat product	chicken	
+192955.64	SRR2566876	Salmonella enterica	food production	meat product	chicken	
+192955.65	SRR2566877	Salmonella enterica	food production	meat product	chicken	
+192955.66	SRR2566889	Salmonella enterica	food production	meat product	chicken	
+192955.67	SRR2566894	Salmonella enterica	food production	meat product	chicken	
+192955.68	SRR2566909	Salmonella enterica	food production	meat product	chicken	
+192955.69	SRR2566927	Salmonella enterica	food production	meat product	chicken	
+192955.70	SRR2566959	Salmonella enterica	food production	meat product	chicken	
+192955.71	SRR2566970	Salmonella enterica	food production	meat product	chicken	
+192955.72	SRR2566973	Salmonella enterica	food production	meat product	chicken	
+192955.73	SRR2566975	Salmonella enterica	food production	meat product	chicken	
+192955.74	SRR2566980	Salmonella enterica	food production	meat product	chicken	
+192955.75	SRR2567001	Salmonella enterica	food production	meat product	chicken	
+192955.76	SRR2567030	Salmonella enterica	food production	meat product	chicken	
+192955.77	SRR2567038	Salmonella enterica	food production	meat product	chicken	
+192955.78	SRR2567050	Salmonella enterica	food production	meat product	chicken	
+192955.79	SRR2567052	Salmonella enterica	food production	meat product	chicken	
+192955.80	SRR2567053	Salmonella enterica	food production	meat product	chicken	
+192955.81	SRR2567055	Salmonella enterica	food production	meat product	turkey	
+192955.82	SRR2567061	Salmonella enterica	food production	meat product	chicken	
+192955.83	SRR2567062	Salmonella enterica	food production	meat product	chicken	
+192955.84	SRR2567077	Salmonella enterica	food production	meat product	chicken	
+192955.85	SRR2567096	Salmonella enterica	food production	meat product	chicken	
+192955.86	SRR2567098	Salmonella enterica	food production	meat product	chicken	
+192955.87	SRR2567099	Salmonella enterica	food production	meat product	chicken	
+192955.88	SRR2567101	Salmonella enterica	food production	meat product	chicken	
+192955.89	SRR2567103	Salmonella enterica	food production	meat product	chicken	
+192955.90	SRR2567111	Salmonella enterica	food production	meat product	chicken	
+192955.91	SRR2567117	Salmonella enterica	food production	meat product	chicken	
+192955.92	SRR2567119	Salmonella enterica	food production	meat product	chicken	
+192955.93	SRR2567134	Salmonella enterica	food production	meat product	chicken	
+192955.94	SRR2567142	Salmonella enterica	food production	meat product	chicken	
+192955.95	SRR2567145	Salmonella enterica	food production	meat product	chicken	
+192955.96	SRR2567149	Salmonella enterica	food production	meat product	chicken	
+192955.97	SRR2567166	Salmonella enterica	food production	meat product	chicken	
+192955.98	SRR2567183	Salmonella enterica	food production	meat product	beef	
+192955.99	SRR2567187	Salmonella enterica	food production	meat product	chicken	
+192956.6		Salmonella enterica	sewage	waste water	
+192956.7		Salmonella enterica	sewage	waste water	
+192956.8		Salmonella enterica	sewage	waste water	
+192956.9		Salmonella enterica	sewage	waste water	
 195.1000	ERR1163750	Campylobacter coli	environmental	soil	
 195.1005	ERR1163870	Campylobacter coli	environmental	water	
 195.1007		Campylobacter coli	food production	meat product	chicken	
@@ -4938,6 +5762,14 @@
 195.993	ERR1163842	Campylobacter coli	environmental	water	
 195.999	ERR1157402	Campylobacter coli	environmental	water	
 1960155.3		Microcystis aeruginosa	environmental	water	
+196023.35		Aeromonas hydrophila	sewage	
+1967643.3		Salmonella enterica	food production	meat product	turkey	
+1967656.3		Salmonella enterica	food production	
+1967989.4		Salmonella enterica	food production	
+1967989.5		Salmonella enterica	sewage	
+1967989.6		Salmonella enterica	sewage	waste water	
+1967989.7		Salmonella enterica	sewage	waste water	
+1967990.3		Salmonella enterica	food production	
 197.11408		Campylobacter jejuni	environmental	water	
 197.11409		Campylobacter jejuni	environmental	water	
 197.11410		Campylobacter jejuni	environmental	water	
@@ -5165,6 +5997,30 @@
 197.7944		Campylobacter jejuni	food production	dairy product	milk	
 197.7950		Campylobacter jejuni	food production	dairy product	milk	
 197.7951		Campylobacter jejuni	feces	
+1974318.3		Salmonella enterica	environmental	water	
+1974319.3		Salmonella enterica	feces	
+1974319.4		Salmonella enterica	environmental	soil	
+1974320.3		Salmonella enterica	environmental	water	
+1974321.3		Salmonella enterica	environmental	water	
+1974321.4		Salmonella enterica	environmental	water	
+1974322.3		Salmonella enterica	feces	
+1974322.4		Salmonella enterica	environmental	water	
+1974322.5		Salmonella enterica	environmental	water	
+1974322.7		Salmonella enterica	environmental	water	
+1974323.3		Salmonella enterica	environmental	water	
+1974324.3		Salmonella enterica	environmental	soil	
+2024267.10		Salmonella enterica	sewage	waste water	
+2024267.11		Salmonella enterica	sewage	waste water	
+2024267.12		Salmonella enterica	sewage	waste water	
+2052597.10		Salmonella enterica	food production	dairy product	cheese	
+2052597.11		Salmonella enterica	food production	dairy product	cheese	
+2052597.3		Salmonella enterica	food production	dairy product	cheese	
+2052597.4		Salmonella enterica	food production	dairy product	cheese	
+2052597.5		Salmonella enterica	food production	dairy product	cheese	
+2052597.6		Salmonella enterica	food production	dairy product	cheese	
+2052597.7		Salmonella enterica	food production	dairy product	cheese	
+2052597.8		Salmonella enterica	food production	dairy product	cheese	
+2052597.9		Salmonella enterica	food production	dairy product	cheese	
 2065118.9		Listeria monocytogenes	environmental	
 208962.132		Escherichia albertii	feces	
 208962.133		Escherichia albertii	feces	
@@ -5183,7 +6039,43 @@
 208962.157		Escherichia albertii	feces	
 208962.73		Escherichia albertii	feces	
 208962.81		Escherichia albertii	feces	
+211759.20		Serratia marcescens	hospital environment	
+211759.22		Serratia marcescens	hospital environment	
+211759.23		Serratia marcescens	hospital environment	
+211759.25		Serratia marcescens	hospital environment	
+211760.14		Serratia marcescens	environmental	water	seawater	
+211760.18		Serratia marcescens	sewage	sludge	
+211968.3	SRR2566945	Salmonella enterica	food production	meat product	turkey	
+211968.4	SRR2567008	Salmonella enterica	food production	meat product	turkey	
+211968.5	SRR2567081	Salmonella enterica	food production	meat product	turkey	
+211968.6	SRR2567171	Salmonella enterica	food production	meat product	turkey	
+211968.7	SRR3664618	Salmonella enterica	food production	meat product	turkey	
+211968.8		Salmonella enterica	food production	meat product	turkey	
+211968.9		Salmonella enterica	food production	meat product	turkey	
+216804.3	SRR2566996	Salmonella enterica	food production	meat product	pork	
+216804.4	SRR2567126	Salmonella enterica	food production	meat product	turkey	
 222523.39		Bacillus cereus	environmental	water	freshwater	river or stream	
+224729.13		Salmonella enterica	sewage	waste water	
+224729.14		Salmonella enterica	sewage	waste water	
+224729.15		Salmonella enterica	sewage	waste water	
+224729.16		Salmonella enterica	sewage	waste water	
+224729.17		Salmonella enterica	sewage	waste water	
+224729.18		Salmonella enterica	sewage	waste water	
+224729.19		Salmonella enterica	sewage	waste water	
+224729.20		Salmonella enterica	sewage	waste water	
+224729.21		Salmonella enterica	sewage	waste water	
+224729.22		Salmonella enterica	sewage	waste water	
+224729.23		Salmonella enterica	sewage	waste water	
+224729.24		Salmonella enterica	sewage	waste water	
+224729.25		Salmonella enterica	sewage	waste water	
+224729.26		Salmonella enterica	sewage	waste water	
+224729.27		Salmonella enterica	sewage	waste water	
+224729.28		Salmonella enterica	sewage	waste water	
+224729.29		Salmonella enterica	sewage	waste water	
+224729.30		Salmonella enterica	sewage	waste water	
+224729.31		Salmonella enterica	sewage	waste water	
+224729.32		Salmonella enterica	sewage	waste water	
+224729.33		Salmonella enterica	sewage	waste water	
 235.156		Brucella abortus	food production	dairy product	milk	
 244366.102		Klebsiella variicola	industrial	metal	metal	
 244366.103		Klebsiella variicola	industrial	metal or plastic	metal or plastic	
@@ -5196,6 +6088,7 @@
 244366.456		Klebsiella variicola	environmental	
 244366.46		Klebsiella variicola	environmental	water	freshwater	river or stream	
 244366.499		Klebsiella variicola	environmental	soil	
+2480825.3		Salmonella enterica	environmental	water	
 2486203.3		Microcystis aeruginosa	environmental	water	freshwater	freshwater pond or lake	
 2486246.3		Microcystis aeruginosa	environmental	water	freshwater	
 2486247.3		Microcystis aeruginosa	environmental	water	freshwater	
@@ -5221,10 +6114,16 @@
 2517783.3		Microcystis aeruginosa	environmental	water	freshwater	freshwater pond or lake	
 2517784.3		Microcystis aeruginosa	environmental	water	freshwater	freshwater pond or lake	
 2517785.3		Microcystis aeruginosa	environmental	water	freshwater	freshwater pond or lake	
+2517904.3		Salmonella enterica	food production	dairy product	cheese	
+2517904.4		Salmonella enterica	food production	dairy product	cheese	
 257986.3		Bacillus thuringiensis	environmental	soil	
+260678.11		Salmonella enterica	food production	meat product	pork	
+260680.4	SRR2566946	Salmonella enterica	food production	meat product	chicken	
 263.110		Francisella tularensis	environmental	water	
 263.112		Francisella tularensis	environmental	water	
 263.115		Francisella tularensis	environmental	water	
+264.17	SRR2891724,SRR2891725	Francisella tularensis	environmental	water	
+264.20	SRR2084429,SRR2084430	Francisella tularensis	environmental	water	
 267869.6		Microcystis aeruginosa	environmental	water	freshwater	
 2686288.3		Microcystis aeruginosa	environmental	water	freshwater	
 2702.155		Gardnerella vaginalis	hospital environment	hospital sink	
@@ -5339,6 +6238,223 @@
 28141.807		Cronobacter sakazakii	food production	
 28141.808		Cronobacter sakazakii	food production	
 28141.810		Cronobacter sakazakii	food production	
+28142.10		Salmonella enterica	food production	meat product	turkey	
+28142.12		Salmonella enterica	food production	meat product	turkey	
+28142.13		Salmonella enterica	food production	meat product	turkey	
+28142.14		Salmonella enterica	food production	meat product	turkey	
+28142.6	SRR2566960	Salmonella enterica	food production	meat product	turkey	
+28142.7	SRR2566961	Salmonella enterica	food production	meat product	turkey	
+28142.8	SRR3665271	Salmonella enterica	food production	meat product	turkey	
+28142.9	SRR3664765	Salmonella enterica	food production	meat product	turkey	
+28144.102		Salmonella enterica	food production	meat product	pork	
+28144.104		Salmonella enterica	food production	meat product	pork	
+28144.105		Salmonella enterica	food production	meat product	pork	
+28144.106		Salmonella enterica	food production	meat product	pork	
+28144.107		Salmonella enterica	food production	meat product	pork	
+28144.108		Salmonella enterica	food production	meat product	pork	
+28144.109		Salmonella enterica	food production	meat product	pork	
+28144.110		Salmonella enterica	food production	meat product	pork	
+28144.111		Salmonella enterica	food production	meat product	pork	
+28144.113		Salmonella enterica	food production	meat product	pork	
+28144.114		Salmonella enterica	food production	meat product	pork	
+28144.115		Salmonella enterica	food production	meat product	pork	
+28144.116		Salmonella enterica	food production	meat product	pork	
+28144.118		Salmonella enterica	food production	meat product	pork	
+28144.119		Salmonella enterica	food production	meat product	pork	
+28144.120		Salmonella enterica	food production	meat product	pork	
+28144.121		Salmonella enterica	food production	meat product	pork	
+28144.123		Salmonella enterica	food production	meat product	pork	
+28144.124		Salmonella enterica	food production	meat product	pork	
+28144.125		Salmonella enterica	food production	meat product	pork	
+28144.126		Salmonella enterica	food production	meat product	pork	
+28144.127		Salmonella enterica	food production	meat product	pork	
+28144.128		Salmonella enterica	food production	meat product	pork	
+28144.129		Salmonella enterica	food production	meat product	pork	
+28144.130		Salmonella enterica	food production	meat product	pork	
+28144.132		Salmonella enterica	food production	meat product	pork	
+28144.157		Salmonella enterica	food production	meat product	pork	
+28144.159		Salmonella enterica	food production	meat product	pork	
+28144.161		Salmonella enterica	food production	meat product	pork	
+28144.162		Salmonella enterica	food production	meat product	pork	
+28144.164		Salmonella enterica	food production	meat product	pork	
+28144.166		Salmonella enterica	food production	meat product	pork	
+28144.167		Salmonella enterica	food production	meat product	pork	
+28144.169		Salmonella enterica	food production	meat product	pork	
+28144.170		Salmonella enterica	food production	meat product	pork	
+28144.171		Salmonella enterica	food production	meat product	pork	
+28144.172		Salmonella enterica	food production	meat product	pork	
+28144.173		Salmonella enterica	food production	meat product	pork	
+28144.174		Salmonella enterica	food production	meat product	pork	
+28144.175		Salmonella enterica	food production	meat product	pork	
+28144.176		Salmonella enterica	food production	meat product	pork	
+28144.177		Salmonella enterica	food production	meat product	pork	
+28144.178		Salmonella enterica	food production	meat product	pork	
+28144.179		Salmonella enterica	food production	meat product	pork	
+28144.180		Salmonella enterica	food production	meat product	pork	
+28144.181		Salmonella enterica	food production	meat product	pork	
+28144.182		Salmonella enterica	food production	meat product	pork	
+28144.183		Salmonella enterica	food production	meat product	pork	
+28144.184		Salmonella enterica	food production	meat product	pork	
+28144.185		Salmonella enterica	food production	meat product	pork	
+28144.186		Salmonella enterica	food production	meat product	pork	
+28144.187		Salmonella enterica	food production	meat product	pork	
+28144.189		Salmonella enterica	food production	meat product	pork	
+28144.190		Salmonella enterica	food production	meat product	pork	
+28144.191		Salmonella enterica	food production	meat product	pork	
+28144.192		Salmonella enterica	food production	meat product	pork	
+28144.195		Salmonella enterica	food production	meat product	pork	
+28144.196		Salmonella enterica	food production	meat product	pork	
+28144.197		Salmonella enterica	food production	meat product	pork	
+28144.198		Salmonella enterica	food production	meat product	pork	
+28144.200		Salmonella enterica	food production	meat product	pork	
+28144.201		Salmonella enterica	food production	meat product	pork	
+28144.202		Salmonella enterica	food production	meat product	pork	
+28144.203		Salmonella enterica	food production	meat product	pork	
+28144.210		Salmonella enterica	food production	meat product	pork	
+28144.211		Salmonella enterica	food production	meat product	pork	
+28144.215		Salmonella enterica	food production	meat product	pork	
+28144.220		Salmonella enterica	food production	meat product	pork	
+28144.221		Salmonella enterica	food production	meat product	pork	
+28144.222		Salmonella enterica	food production	meat product	pork	
+28144.23	SRR2566977	Salmonella enterica	food production	meat product	pork	
+28144.24	SRR2567074	Salmonella enterica	food production	meat product	pork	
+28144.247		Salmonella enterica	food production	
+28144.248		Salmonella enterica	sewage	waste water	
+28144.249		Salmonella enterica	sewage	waste water	
+28144.25	SRR2567075	Salmonella enterica	food production	meat product	pork	
+28144.250		Salmonella enterica	sewage	waste water	
+28144.251		Salmonella enterica	sewage	waste water	
+28144.252		Salmonella enterica	sewage	waste water	
+28144.253		Salmonella enterica	sewage	waste water	
+28144.254		Salmonella enterica	sewage	waste water	
+28144.255		Salmonella enterica	sewage	waste water	
+28144.256		Salmonella enterica	sewage	waste water	
+28144.257		Salmonella enterica	sewage	waste water	
+28144.258		Salmonella enterica	sewage	waste water	
+28144.26	SRR2567173	Salmonella enterica	food production	meat product	pork	
+28144.263		Salmonella enterica	sewage	waste water	
+28144.264		Salmonella enterica	sewage	waste water	
+28144.265		Salmonella enterica	sewage	waste water	
+28144.266		Salmonella enterica	sewage	waste water	
+28144.267		Salmonella enterica	sewage	waste water	
+28144.268		Salmonella enterica	sewage	waste water	
+28144.269		Salmonella enterica	sewage	waste water	
+28144.27	SRR2567037	Salmonella enterica	food production	meat product	pork	
+28144.270		Salmonella enterica	sewage	waste water	
+28144.271		Salmonella enterica	sewage	waste water	
+28144.272		Salmonella enterica	sewage	waste water	
+28144.273		Salmonella enterica	sewage	waste water	
+28144.274		Salmonella enterica	sewage	waste water	
+28144.275		Salmonella enterica	sewage	waste water	
+28144.276		Salmonella enterica	sewage	waste water	
+28144.277		Salmonella enterica	sewage	waste water	
+28144.278		Salmonella enterica	sewage	waste water	
+28144.279		Salmonella enterica	sewage	waste water	
+28144.280		Salmonella enterica	sewage	waste water	
+28144.281		Salmonella enterica	sewage	waste water	
+28144.282		Salmonella enterica	sewage	waste water	
+28144.283		Salmonella enterica	sewage	waste water	
+28144.284		Salmonella enterica	sewage	waste water	
+28144.285		Salmonella enterica	sewage	waste water	
+28144.286		Salmonella enterica	sewage	waste water	
+28144.287		Salmonella enterica	sewage	waste water	
+28144.288		Salmonella enterica	sewage	waste water	
+28144.289		Salmonella enterica	sewage	waste water	
+28144.290		Salmonella enterica	sewage	waste water	
+28144.291		Salmonella enterica	sewage	waste water	
+28144.292		Salmonella enterica	sewage	waste water	
+28144.293		Salmonella enterica	sewage	waste water	
+28144.294		Salmonella enterica	sewage	waste water	
+28144.295		Salmonella enterica	sewage	waste water	
+28144.296		Salmonella enterica	sewage	waste water	
+28144.297		Salmonella enterica	sewage	waste water	
+28144.298		Salmonella enterica	sewage	waste water	
+28144.299		Salmonella enterica	sewage	waste water	
+28144.300		Salmonella enterica	sewage	waste water	
+28144.301		Salmonella enterica	sewage	waste water	
+28144.302		Salmonella enterica	sewage	waste water	
+28144.303		Salmonella enterica	sewage	waste water	
+28144.33	SRR3665088	Salmonella enterica	food production	meat product	pork	
+28144.34	SRR3665114	Salmonella enterica	food production	meat product	turkey	
+28144.35	SRR3664743	Salmonella enterica	food production	meat product	turkey	
+28144.36	SRR3664939	Salmonella enterica	food production	meat product	pork	
+28144.38		Salmonella enterica	food production	
+28144.58		Salmonella enterica	food production	meat product	pork	
+28144.59		Salmonella enterica	food production	meat product	turkey	
+28144.83		Salmonella enterica	food production	meat product	pork	
+28144.84		Salmonella enterica	food production	meat product	pork	
+28144.86		Salmonella enterica	food production	meat product	pork	
+28144.88		Salmonella enterica	food production	meat product	pork	
+28144.89		Salmonella enterica	food production	meat product	pork	
+28144.90		Salmonella enterica	food production	meat product	pork	
+28144.91		Salmonella enterica	food production	meat product	pork	
+28144.92		Salmonella enterica	food production	meat product	pork	
+28144.93		Salmonella enterica	food production	meat product	pork	
+28144.94		Salmonella enterica	food production	meat product	pork	
+28144.95		Salmonella enterica	food production	meat product	pork	
+28144.97		Salmonella enterica	food production	meat product	pork	
+28144.98		Salmonella enterica	food production	meat product	pork	
+28144.99		Salmonella enterica	food production	meat product	pork	
+28147.10		Salmonella enterica	environmental	water	freshwater	river or stream	
+28147.11		Salmonella enterica	environmental	water	freshwater	river or stream	
+28147.12		Salmonella enterica	environmental	water	freshwater	river or stream	
+28147.13		Salmonella enterica	environmental	water	freshwater	river or stream	
+28147.14		Salmonella enterica	environmental	water	freshwater	river or stream	
+28147.15		Salmonella enterica	environmental	water	freshwater	river or stream	
+28147.16		Salmonella enterica	environmental	water	freshwater	river or stream	
+28147.17		Salmonella enterica	environmental	water	freshwater	river or stream	
+28147.18		Salmonella enterica	environmental	water	freshwater	river or stream	
+28147.19		Salmonella enterica	environmental	water	freshwater	river or stream	
+28147.20		Salmonella enterica	environmental	water	freshwater	river or stream	
+28147.21		Salmonella enterica	environmental	water	freshwater	river or stream	
+28147.22		Salmonella enterica	environmental	water	freshwater	river or stream	
+28147.23		Salmonella enterica	environmental	water	freshwater	river or stream	
+28147.24		Salmonella enterica	environmental	water	freshwater	river or stream	
+28147.25		Salmonella enterica	environmental	water	freshwater	river or stream	
+28147.26		Salmonella enterica	environmental	water	freshwater	river or stream	
+28147.27		Salmonella enterica	environmental	water	freshwater	river or stream	
+28147.4		Salmonella enterica	environmental	water	freshwater	river or stream	
+28147.5		Salmonella enterica	environmental	water	freshwater	river or stream	
+28147.6		Salmonella enterica	environmental	water	freshwater	river or stream	
+28147.7		Salmonella enterica	environmental	water	freshwater	river or stream	
+28147.8		Salmonella enterica	environmental	water	freshwater	river or stream	
+28147.9		Salmonella enterica	environmental	water	freshwater	river or stream	
+28150.14	SRR3664982	Salmonella enterica	food production	meat product	turkey	
+28150.15	SRR3665284	Salmonella enterica	food production	meat product	turkey	
+28150.16	SRR3664622	Salmonella enterica	food production	meat product	turkey	
+28150.17	SRR3665072	Salmonella enterica	food production	meat product	turkey	
+28150.18	SRR3665094	Salmonella enterica	food production	meat product	turkey	
+28150.19	SRR3665137	Salmonella enterica	food production	meat product	turkey	
+28150.20	SRR3665209	Salmonella enterica	food production	meat product	turkey	
+28150.21	SRR3665233	Salmonella enterica	food production	meat product	turkey	
+28150.22	SRR3664859	Salmonella enterica	food production	meat product	turkey	
+28150.39		Salmonella enterica	food production	meat product	turkey	
+28150.40		Salmonella enterica	food production	meat product	turkey	
+28150.5	SRR2566873	Salmonella enterica	food production	meat product	chicken	
+28150.6	SRR2567167	Salmonella enterica	food production	meat product	turkey	
+28150.68		Salmonella enterica	sewage	
+28150.7	SRR2567205	Salmonella enterica	food production	meat product	turkey	
+28150.75		Salmonella enterica	food production	
+28150.76		Salmonella enterica	food production	
+28150.79		Salmonella enterica	sewage	waste water	
+28150.80		Salmonella enterica	sewage	waste water	
+28150.81		Salmonella enterica	sewage	waste water	
+28150.82		Salmonella enterica	sewage	waste water	
+28150.83		Salmonella enterica	sewage	waste water	
+28150.84		Salmonella enterica	sewage	waste water	
+28150.85		Salmonella enterica	sewage	waste water	
+28150.86		Salmonella enterica	sewage	waste water	
+28150.87		Salmonella enterica	sewage	waste water	
+28150.88		Salmonella enterica	sewage	waste water	
+28150.89		Salmonella enterica	sewage	waste water	
+28150.90		Salmonella enterica	sewage	waste water	
+28150.91		Salmonella enterica	sewage	waste water	
+28150.92		Salmonella enterica	sewage	waste water	
+28150.93		Salmonella enterica	sewage	waste water	
+28150.94		Salmonella enterica	sewage	waste water	
+28150.96		Salmonella enterica	sewage	waste water	
+28150.97		Salmonella enterica	sewage	waste water	
+28150.98		Salmonella enterica	sewage	waste water	
 28450.149		Burkholderia pseudomallei	environmental	
 28450.1586		Burkholderia pseudomallei	environmental	soil	
 28450.1587		Burkholderia pseudomallei	environmental	soil	
@@ -5496,6 +6612,10 @@
 28450.797		Burkholderia pseudomallei	environmental	soil	
 28450.830		Burkholderia pseudomallei	environmental	soil	
 28450.831		Burkholderia pseudomallei	environmental	soil	
+286783.332		Salmonella enterica	food production	meat product	beef	
+286783.333		Salmonella enterica	food production	meat product	pork	
+286783.56		Salmonella enterica	food production	meat product	chicken	
+286783.58		Salmonella enterica	feces	
 287.10422		Pseudomonas aeruginosa	sewage	sludge	
 287.11066		Pseudomonas aeruginosa	food production	dairy product	milk	
 287.11554		Pseudomonas aeruginosa	environmental	sediment	
@@ -7990,6 +9110,7 @@
 294.831		Pseudomonas fluorescens	environmental	soil	
 294.832		Pseudomonas fluorescens	food production	dairy product	milk	
 294.836		Pseudomonas fluorescens	environmental	soil	
+29472.8		Salmonella enterica	environmental	water	
 29497.102		Vibrio splendidus	environmental	water	seawater	
 29497.103		Vibrio splendidus	environmental	water	seawater	
 29497.105		Vibrio splendidus	environmental	water	seawater	
@@ -8327,10 +9448,96 @@
 317.173		Pseudomonas syringae	environmental	water	freshwater	river or stream	
 317.297		Pseudomonas syringae	environmental	
 317.422		Pseudomonas syringae	environmental	soil	
+32019.11	ERR1045973	Campylobacter fetus	environmental	water	
+32022.291		Campylobacter jejuni	environmental	water	
+32022.535		Campylobacter jejuni	food production	meat product	chicken	
+32022.537		Campylobacter jejuni	food production	meat product	chicken	
+32022.544		Campylobacter jejuni	food production	meat product	chicken	
+32022.546		Campylobacter jejuni	food production	meat product	chicken	
+32022.547		Campylobacter jejuni	food production	meat product	chicken	
+32022.548		Campylobacter jejuni	food production	meat product	chicken	
+32022.550		Campylobacter jejuni	food production	meat product	chicken	
+32022.551		Campylobacter jejuni	food production	meat product	chicken	
+32022.552		Campylobacter jejuni	food production	meat product	chicken	
+32022.554		Campylobacter jejuni	food production	meat product	chicken	
+32022.555		Campylobacter jejuni	food production	meat product	chicken	
+32022.556		Campylobacter jejuni	food production	meat product	chicken	
+32022.557		Campylobacter jejuni	food production	meat product	chicken	
+32022.558		Campylobacter jejuni	food production	meat product	chicken	
+32022.559		Campylobacter jejuni	food production	meat product	chicken	
+32022.560		Campylobacter jejuni	food production	meat product	chicken	
+32022.561		Campylobacter jejuni	food production	meat product	chicken	
+32022.562		Campylobacter jejuni	food production	meat product	chicken	
+32022.564		Campylobacter jejuni	food production	meat product	chicken	
+32022.565		Campylobacter jejuni	food production	meat product	chicken	
+32022.566		Campylobacter jejuni	food production	meat product	chicken	
+32022.568		Campylobacter jejuni	food production	meat product	chicken	
+32022.570		Campylobacter jejuni	food production	meat product	chicken	
+32022.571		Campylobacter jejuni	food production	meat product	chicken	
+32022.573		Campylobacter jejuni	food production	meat product	chicken	
+32022.574		Campylobacter jejuni	food production	meat product	chicken	
+32022.575		Campylobacter jejuni	food production	meat product	chicken	
+32022.580		Campylobacter jejuni	sewage	
+32022.586		Campylobacter jejuni	sewage	
+32022.863		Campylobacter jejuni	environmental	water	
+32022.866		Campylobacter jejuni	environmental	water	freshwater	river or stream	
+32022.868		Campylobacter jejuni	environmental	water	
+32022.869		Campylobacter jejuni	environmental	water	
+32022.870		Campylobacter jejuni	environmental	water	
 326423.5		Bacillus amyloliquefaciens	environmental	soil	
+337330.19		Lactobacillus plantarum	food production	
+337330.34		Lactobacillus plantarum	food production	
+337330.35		Lactobacillus plantarum	food production	
+337330.45		Lactobacillus plantarum	food production	plant product	kimchi	
+337330.6		Lactobacillus plantarum	food production	plant product	kimchi	
 339.50		Xanthomonas campestris	environmental	soil	
 339658.3		Bacillus thuringiensis	environmental	soil	
 340184.27		Escherichia coli	feces	
+340188.19		Salmonella enterica	food production	
+340188.22		Salmonella enterica	environmental	soil	
+340188.25		Salmonella enterica	environmental	soil	
+340188.26		Salmonella enterica	environmental	water	
+340188.27		Salmonella enterica	environmental	soil	
+340188.28		Salmonella enterica	environmental	soil	
+340188.29		Salmonella enterica	environmental	soil	
+340188.30		Salmonella enterica	environmental	soil	
+340188.31		Salmonella enterica	environmental	water	
+340190.10	SRR2567116	Salmonella enterica	food production	meat product	chicken	
+340190.11	SRR2567150	Salmonella enterica	food production	meat product	chicken	
+340190.12	SRR2567152	Salmonella enterica	food production	meat product	chicken	
+340190.13	SRR2567160	Salmonella enterica	food production	meat product	chicken	
+340190.14	SRR2567182	Salmonella enterica	food production	meat product	chicken	
+340190.15	SRR2567204	Salmonella enterica	food production	meat product	chicken	
+340190.16	SRR2567044	Salmonella enterica	food production	meat product	chicken	
+340190.17	SRR3664830	Salmonella enterica	food production	meat product	turkey	
+340190.18	SRR3664609	Salmonella enterica	food production	meat product	turkey	
+340190.19	SRR3664803	Salmonella enterica	food production	meat product	chicken	
+340190.20	SRR3664667	Salmonella enterica	food production	meat product	turkey	
+340190.21	SRR3664721	Salmonella enterica	food production	meat product	turkey	
+340190.26		Salmonella enterica	food production	meat product	turkey	
+340190.27		Salmonella enterica	food production	meat product	turkey	
+340190.28		Salmonella enterica	food production	meat product	turkey	
+340190.29		Salmonella enterica	food production	meat product	turkey	
+340190.3	SRR2566870	Salmonella enterica	food production	meat product	chicken	
+340190.30		Salmonella enterica	food production	meat product	turkey	
+340190.31		Salmonella enterica	food production	meat product	turkey	
+340190.32		Salmonella enterica	food production	meat product	turkey	
+340190.4	SRR2566890	Salmonella enterica	food production	meat product	chicken	
+340190.5	SRR2566919	Salmonella enterica	food production	meat product	chicken	
+340190.6	SRR2566968	Salmonella enterica	food production	meat product	turkey	
+340190.7	SRR2566985	Salmonella enterica	food production	meat product	turkey	
+340190.70		Salmonella enterica	food production	meat product	chicken	
+340190.71		Salmonella enterica	food production	meat product	chicken	
+340190.8	SRR2567043	Salmonella enterica	food production	meat product	chicken	
+340190.9	SRR2567071	Salmonella enterica	food production	meat product	turkey	
+358771.12		Salmonella enterica	food production	meat product	chicken	
+363569.13		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+363569.14		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+363569.15		Salmonella enterica	environmental	sediment	
+363569.3	SRR3664879	Salmonella enterica	food production	meat product	turkey	
+363569.32		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+363569.69		Salmonella enterica	sewage	waste water	
+363569.70		Salmonella enterica	sewage	waste water	
 365659.3		Streptococcus mitis	hospital environment	
 382.381		Sinorhizobium meliloti	environmental	soil	
 382.53		Sinorhizobium meliloti	environmental	soil	
@@ -8359,6 +9566,10 @@
 384.388		Rhizobium leguminosarum	environmental	soil	
 384.390		Rhizobium leguminosarum	environmental	soil	
 393118.7		Listeria monocytogenes	environmental	water	
+399587.36		Salmonella enterica	feces	
+399587.56	ERR3317755	Salmonella enterica	environmental	soil	mud	
+399587.71	ERR3317768	Salmonella enterica	environmental	water	
+399587.8		Salmonella enterica	food production	meat product	meat	
 40324.1050		Stenotrophomonas maltophilia	hospital environment	hospital sink	
 40324.1051		Stenotrophomonas maltophilia	hospital environment	hospital sink	
 40324.1052		Stenotrophomonas maltophilia	hospital environment	hospital sink	
@@ -8472,6 +9683,10 @@
 40324.941		Stenotrophomonas maltophilia	hospital environment	hospital sink	
 405532.19		Bacillus cereus	environmental	
 412614.24	SRR4039803	Vibrio cholerae	environmental	water	
+439853.3	SRR3664613	Salmonella enterica	food production	meat product	chicken	
+439853.4	SRR3664825	Salmonella enterica	food production	meat product	chicken	
+439853.5	SRR3664796	Salmonella enterica	food production	meat product	chicken	
+440524.15		Salmonella enterica	environmental	water	
 446.145		Legionella pneumophila	environmental	water	freshwater	drinking or tap water	
 446.146		Legionella pneumophila	environmental	water	freshwater	drinking or tap water	
 446.149		Legionella pneumophila	industrial	industrial water	cooling tower water	
@@ -8678,11 +9893,36 @@
 446.931		Legionella pneumophila	hospital environment	hospital sink	
 446.932		Legionella pneumophila	hospital environment	hospital sink	
 446.944		Legionella pneumophila	industrial	
+44688.15		Lactococcus lactis	food production	dairy product	cheese	
 449441.3		Microcystis aeruginosa	environmental	water	freshwater	freshwater pond or lake	
 449468.7		Microcystis aeruginosa	environmental	water	freshwater	
 449468.8		Microcystis aeruginosa	environmental	water	freshwater	
 454594.20		Xanthomonas citri	environmental	
 46126.153		Staphylococcus chromogenes	environmental	soil	desert soil	
+46170.103		Staphylococcus aureus	hospital environment	
+46170.104		Staphylococcus aureus	hospital environment	
+46170.105		Staphylococcus aureus	hospital environment	
+46170.106		Staphylococcus aureus	hospital environment	
+46170.107		Staphylococcus aureus	hospital environment	
+46170.131	SRR1790316	Staphylococcus aureus	food production	
+46170.132	SRR1790319	Staphylococcus aureus	food production	
+46170.133	SRR1790315	Staphylococcus aureus	food production	
+46170.134	SRR1790318	Staphylococcus aureus	food production	
+46170.137	SRR1786284	Staphylococcus aureus	food production	
+46170.138	SRR1786285	Staphylococcus aureus	food production	
+46170.139	SRR1786287	Staphylococcus aureus	food production	
+46170.140	SRR1790308	Staphylococcus aureus	food production	
+46170.141	SRR1790310	Staphylococcus aureus	food production	
+46170.142	SRR1790317	Staphylococcus aureus	food production	
+46170.171		Staphylococcus aureus	environmental	soil	
+46170.288		Staphylococcus aureus	food production	meat product	chicken	
+46626.21		Salmonella enterica	environmental	water	
+46626.23		Salmonella enterica	environmental	soil	
+46626.24		Salmonella enterica	environmental	water	
+46626.25		Salmonella enterica	environmental	water	
+46626.26		Salmonella enterica	environmental	water	
+46626.35		Salmonella enterica	environmental	sediment	
+46626.45		Salmonella enterica	sewage	waste water	
 470.11505		Acinetobacter baumannii	environmental	
 470.11506		Acinetobacter baumannii	environmental	
 470.11507		Acinetobacter baumannii	environmental	
@@ -8812,6 +10052,19 @@
 48296.283		Acinetobacter pittii	environmental	soil	
 48296.364		Acinetobacter pittii	environmental	
 48296.365		Acinetobacter pittii	environmental	
+483913.116		Bacillus subtilis	environmental	soil	
+483913.3		Bacillus subtilis	environmental	soil	
+486998.3	SRR2566947	Salmonella enterica	food production	meat product	turkey	
+486998.4	SRR2567010	Salmonella enterica	food production	meat product	chicken	
+486998.5	SRR2567018	Salmonella enterica	food production	meat product	turkey	
+486998.6	SRR2567017	Salmonella enterica	food production	meat product	turkey	
+486998.7	SRR3665027	Salmonella enterica	food production	meat product	chicken	
+486998.8	SRR3665177	Salmonella enterica	food production	meat product	beef	
+486998.9		Salmonella enterica	food production	meat product	beef	
+487004.11		Salmonella enterica	sewage	waste water	
+487004.12		Salmonella enterica	sewage	waste water	
+487004.13		Salmonella enterica	sewage	waste water	
+487004.14		Salmonella enterica	sewage	waste water	
 492670.165		Bacillus velezensis	environmental	soil	
 492670.166		Bacillus velezensis	environmental	soil	
 492670.180		Bacillus velezensis	food production	
@@ -10993,7 +12246,19 @@
 562.7814		Escherichia coli	food production	meat product	beef	
 562.7815		Escherichia coli	food production	meat product	beef	
 562.9022		Escherichia coli	environmental	
+565143.3	SRR005089	Bacillus subtilis	environmental	soil	
+568095.6		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+568095.7		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
 570416.10		Bacillus thuringiensis	environmental	soil	
+57045.12		Salmonella enterica	food production	
+57045.13		Salmonella enterica	environmental	water	
+57045.43	SRR5877101	Salmonella enterica	food production	meat product	chicken	
+57045.45	SRR5877098	Salmonella enterica	environmental	
+57045.46	SRR5877092	Salmonella enterica	food production	meat product	chicken	
+57045.48	SRR5877089	Salmonella enterica	food production	meat product	chicken	
+57045.50	SRR5877091	Salmonella enterica	environmental	
+57045.55	SRR5877102	Salmonella enterica	environmental	
+57045.6		Salmonella enterica	food production	
 571.233		Klebsiella oxytoca	industrial	metal	metal	
 571.234		Klebsiella oxytoca	industrial	metal	metal	
 571.235		Klebsiella oxytoca	industrial	metal	metal	
@@ -11424,6 +12689,70 @@
 573.9997		Klebsiella pneumoniae	feces	
 573.9998		Klebsiella pneumoniae	feces	
 573.9999		Klebsiella pneumoniae	feces	
+574.29		Klebsiella pneumoniae	environmental	
+57743.117	ERR495258	Salmonella enterica	food production	
+57743.118	ERR495270	Salmonella enterica	environmental	
+57743.20	ERR495280	Salmonella enterica	food production	meat product	pork	
+57743.206		Salmonella enterica	food production	meat product	beef	
+57743.222		Salmonella enterica	food production	meat product	pork	
+57743.229		Salmonella enterica	sewage	waste water	
+57743.34	ERR495281	Salmonella enterica	food production	meat product	pork	
+57743.57	ERR495267	Salmonella enterica	food production	
+57743.59	ERR495256	Salmonella enterica	food production	
+57743.80	ERR495268	Salmonella enterica	environmental	
+57743.84	ERR495259	Salmonella enterica	food production	
+57743.92	ERR495260	Salmonella enterica	food production	
+58095.10	SRR2567058	Salmonella enterica	food production	meat product	turkey	
+58095.11	SRR2567072	Salmonella enterica	food production	meat product	turkey	
+58095.12	SRR3664970	Salmonella enterica	food production	meat product	turkey	
+58095.13	SRR3664651	Salmonella enterica	food production	meat product	beef	
+58095.14	SRR3665110	Salmonella enterica	food production	meat product	turkey	
+58095.15	SRR3665129	Salmonella enterica	food production	meat product	turkey	
+58095.16	SRR3664901	Salmonella enterica	food production	meat product	turkey	
+58095.17	SRR3664631	Salmonella enterica	food production	meat product	turkey	
+58095.22		Salmonella enterica	food production	meat product	turkey	
+58095.23		Salmonella enterica	food production	meat product	turkey	
+58095.24		Salmonella enterica	food production	meat product	turkey	
+58095.25		Salmonella enterica	food production	meat product	pork	
+58095.26		Salmonella enterica	food production	meat product	turkey	
+58095.27		Salmonella enterica	food production	meat product	turkey	
+58095.38		Salmonella enterica	environmental	soil	
+58095.53		Salmonella enterica	food production	meat product	chicken	
+58095.54		Salmonella enterica	food production	meat product	chicken	
+58095.55		Salmonella enterica	food production	meat product	chicken	
+58095.56		Salmonella enterica	food production	meat product	chicken	
+58095.57		Salmonella enterica	food production	meat product	chicken	
+58095.58		Salmonella enterica	food production	meat product	chicken	
+58095.59		Salmonella enterica	food production	meat product	chicken	
+58095.60		Salmonella enterica	food production	meat product	chicken	
+58095.61		Salmonella enterica	food production	meat product	chicken	
+58095.62		Salmonella enterica	food production	meat product	chicken	
+58095.63		Salmonella enterica	food production	meat product	chicken	
+58095.64		Salmonella enterica	food production	meat product	chicken	
+58095.65		Salmonella enterica	food production	meat product	chicken	
+58095.66		Salmonella enterica	food production	meat product	chicken	
+58095.67		Salmonella enterica	food production	meat product	chicken	
+58095.68		Salmonella enterica	food production	meat product	chicken	
+58095.79		Salmonella enterica	sewage	waste water	
+58095.80		Salmonella enterica	sewage	waste water	
+58095.81		Salmonella enterica	sewage	waste water	
+58095.82		Salmonella enterica	sewage	waste water	
+58095.83		Salmonella enterica	sewage	waste water	
+58095.84		Salmonella enterica	sewage	waste water	
+58095.85		Salmonella enterica	sewage	waste water	
+58095.86		Salmonella enterica	sewage	waste water	
+58095.9	SRR2566901	Salmonella enterica	food production	meat product	turkey	
+58096.12	SRR4012908	Salmonella enterica	environmental	water	freshwater	river or stream	
+58096.13	SRR4012910	Salmonella enterica	environmental	water	freshwater	river or stream	
+58096.14	SRR4012827	Salmonella enterica	environmental	
+58096.15	SRR4012887	Salmonella enterica	environmental	water	freshwater	river or stream	
+58096.16	SRR4012897	Salmonella enterica	environmental	
+58096.56		Salmonella enterica	sewage	waste water	
+58096.57		Salmonella enterica	sewage	waste water	
+58096.58		Salmonella enterica	sewage	waste water	
+58096.8	SRR4012823	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+58096.9	SRR4012824	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+58101.3		Salmonella enterica	feces	
 584.137		Proteus mirabilis	environmental	water	hotspring	
 584.1418		Proteus mirabilis	feces	
 584.1423		Proteus mirabilis	feces	
@@ -11434,6 +12763,47 @@
 584.759		Proteus mirabilis	feces	
 584.86	SRR1945174	Proteus mirabilis	food production	meat product	beef	
 584.87		Proteus mirabilis	environmental	water	
+58712.10	SRR3664905	Salmonella enterica	food production	meat product	beef	
+58712.126		Salmonella enterica	sewage	waste water	
+58712.127		Salmonella enterica	sewage	waste water	
+58712.128		Salmonella enterica	sewage	waste water	
+58712.129		Salmonella enterica	sewage	waste water	
+58712.130		Salmonella enterica	sewage	waste water	
+58712.131		Salmonella enterica	sewage	waste water	
+58712.132		Salmonella enterica	sewage	waste water	
+58712.133		Salmonella enterica	sewage	waste water	
+58712.134		Salmonella enterica	sewage	waste water	
+58712.20	SRR4012892	Salmonella enterica	environmental	water	freshwater	river or stream	
+58712.22		Salmonella enterica	food production	meat product	beef	
+58712.253		Salmonella enterica	food production	meat product	meat	
+58712.255		Salmonella enterica	food production	meat product	meat	
+58712.256		Salmonella enterica	food production	meat product	meat	
+58712.3	SRR2566917	Salmonella enterica	food production	meat product	turkey	
+58712.305		Salmonella enterica	food production	meat product	meat	
+58712.306		Salmonella enterica	food production	meat product	meat	
+58712.307		Salmonella enterica	food production	meat product	meat	
+58712.308		Salmonella enterica	food production	meat product	meat	
+58712.309		Salmonella enterica	food production	meat product	meat	
+58712.310		Salmonella enterica	food production	meat product	meat	
+58712.311		Salmonella enterica	food production	meat product	meat	
+58712.312		Salmonella enterica	food production	meat product	meat	
+58712.315		Salmonella enterica	food production	meat product	meat	
+58712.316		Salmonella enterica	food production	meat product	meat	
+58712.317		Salmonella enterica	food production	meat product	meat	
+58712.318		Salmonella enterica	food production	meat product	meat	
+58712.319		Salmonella enterica	food production	meat product	meat	
+58712.320		Salmonella enterica	environmental	
+58712.321		Salmonella enterica	food production	meat product	meat	
+58712.322		Salmonella enterica	environmental	
+58712.323		Salmonella enterica	environmental	
+58712.324		Salmonella enterica	environmental	
+58712.325		Salmonella enterica	environmental	
+58712.4	SRR2566918	Salmonella enterica	food production	meat product	turkey	
+58712.5	SRR2567200	Salmonella enterica	food production	meat product	beef	
+58712.6		Salmonella enterica	food production	meat product	turkey	
+58712.7		Salmonella enterica	food production	meat product	turkey	
+58712.8	SRR3664633	Salmonella enterica	food production	meat product	turkey	
+58712.9	SRR3665145	Salmonella enterica	food production	meat product	chicken	
 590.12636	SRR3055291	Salmonella enterica	food production	meat product	chicken	
 590.12637	SRR3306287	Salmonella enterica	food production	meat product	turkey	
 590.12638	SRR3330217	Salmonella enterica	food production	meat product	turkey	
@@ -15936,9 +17306,458 @@
 590.17894	SRR3664944	Salmonella enterica	food production	meat product	beef	
 590.17895	SRR3932922	Salmonella enterica	food production	meat product	chicken	
 590.17896	SRR4280587	Salmonella enterica	food production	meat product	turkey	
+59201.1016		Salmonella enterica	food production	meat product	turkey	
+59201.1018		Salmonella enterica	environmental	
+59201.1032		Salmonella enterica	food production	meat product	turkey	
+59201.1037		Salmonella enterica	food production	meat product	turkey	
+59201.1041		Salmonella enterica	environmental	
+59201.1045		Salmonella enterica	food production	
+59201.1048		Salmonella enterica	environmental	
+59201.1049		Salmonella enterica	environmental	
+59201.1058		Salmonella enterica	food production	dairy product	cheese	
+59201.1071		Salmonella enterica	food production	meat product	turkey	
+59201.1076		Salmonella enterica	food production	meat product	chicken	
+59201.1092		Salmonella enterica	food production	
+59201.1098		Salmonella enterica	food production	
+59201.1104		Salmonella enterica	food production	meat product	turkey	
+59201.1112		Salmonella enterica	food production	meat product	chicken	
+59201.1113		Salmonella enterica	feces	
+59201.1118		Salmonella enterica	food production	meat product	chicken	
+59201.1119		Salmonella enterica	food production	meat product	pork	
+59201.1121		Salmonella enterica	food production	meat product	turkey	
+59201.1126		Salmonella enterica	food production	
+59201.1162		Salmonella enterica	food production	
+59201.1209		Salmonella enterica	environmental	
+59201.1226		Salmonella enterica	environmental	
+59201.1230		Salmonella enterica	environmental	
+59201.1520		Salmonella enterica	food production	
+59201.1525		Salmonella enterica	food production	
+59201.1537		Salmonella enterica	food production	
+59201.1539		Salmonella enterica	food production	
+59201.1540		Salmonella enterica	food production	
+59201.1545		Salmonella enterica	food production	
+59201.1547		Salmonella enterica	food production	
+59201.1550		Salmonella enterica	environmental	
+59201.1553		Salmonella enterica	food production	
+59201.1555		Salmonella enterica	food production	
+59201.1558		Salmonella enterica	food production	
+59201.1559		Salmonella enterica	food production	
+59201.1560		Salmonella enterica	food production	
+59201.1561		Salmonella enterica	food production	
+59201.1566		Salmonella enterica	food production	
+59201.1568		Salmonella enterica	food production	
+59201.157	SRR1366163	Salmonella enterica	environmental	water	freshwater	river or stream	
+59201.1580		Salmonella enterica	food production	
+59201.1582		Salmonella enterica	food production	
+59201.1591		Salmonella enterica	food production	
+59201.160	SRR2535191	Salmonella enterica	environmental	
+59201.1609		Salmonella enterica	food production	
+59201.1646		Salmonella enterica	food production	
+59201.1650		Salmonella enterica	food production	
+59201.166	SRR1048323,SRR1177350,SRR1177351	Salmonella enterica	environmental	
+59201.1663		Salmonella enterica	food production	
+59201.1665		Salmonella enterica	food production	
+59201.1668		Salmonella enterica	environmental	
+59201.1669		Salmonella enterica	environmental	
+59201.1686		Salmonella enterica	environmental	
+59201.1689		Salmonella enterica	food production	
+59201.1693		Salmonella enterica	food production	
+59201.1696		Salmonella enterica	environmental	
+59201.1700		Salmonella enterica	food production	
+59201.1711		Salmonella enterica	food production	
+59201.1712		Salmonella enterica	food production	
+59201.1713		Salmonella enterica	food production	
+59201.1717		Salmonella enterica	food production	
+59201.1718		Salmonella enterica	food production	
+59201.1719		Salmonella enterica	food production	
+59201.1724		Salmonella enterica	food production	
+59201.1731		Salmonella enterica	food production	
+59201.1762		Salmonella enterica	food production	
+59201.1772		Salmonella enterica	food production	
+59201.1797		Salmonella enterica	food production	
+59201.1852		Salmonella enterica	food production	
+59201.2117		Salmonella enterica	food production	
+59201.2155		Salmonella enterica	food production	
+59201.2168		Salmonella enterica	environmental	
+59201.2169		Salmonella enterica	food production	
+59201.2202		Salmonella enterica	food production	
+59201.2211		Salmonella enterica	environmental	
+59201.2220		Salmonella enterica	food production	
+59201.2237		Salmonella enterica	food production	
+59201.2244		Salmonella enterica	food production	
+59201.2322		Salmonella enterica	environmental	
+59201.2367		Salmonella enterica	food production	
+59201.2368		Salmonella enterica	food production	
+59201.2369		Salmonella enterica	food production	
+59201.2370		Salmonella enterica	food production	
+59201.2371		Salmonella enterica	food production	
+59201.2372		Salmonella enterica	food production	
+59201.2377		Salmonella enterica	food production	meat product	beef	
+59201.2379		Salmonella enterica	food production	meat product	beef	
+59201.2385		Salmonella enterica	food production	meat product	beef	
+59201.2788		Salmonella enterica	food production	
+59201.2789		Salmonella enterica	food production	
+59201.2799		Salmonella enterica	environmental	water	
+59201.2803		Salmonella enterica	food production	
+59201.2804		Salmonella enterica	food production	
+59201.2805		Salmonella enterica	food production	
+59201.2811		Salmonella enterica	food production	
+59201.2812		Salmonella enterica	environmental	
+59201.441		Salmonella enterica	environmental	soil	
+59201.444		Salmonella enterica	environmental	soil	
+59201.619		Salmonella enterica	feces	
+59201.620		Salmonella enterica	environmental	water	freshwater	river or stream	
+59201.621		Salmonella enterica	environmental	
+59201.648		Salmonella enterica	food production	meat product	chicken	
+59201.649		Salmonella enterica	food production	meat product	chicken	
+59201.740		Salmonella enterica	food production	meat product	
+59201.741		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.742		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.743		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.744		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.745		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.746		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.747		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.748		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.749		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.750		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.751		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.752		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.753		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.754		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.755		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.756		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.757		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.758		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.759		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.760		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.761		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.762		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.763		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.764		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.765		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.766		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.767		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.768		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.769		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.770		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.771		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.772		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.773		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.774		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.775		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.776		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.777		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.778		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.779		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.780		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.781		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.782		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.783		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.784		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.785		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.786		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.787		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.788		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.789		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.790		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.791		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.792		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.793		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.794		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.795		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.796		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.797		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.798		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.799		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.800		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.801		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.802		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.803		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.804		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.805		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.806		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.807		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.808		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.809		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.810		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.811		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.812		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.813		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.814		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.815		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.816		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.817		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.818		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.819		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.820		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.821		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.822		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.823		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.824		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.825		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.826		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.827		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.828		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.829		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+59201.833		Salmonella enterica	environmental	sediment	
+59201.834		Salmonella enterica	environmental	sediment	
+59201.835		Salmonella enterica	environmental	sediment	
+59201.836		Salmonella enterica	environmental	sediment	
+59201.837		Salmonella enterica	environmental	sediment	
+59201.838		Salmonella enterica	environmental	water	
+59201.839		Salmonella enterica	environmental	water	
+59201.840		Salmonella enterica	environmental	water	
+59201.841		Salmonella enterica	environmental	water	
+59201.842		Salmonella enterica	environmental	sediment	
+59201.843		Salmonella enterica	environmental	sediment	
+59201.844		Salmonella enterica	environmental	sediment	
+59201.845		Salmonella enterica	environmental	sediment	
+59201.846		Salmonella enterica	environmental	sediment	
+59201.847		Salmonella enterica	environmental	sediment	
+59201.848		Salmonella enterica	environmental	water	
+59201.849		Salmonella enterica	environmental	water	
+59201.850		Salmonella enterica	environmental	water	
+59201.851		Salmonella enterica	environmental	water	
+59201.852		Salmonella enterica	environmental	sediment	
+59201.853		Salmonella enterica	environmental	sediment	
+59201.854		Salmonella enterica	environmental	sediment	
+59201.855		Salmonella enterica	environmental	sediment	
+59201.856		Salmonella enterica	environmental	water	
+59201.857		Salmonella enterica	environmental	water	
+59201.858		Salmonella enterica	environmental	water	
+59201.859		Salmonella enterica	environmental	water	
+59201.860		Salmonella enterica	environmental	water	
+59201.861		Salmonella enterica	environmental	water	
+59201.862		Salmonella enterica	environmental	water	
 592025.5		Bacillus thuringiensis	environmental	soil	
 592313.3		Vibrio cholerae	environmental	water	
 593587.4		Vibrio cholerae	environmental	water	
+593905.17		Salmonella enterica	food production	meat product	chicken	
+593905.18		Salmonella enterica	food production	meat product	chicken	
+593905.19		Salmonella enterica	food production	meat product	chicken	
+593905.20		Salmonella enterica	food production	meat product	chicken	
+593905.21		Salmonella enterica	food production	meat product	chicken	
+593905.22		Salmonella enterica	food production	meat product	chicken	
+593905.23		Salmonella enterica	food production	meat product	chicken	
+593905.24		Salmonella enterica	food production	meat product	chicken	
+593905.25		Salmonella enterica	food production	meat product	chicken	
+593905.26		Salmonella enterica	sewage	waste water	
+595.100		Salmonella enterica	food production	
+595.101		Salmonella enterica	food production	
+595.102		Salmonella enterica	food production	
+595.103		Salmonella enterica	food production	
+595.106		Salmonella enterica	food production	
+595.109		Salmonella enterica	food production	
+595.110		Salmonella enterica	food production	
+595.114		Salmonella enterica	food production	
+595.115		Salmonella enterica	food production	
+595.116		Salmonella enterica	food production	
+595.120		Salmonella enterica	food production	
+595.121		Salmonella enterica	food production	
+595.136		Salmonella enterica	environmental	water	freshwater	river or stream	
+595.29	SRR2566924	Salmonella enterica	food production	meat product	chicken	
+595.30	SRR2566964	Salmonella enterica	food production	meat product	chicken	
+595.31	SRR2566965	Salmonella enterica	food production	meat product	chicken	
+595.32	SRR2566979	Salmonella enterica	food production	meat product	pork	
+595.33	SRR2566995	Salmonella enterica	food production	meat product	beef	
+595.34	SRR2567000	Salmonella enterica	food production	meat product	turkey	
+595.35	SRR2567046	Salmonella enterica	food production	meat product	chicken	
+595.355		Salmonella enterica	sewage	waste water	
+595.356		Salmonella enterica	sewage	waste water	
+595.357		Salmonella enterica	sewage	waste water	
+595.358		Salmonella enterica	sewage	waste water	
+595.359		Salmonella enterica	sewage	waste water	
+595.36	SRR2567063	Salmonella enterica	food production	meat product	chicken	
+595.37	SRR2567082	Salmonella enterica	food production	meat product	chicken	
+595.370		Salmonella enterica	food production	eggs	
+595.371		Salmonella enterica	food production	eggs	
+595.372		Salmonella enterica	food production	eggs	
+595.373		Salmonella enterica	food production	eggs	
+595.374		Salmonella enterica	food production	eggs	
+595.375		Salmonella enterica	food production	eggs	
+595.376		Salmonella enterica	food production	eggs	
+595.377		Salmonella enterica	food production	eggs	
+595.378		Salmonella enterica	food production	eggs	
+595.379		Salmonella enterica	food production	eggs	
+595.38	SRR2567083	Salmonella enterica	food production	meat product	beef	
+595.380		Salmonella enterica	food production	eggs	
+595.381		Salmonella enterica	food production	eggs	
+595.39	SRR2567084	Salmonella enterica	food production	meat product	turkey	
+595.40	SRR2567151	Salmonella enterica	food production	meat product	chicken	
+595.41	SRR2567159	Salmonella enterica	food production	meat product	chicken	
+595.44	SRR3664864	Salmonella enterica	food production	meat product	turkey	
+595.45	SRR3665039	Salmonella enterica	food production	meat product	turkey	
+595.46	SRR3664606	Salmonella enterica	food production	meat product	chicken	
+595.47		Salmonella enterica	food production	
+595.543		Salmonella enterica	food production	
+595.68		Salmonella enterica	food production	meat product	chicken	
+595.69		Salmonella enterica	food production	meat product	chicken	
+595.75		Salmonella enterica	food production	meat product	beef	
+595.78		Salmonella enterica	food production	meat product	turkey	
+595.90		Salmonella enterica	environmental	water	
+595.97		Salmonella enterica	food production	
+595.98		Salmonella enterica	food production	
+596.10	SRR2567014	Salmonella enterica	food production	meat product	chicken	
+596.11	SRR2567036	Salmonella enterica	food production	meat product	turkey	
+596.12	SRR2567085	Salmonella enterica	food production	meat product	turkey	
+596.13	SRR2567123	Salmonella enterica	food production	meat product	turkey	
+596.14	SRR2567135	Salmonella enterica	food production	meat product	turkey	
+596.15	SRR2567177	Salmonella enterica	food production	meat product	turkey	
+596.16	SRR2567201	Salmonella enterica	food production	meat product	turkey	
+596.17	SRR2567211	Salmonella enterica	food production	meat product	turkey	
+596.18	SRR2567092	Salmonella enterica	food production	meat product	turkey	
+596.19	SRR3664642	Salmonella enterica	food production	meat product	turkey	
+596.20	SRR3664911	Salmonella enterica	food production	meat product	turkey	
+596.21	SRR3664912	Salmonella enterica	food production	meat product	turkey	
+596.25	SRR4012885	Salmonella enterica	environmental	water	freshwater	river or stream	
+596.26	SRR4012685	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+596.27	SRR4012861	Salmonella enterica	environmental	
+596.28	SRR4012862	Salmonella enterica	environmental	
+596.29	SRR4012863	Salmonella enterica	environmental	
+596.3	SRR2566865	Salmonella enterica	food production	meat product	turkey	
+596.30	SRR4012864	Salmonella enterica	environmental	
+596.31	SRR4012866	Salmonella enterica	environmental	
+596.32	SRR4012869	Salmonella enterica	environmental	
+596.33	SRR4012870	Salmonella enterica	environmental	
+596.35	SRR4012881	Salmonella enterica	environmental	water	freshwater	river or stream	
+596.36	SRR4012902	Salmonella enterica	environmental	water	freshwater	river or stream	
+596.37	SRR4012928	Salmonella enterica	environmental	water	freshwater	river or stream	
+596.39	SRR4012826	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+596.4	SRR2566871	Salmonella enterica	food production	meat product	pork	
+596.43		Salmonella enterica	food production	meat product	turkey	
+596.44		Salmonella enterica	food production	meat product	turkey	
+596.5	SRR2566893	Salmonella enterica	food production	meat product	turkey	
+596.55		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+596.56		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+596.57		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+596.58		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+596.59		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+596.6	SRR2566900	Salmonella enterica	food production	meat product	turkey	
+596.60		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+596.61		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+596.62		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+596.63		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+596.64		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+596.7	SRR2566942	Salmonella enterica	food production	meat product	turkey	
+596.72		Salmonella enterica	sewage	waste water	
+596.73		Salmonella enterica	sewage	waste water	
+596.74		Salmonella enterica	sewage	waste water	
+596.75		Salmonella enterica	sewage	waste water	
+596.76		Salmonella enterica	sewage	waste water	
+596.77		Salmonella enterica	sewage	waste water	
+596.78		Salmonella enterica	sewage	waste water	
+596.79		Salmonella enterica	sewage	waste water	
+596.8	SRR2566963	Salmonella enterica	food production	meat product	turkey	
+596.80		Salmonella enterica	sewage	waste water	
+596.81		Salmonella enterica	sewage	waste water	
+596.82		Salmonella enterica	sewage	waste water	
+596.9	SRR2566978	Salmonella enterica	food production	meat product	pork	
+598.10	SRR4012835	Salmonella enterica	environmental	water	freshwater	river or stream	
+598.11	SRR4012848	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+598.12	SRR4012876	Salmonella enterica	environmental	water	freshwater	river or stream	
+598.13	SRR4012931	Salmonella enterica	environmental	water	freshwater	river or stream	
+598.14	SRR4012934	Salmonella enterica	environmental	water	freshwater	river or stream	
+598.15	SRR4012856	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+598.16	SRR4012852	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+598.17	SRR4012888	Salmonella enterica	environmental	water	freshwater	river or stream	
+598.18	SRR4012896	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+598.19	SRR4012899	Salmonella enterica	environmental	water	freshwater	river or stream	
+598.21		Salmonella enterica	environmental	water	
+598.22		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+598.5	SRR4012893	Salmonella enterica	environmental	water	freshwater	river or stream	
+598.6	SRR4012688	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+598.7	SRR4012828	Salmonella enterica	environmental	
+598.8	SRR4012829	Salmonella enterica	environmental	
+598.9	SRR4012830	Salmonella enterica	environmental	
+600.10	SRR3665278	Salmonella enterica	food production	meat product	turkey	
+600.11	SRR3665235	Salmonella enterica	food production	meat product	turkey	
+600.29		Salmonella enterica	environmental	water	
+600.33		Salmonella enterica	environmental	soil	
+600.34		Salmonella enterica	environmental	soil	
+600.35		Salmonella enterica	environmental	water	
+600.37		Salmonella enterica	environmental	water	
+600.38		Salmonella enterica	environmental	water	
+600.4	SRR2566883	Salmonella enterica	food production	meat product	chicken	
+600.47		Salmonella enterica	environmental	sediment	
+600.5	SRR2566885	Salmonella enterica	food production	meat product	turkey	
+600.6	SRR2566895	Salmonella enterica	food production	meat product	chicken	
+600.7	SRR2566981	Salmonella enterica	food production	meat product	chicken	
+611.108	SRR3707447	Salmonella enterica	food production	meat product	chicken	
+611.121	SRR3028781,SRR3712208	Salmonella enterica	food production	
+611.122	SRR3703080	Salmonella enterica	food production	meat product	chicken	
+611.126	SRR3709723	Salmonella enterica	food production	
+611.131		Salmonella enterica	food production	meat product	chicken	
+611.132		Salmonella enterica	food production	meat product	chicken	
+611.133		Salmonella enterica	food production	meat product	chicken	
+611.134		Salmonella enterica	food production	meat product	chicken	
+611.16	SRR2566864	Salmonella enterica	food production	meat product	turkey	
+611.17	SRR2566863	Salmonella enterica	food production	meat product	chicken	
+611.18	SRR2566884	Salmonella enterica	food production	meat product	chicken	
+611.19	SRR2566891	Salmonella enterica	food production	meat product	turkey	
+611.20	SRR2566892	Salmonella enterica	food production	meat product	turkey	
+611.21	SRR2566902	Salmonella enterica	food production	meat product	chicken	
+611.22	SRR2566914	Salmonella enterica	food production	meat product	chicken	
+611.23	SRR2566915	Salmonella enterica	food production	meat product	chicken	
+611.236		Salmonella enterica	food production	food processing environment	
+611.24	SRR2566920	Salmonella enterica	food production	meat product	chicken	
+611.247		Salmonella enterica	food production	food processing environment	
+611.25	SRR2566922	Salmonella enterica	food production	meat product	chicken	
+611.250		Salmonella enterica	food production	meat product	chicken	
+611.26	SRR2566925	Salmonella enterica	food production	meat product	chicken	
+611.27	SRR2566926	Salmonella enterica	food production	meat product	turkey	
+611.28	SRR2566929	Salmonella enterica	food production	meat product	pork	
+611.29	SRR2566939	Salmonella enterica	food production	meat product	turkey	
+611.30	SRR2566944	Salmonella enterica	food production	meat product	turkey	
+611.31	SRR2566948	Salmonella enterica	food production	meat product	turkey	
+611.32	SRR2566966	Salmonella enterica	food production	meat product	turkey	
+611.33	SRR2566984	Salmonella enterica	food production	meat product	turkey	
+611.34	SRR2566987	Salmonella enterica	food production	meat product	turkey	
+611.35	SRR2566991	Salmonella enterica	food production	meat product	chicken	
+611.36	SRR2566989	Salmonella enterica	food production	meat product	beef	
+611.37	SRR2566994	Salmonella enterica	food production	meat product	chicken	
+611.38	SRR2566993	Salmonella enterica	food production	meat product	chicken	
+611.39	SRR2566999	Salmonella enterica	food production	meat product	chicken	
+611.40	SRR2567002	Salmonella enterica	food production	meat product	chicken	
+611.41	SRR2567034	Salmonella enterica	food production	meat product	turkey	
+611.42	SRR2567049	Salmonella enterica	food production	meat product	chicken	
+611.43	SRR2567064	Salmonella enterica	food production	meat product	chicken	
+611.44	SRR2567088	Salmonella enterica	food production	meat product	turkey	
+611.45	SRR2567093	Salmonella enterica	food production	meat product	chicken	
+611.46	SRR2567110	Salmonella enterica	food production	meat product	chicken	
+611.47	SRR2567122	Salmonella enterica	food production	meat product	chicken	
+611.48	SRR2567131	Salmonella enterica	food production	meat product	chicken	
+611.49	SRR2567132	Salmonella enterica	food production	meat product	turkey	
+611.50	SRR2567137	Salmonella enterica	food production	meat product	chicken	
+611.51	SRR2567139	Salmonella enterica	food production	meat product	chicken	
+611.52	SRR2567141	Salmonella enterica	food production	meat product	chicken	
+611.53	SRR2567174	Salmonella enterica	food production	meat product	turkey	
+611.54	SRR2567175	Salmonella enterica	food production	meat product	chicken	
+611.55	SRR2567178	Salmonella enterica	food production	meat product	chicken	
+611.56	SRR2567179	Salmonella enterica	food production	meat product	chicken	
+611.57	SRR2567185	Salmonella enterica	food production	meat product	turkey	
+611.58	SRR2567190	Salmonella enterica	food production	meat product	chicken	
+611.59	SRR2567212	Salmonella enterica	food production	meat product	pork	
+611.60	SRR2566940	Salmonella enterica	food production	meat product	turkey	
+611.61	SRR2566921	Salmonella enterica	food production	meat product	chicken	
+611.62	SRR2567136	Salmonella enterica	food production	meat product	chicken	
+611.63	SRR2567164	Salmonella enterica	food production	meat product	turkey	
+611.64	SRR2598330	Salmonella enterica	food production	meat product	chicken	
+611.69	SRR3664968	Salmonella enterica	food production	meat product	chicken	
+611.70	SRR3665187	Salmonella enterica	food production	meat product	turkey	
+611.71	SRR3664815	Salmonella enterica	food production	meat product	pork	
+611.72	SRR3665023	Salmonella enterica	food production	meat product	turkey	
+611.73	SRR3665080	Salmonella enterica	food production	meat product	turkey	
+611.74	SRR3665086	Salmonella enterica	food production	meat product	turkey	
+611.75	SRR3665092	Salmonella enterica	food production	meat product	turkey	
+611.76	SRR3665171	Salmonella enterica	food production	meat product	turkey	
+611.77	SRR3665208	Salmonella enterica	food production	meat product	turkey	
+611.78	SRR3665226	Salmonella enterica	food production	meat product	turkey	
+611.79	SRR3665260	Salmonella enterica	food production	meat product	turkey	
+611.80	SRR3665291	Salmonella enterica	food production	meat product	pork	
+611.81	SRR3664866	Salmonella enterica	food production	meat product	chicken	
+611.82	SRR3664914	Salmonella enterica	food production	meat product	turkey	
+611.83	SRR3664904	Salmonella enterica	food production	meat product	turkey	
 615.1120		Serratia marcescens	sewage	sludge	
 615.1233		Serratia marcescens	environmental	soil	
 615.1283		Serratia marcescens	environmental	soil	
@@ -16044,6 +17863,16 @@
 64104.95		Bacillus pseudomycoides	environmental	soil	
 64104.96		Bacillus pseudomycoides	environmental	soil	
 64104.97		Bacillus pseudomycoides	environmental	soil	
+644.188		Aeromonas hydrophila	environmental	water	freshwater	river or stream	
+644.190		Aeromonas hydrophila	environmental	water	freshwater	river or stream	
+644.25		Aeromonas hydrophila	environmental	water	freshwater	river or stream	
+644.26		Aeromonas hydrophila	environmental	water	freshwater	river or stream	
+644.27		Aeromonas hydrophila	environmental	water	freshwater	river or stream	
+644.272		Aeromonas hydrophila	sewage	sludge	
+644.28		Aeromonas hydrophila	environmental	water	freshwater	freshwater pond or lake	
+644.34		Aeromonas hydrophila	environmental	soil	
+644.75		Aeromonas hydrophila	environmental	water	freshwater	river or stream	
+644.76		Aeromonas hydrophila	environmental	water	freshwater	river or stream	
 654.114		Aeromonas veronii	environmental	water	freshwater	freshwater pond or lake	
 654.12		Aeromonas veronii	environmental	water	freshwater	freshwater pond or lake	
 654.127		Aeromonas veronii	food production	meat product	pork	
@@ -16609,10 +18438,17 @@
 672.843		Vibrio vulnificus	environmental	water	brackish water	
 672.844		Vibrio vulnificus	environmental	water	brackish water	
 672.845		Vibrio vulnificus	environmental	water	brackish water	
+682797.10		Salmonella enterica	sewage	waste water	
 686.11		Vibrio cholerae	environmental	water	
 686.37		Vibrio cholerae	environmental	water	freshwater	freshwater pond or lake	
+702976.3	SRR518854	Salmonella enterica	food production	meat product	turkey	
+702978.3	SRR518835	Salmonella enterica	food production	meat product	turkey	
+70803.12		Salmonella enterica	food production	meat product	meat	
+70803.6		Salmonella enterica	food production	meat product	chicken	
 718224.3		Bacillus cereus	environmental	soil	
+72407.716		Klebsiella pneumoniae	food production	
 754333.3		Escherichia albertii	environmental	soil	
+789645.3	SRR610461	Salmonella enterica	food production	meat product	turkey	
 820.21	ERR1022271	Bacteroides uniformis	feces	
 820.22	ERR1022412	Bacteroides uniformis	feces	
 820.23	ERR1022322	Bacteroides uniformis	feces	
@@ -16626,6 +18462,26 @@
 823.7	ERR1022281	Parabacteroides distasonis	feces	
 823.8	ERR1022330	Parabacteroides distasonis	feces	
 823.9	ERR1022462	Parabacteroides distasonis	feces	
+82689.28		Salmonella enterica	food production	meat product	turkey	
+82689.3	SRR2567143	Salmonella enterica	food production	meat product	beef	
+82689.4	SRR3664971	Salmonella enterica	food production	meat product	turkey	
+82689.61		Salmonella enterica	food production	dairy product	cheese	
+82689.65		Salmonella enterica	food production	dairy product	cheese	
+82689.66		Salmonella enterica	food production	dairy product	cheese	
+82689.67		Salmonella enterica	food production	dairy product	cheese	
+82689.68		Salmonella enterica	food production	dairy product	cheese	
+82689.69		Salmonella enterica	food production	dairy product	cheese	
+82689.70		Salmonella enterica	food production	dairy product	cheese	
+82689.71		Salmonella enterica	food production	dairy product	cheese	
+82689.72		Salmonella enterica	food production	dairy product	cheese	
+82689.73		Salmonella enterica	food production	dairy product	cheese	
+82689.79	SRR3649461	Salmonella enterica	environmental	
+82689.80	SRR3649463	Salmonella enterica	environmental	
+82689.81		Salmonella enterica	sewage	waste water	
+82689.82		Salmonella enterica	sewage	waste water	
+82689.83		Salmonella enterica	sewage	waste water	
+82689.84		Salmonella enterica	sewage	waste water	
+82689.85		Salmonella enterica	sewage	waste water	
 83334.181		Escherichia coli	feces	
 83334.336		Escherichia coli	food production	meat product	beef	
 83334.365		Escherichia coli	food production	meat product	beef	
@@ -16705,6 +18561,10 @@
 83655.80		Leclercia adecarboxylata	industrial	metal	metal	
 83655.81		Leclercia adecarboxylata	environmental	water	freshwater	drinking or tap water	
 83655.89		Leclercia adecarboxylata	environmental	soil	
+858306.3	SRR955252	Salmonella enterica	food production	meat product	turkey	
+858307.3	SRR955254	Salmonella enterica	food production	meat product	beef	
+858311.3	SRR610459	Salmonella enterica	food production	dairy product	cheese	
+86029.6		Bacillus subtilis	environmental	soil	
 869690.4	SRR064713	Escherichia coli	environmental	water	
 869691.4	SRR063744	Escherichia coli	environmental	water	
 869692.4	SRR063745	Escherichia coli	environmental	water	
@@ -16729,7 +18589,248 @@
 87883.89		Burkholderia multivorans	environmental	soil	rhizosphere soil	
 87883.92		Burkholderia multivorans	environmental	
 87883.93		Burkholderia multivorans	environmental	soil	
+887064.3	SRR518786	Salmonella enterica	environmental	
+887067.3	SRR518814	Salmonella enterica	environmental	
+887068.3	SRR518844	Salmonella enterica	environmental	
+887069.3	SRR518858	Salmonella enterica	environmental	
+887070.3		Salmonella enterica	environmental	
+889246.3		Campylobacter jejuni	environmental	water	
+891412.3	SRR518846	Salmonella enterica	environmental	
+891413.3	SRR518859	Salmonella enterica	environmental	
+891414.3	SRR518787	Salmonella enterica	environmental	
+90105.10	SRR2567013	Salmonella enterica	food production	meat product	turkey	
+90105.11	SRR2567027	Salmonella enterica	food production	meat product	turkey	
+90105.12	SRR2567028	Salmonella enterica	food production	meat product	turkey	
+90105.13	SRR2567045	Salmonella enterica	food production	meat product	turkey	
+90105.139		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.14	SRR2567051	Salmonella enterica	food production	meat product	turkey	
+90105.140		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.141		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.142		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.143		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.144		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.145		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.146		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.147		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.148		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.149		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.15	SRR2567056	Salmonella enterica	food production	meat product	turkey	
+90105.158		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.159		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.16	SRR2567057	Salmonella enterica	food production	meat product	turkey	
+90105.160		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.161		Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.17	SRR2567067	Salmonella enterica	food production	meat product	turkey	
+90105.18	SRR2567086	Salmonella enterica	food production	meat product	turkey	
+90105.183		Salmonella enterica	environmental	water	freshwater	river or stream	
+90105.19	SRR2567087	Salmonella enterica	food production	meat product	turkey	
+90105.20	SRR2567105	Salmonella enterica	food production	meat product	turkey	
+90105.21	SRR2567104	Salmonella enterica	food production	meat product	pork	
+90105.22	SRR2567138	Salmonella enterica	food production	meat product	pork	
+90105.23	SRR2567184	Salmonella enterica	food production	meat product	turkey	
+90105.24	SRR2567012	Salmonella enterica	food production	meat product	turkey	
+90105.25	SRR3665021	Salmonella enterica	food production	meat product	turkey	
+90105.26	SRR3665051	Salmonella enterica	food production	meat product	turkey	
+90105.27	SRR3665149	Salmonella enterica	food production	meat product	turkey	
+90105.28	SRR3665204	Salmonella enterica	food production	meat product	turkey	
+90105.29	SRR3665217	Salmonella enterica	food production	meat product	turkey	
+90105.3	SRR2566867	Salmonella enterica	food production	meat product	turkey	
+90105.30	SRR3665018	Salmonella enterica	food production	meat product	turkey	
+90105.31	SRR3665029	Salmonella enterica	food production	meat product	turkey	
+90105.32	SRR3665037	Salmonella enterica	food production	meat product	turkey	
+90105.33	SRR3665147	Salmonella enterica	food production	meat product	turkey	
+90105.34	SRR3665150	Salmonella enterica	food production	meat product	turkey	
+90105.35	SRR3665153	Salmonella enterica	food production	meat product	turkey	
+90105.36	SRR3665173	Salmonella enterica	food production	meat product	pork	
+90105.37	SRR3665188	Salmonella enterica	food production	meat product	turkey	
+90105.38	SRR3664890	Salmonella enterica	food production	meat product	turkey	
+90105.4	SRR2566872	Salmonella enterica	food production	meat product	turkey	
+90105.45	SRR4012849	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.46	SRR4012907	Salmonella enterica	environmental	water	freshwater	river or stream	
+90105.47	SRR4012901	Salmonella enterica	environmental	water	freshwater	river or stream	
+90105.48	SRR4012678	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.49	SRR4012755	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.5	SRR2566941	Salmonella enterica	food production	meat product	turkey	
+90105.50	SRR4012759	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.51	SRR4012773	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.52	SRR4012774	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.53	SRR4012825	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.55	SRR4012834	Salmonella enterica	environmental	water	freshwater	river or stream	
+90105.56	SRR4012836	Salmonella enterica	environmental	water	freshwater	river or stream	
+90105.57	SRR4012850	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.58	SRR4012851	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.59	SRR4012855	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.6	SRR2566962	Salmonella enterica	food production	meat product	turkey	
+90105.60	SRR4012857	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.61	SRR4012860	Salmonella enterica	environmental	
+90105.62	SRR4012865	Salmonella enterica	environmental	
+90105.63	SRR4012880	Salmonella enterica	environmental	water	freshwater	river or stream	
+90105.64	SRR4012905	Salmonella enterica	environmental	water	freshwater	river or stream	
+90105.65	SRR4012915	Salmonella enterica	environmental	water	freshwater	river or stream	
+90105.66	SRR4012918	Salmonella enterica	environmental	water	freshwater	river or stream	
+90105.67	SRR4012920	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.68	SRR4012922	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.69	SRR4012924	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+90105.7	SRR2566986	Salmonella enterica	food production	meat product	turkey	
+90105.72	SRR4012930	Salmonella enterica	environmental	water	freshwater	river or stream	
+90105.73	SRR4012890	Salmonella enterica	environmental	
+90105.8	SRR2567004	Salmonella enterica	food production	meat product	turkey	
+90105.87		Salmonella enterica	food production	meat product	turkey	
+90105.88		Salmonella enterica	food production	meat product	turkey	
+90105.89		Salmonella enterica	food production	meat product	turkey	
+90105.9	SRR2567011	Salmonella enterica	food production	meat product	turkey	
+90105.90		Salmonella enterica	food production	meat product	pork	
+90105.91		Salmonella enterica	food production	meat product	turkey	
+90105.92		Salmonella enterica	food production	meat product	turkey	
+90105.94		Salmonella enterica	food production	meat product	turkey	
+90105.95		Salmonella enterica	food production	meat product	turkey	
+90105.98		Salmonella enterica	food production	
+90371.1210		Salmonella enterica	food production	
+90371.1937		Salmonella enterica	food production	meat product	chicken	
+90371.1938		Salmonella enterica	food production	meat product	turkey	
+90371.2355		Salmonella enterica	food production	meat product	chicken	
+90371.2357		Salmonella enterica	food production	meat product	chicken	
+90371.2362		Salmonella enterica	food production	meat product	chicken	
+90371.2363		Salmonella enterica	food production	meat product	chicken	
+90371.2364		Salmonella enterica	food production	meat product	chicken	
+90371.2367		Salmonella enterica	food production	meat product	chicken	
+90371.2369		Salmonella enterica	food production	meat product	chicken	
+90371.2370		Salmonella enterica	food production	meat product	chicken	
+90371.2372		Salmonella enterica	food production	meat product	chicken	
+90371.2374		Salmonella enterica	food production	meat product	chicken	
+90371.2400		Salmonella enterica	food production	meat product	chicken	
+90371.2403		Salmonella enterica	food production	meat product	chicken	
+90371.2404		Salmonella enterica	food production	meat product	turkey	
+90371.2490		Salmonella enterica	environmental	water	
+90371.2595		Salmonella enterica	food production	food processing environment	
+90371.2596		Salmonella enterica	food production	food processing environment	
+90371.2598		Salmonella enterica	food production	food processing environment	
+90371.2635		Salmonella enterica	food production	meat product	chicken	
+90371.2636		Salmonella enterica	food production	meat product	turkey	
+90371.3064		Salmonella enterica	food production	meat product	chicken	
+90371.3066		Salmonella enterica	food production	meat product	pork	
+90371.3169		Salmonella enterica	feces	
+90371.3171		Salmonella enterica	feces	
+90371.3172		Salmonella enterica	feces	
+90371.3173		Salmonella enterica	feces	
+90371.3174		Salmonella enterica	feces	
+90371.3175		Salmonella enterica	feces	
+90371.3176		Salmonella enterica	feces	
+90371.3177		Salmonella enterica	feces	
+90371.3178		Salmonella enterica	feces	
+90371.3179		Salmonella enterica	feces	
+90371.3180		Salmonella enterica	feces	
+90371.3181		Salmonella enterica	feces	
+90371.3182		Salmonella enterica	feces	
+90371.3183		Salmonella enterica	feces	
+90371.3588		Salmonella enterica	sewage	waste water	
+90371.3589		Salmonella enterica	sewage	waste water	
+90371.3590		Salmonella enterica	sewage	waste water	
+90371.3591		Salmonella enterica	sewage	waste water	
+90371.3592		Salmonella enterica	sewage	waste water	
+90371.3593		Salmonella enterica	sewage	waste water	
+90371.3594		Salmonella enterica	sewage	waste water	
+90371.3595		Salmonella enterica	sewage	waste water	
+90371.3656		Salmonella enterica	food production	eggs	
+90371.3657		Salmonella enterica	food production	eggs	
+90371.3658		Salmonella enterica	food production	eggs	
+90371.3659		Salmonella enterica	food production	eggs	
+90371.3660		Salmonella enterica	food production	eggs	
+90371.3661		Salmonella enterica	food production	eggs	
+90371.3662		Salmonella enterica	food production	eggs	
+90371.3663		Salmonella enterica	food production	eggs	
+90371.3664		Salmonella enterica	food production	eggs	
+90371.3665		Salmonella enterica	food production	eggs	
+90371.3666		Salmonella enterica	food production	eggs	
+90371.3667		Salmonella enterica	food production	eggs	
+90371.3668		Salmonella enterica	food production	eggs	
+90371.3669		Salmonella enterica	food production	eggs	
+90371.3670		Salmonella enterica	food production	eggs	
+90371.3671		Salmonella enterica	food production	eggs	
+90371.3672		Salmonella enterica	food production	eggs	
+90371.3673		Salmonella enterica	food production	eggs	
+90371.3674		Salmonella enterica	food production	eggs	
+90371.3675		Salmonella enterica	food production	eggs	
+90371.3676		Salmonella enterica	food production	eggs	
+90371.3677		Salmonella enterica	food production	eggs	
+90371.3678		Salmonella enterica	food production	eggs	
+90371.3679		Salmonella enterica	food production	eggs	
+90371.3680		Salmonella enterica	food production	eggs	
+90371.3681		Salmonella enterica	food production	eggs	
+90371.3682		Salmonella enterica	food production	eggs	
+90371.3683		Salmonella enterica	food production	eggs	
+90371.3754		Salmonella enterica	food production	meat product	beef	
+90371.3988		Salmonella enterica	food production	food processing environment	
+90371.698	SRR1649155	Salmonella enterica	sewage	
+90371.699	SRR1649157	Salmonella enterica	sewage	
+90371.700	SRR1649160	Salmonella enterica	sewage	
+90371.862	SRR2566903	Salmonella enterica	food production	meat product	chicken	
+90371.863	SRR2567120	Salmonella enterica	food production	meat product	chicken	
+90371.864	SRR2567147	Salmonella enterica	food production	meat product	chicken	
+90371.865	SRR2567169	Salmonella enterica	food production	meat product	chicken	
+90371.866	SRR2567176	Salmonella enterica	food production	meat product	chicken	
+90371.867	SRR2567192	Salmonella enterica	food production	meat product	chicken	
+90371.868	SRR2566992	Salmonella enterica	food production	meat product	chicken	
+90371.869	SRR2566899	Salmonella enterica	food production	meat product	chicken	
+90371.870	SRR2567188	Salmonella enterica	food production	meat product	chicken	
+90371.871	SRR2567207	Salmonella enterica	food production	meat product	pork	
+90371.909	SRR3664974	Salmonella enterica	food production	meat product	chicken	
+90371.910	SRR3664999	Salmonella enterica	food production	meat product	turkey	
+90371.911	SRR3664984	Salmonella enterica	food production	meat product	chicken	
+90371.912	SRR3665105	Salmonella enterica	food production	meat product	chicken	
+90371.913	SRR3665130	Salmonella enterica	food production	meat product	turkey	
+90371.914	SRR3664682	Salmonella enterica	food production	meat product	chicken	
+90371.915	SRR3665144	Salmonella enterica	food production	meat product	chicken	
+90371.916	SRR3665180	Salmonella enterica	food production	meat product	chicken	
+90371.917	SRR3665183	Salmonella enterica	food production	meat product	chicken	
+90371.918	SRR3664674	Salmonella enterica	food production	meat product	turkey	
+90371.919	SRR3664678	Salmonella enterica	food production	meat product	chicken	
+90371.920	SRR3664686	Salmonella enterica	food production	meat product	chicken	
+90371.921	SRR3664882	Salmonella enterica	food production	meat product	chicken	
+90371.922	SRR3664671	Salmonella enterica	food production	meat product	chicken	
+90371.923	SRR3664899	Salmonella enterica	food production	meat product	turkey	
+910413.3	SRR518788	Salmonella enterica	environmental	
+910414.3	SRR518816,SRR518817	Salmonella enterica	environmental	
+910415.3	SRR518755	Salmonella enterica	environmental	
+910416.3	SRR518756	Salmonella enterica	environmental	
+910417.3	SRR518757	Salmonella enterica	environmental	
+910418.3	SRR518770	Salmonella enterica	environmental	
+910419.3	SRR518818	Salmonella enterica	environmental	
 911008.3		Leclercia adecarboxylata	environmental	water	freshwater	drinking or tap water	
+911022.31		Serratia marcescens	environmental	water	freshwater	freshwater pond or lake	
+911022.32		Serratia marcescens	environmental	water	freshwater	freshwater pond or lake	
+911022.4		Serratia marcescens	environmental	water	freshwater	freshwater pond or lake	
+913070.8		Salmonella enterica	environmental	water	
+913074.3	SRR4012831	Salmonella enterica	environmental	
+913074.4	SRR4012832	Salmonella enterica	environmental	
+913074.5	SRR4012871	Salmonella enterica	environmental	
+913074.6	SRR4012681	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+913074.7	SRR4012859	Salmonella enterica	environmental	water	freshwater	freshwater pond or lake	
+913074.8	SRR4012867	Salmonella enterica	environmental	
+913074.9	SRR4012868	Salmonella enterica	environmental	
+913076.10	SRR2566969	Salmonella enterica	food production	meat product	pork	
+913076.24		Salmonella enterica	sewage	waste water	
+913076.8	SRR2566997	Salmonella enterica	food production	meat product	pork	
+913076.9	SRR2567198	Salmonella enterica	food production	meat product	pork	
+913079.10		Salmonella enterica	environmental	soil	
+913079.11		Salmonella enterica	environmental	soil	
+913079.12		Salmonella enterica	environmental	soil	
+913079.9		Salmonella enterica	environmental	soil	
+913240.3		Salmonella enterica	food production	meat product	turkey	
+91890.4		Legionella pneumophila	environmental	
+91890.5		Legionella pneumophila	environmental	
+91891.29		Legionella pneumophila	environmental	water	freshwater	drinking or tap water	
+91891.32		Legionella pneumophila	environmental	water	freshwater	river or stream	
+91891.60		Legionella pneumophila	environmental	water	freshwater	drinking or tap water	
+91891.61		Legionella pneumophila	environmental	water	freshwater	drinking or tap water	
+91891.62		Legionella pneumophila	environmental	water	freshwater	drinking or tap water	
+91891.63		Legionella pneumophila	environmental	water	freshwater	drinking or tap water	
+91891.64		Legionella pneumophila	environmental	water	freshwater	drinking or tap water	
+91891.65		Legionella pneumophila	environmental	water	freshwater	drinking or tap water	
+91891.66		Legionella pneumophila	environmental	water	freshwater	drinking or tap water	
+924829.3		Salmonella enterica	food production	plant product	peanut butter	
+925130.3	SRR518812	Salmonella enterica	food production	meat product	chicken	
+932733.5		Salmonella enterica	environmental	
 936156.28		Bacillus subtilis	environmental	
 945968.3		Listeria monocytogenes	food production	
 95486.345		Burkholderia cenocepacia	environmental	soil	
@@ -16776,4 +18877,35 @@
 95486.89	SRR1956104	Burkholderia cenocepacia	environmental	soil	
 95486.90	SRR1956253	Burkholderia cenocepacia	environmental	water	
 96563.16		Pseudomonas stutzeri	environmental	soil	
+98360.273		Salmonella enterica	food production	meat product	beef	
+98360.39	SRR2566988	Salmonella enterica	food production	meat product	turkey	
+98360.40	SRR2567125	Salmonella enterica	food production	meat product	beef	
+98360.41	SRR2567128	Salmonella enterica	food production	meat product	beef	
+98360.42	SRR2567144	Salmonella enterica	food production	meat product	beef	
+98360.43	SRR2567191	Salmonella enterica	food production	meat product	beef	
+98360.47	SRR3664744	Salmonella enterica	food production	meat product	beef	
+98360.48	SRR3664802	Salmonella enterica	food production	meat product	beef	
+98360.49	SRR3664944	Salmonella enterica	food production	meat product	beef	
+98360.50	SRR3664934	Salmonella enterica	food production	meat product	beef	
+984215.3	SRR518760	Salmonella enterica	environmental	
+984216.3	SRR518761	Salmonella enterica	environmental	
+984217.3	SRR518762	Salmonella enterica	environmental	
+984218.3	SRR518793	Salmonella enterica	environmental	
+984219.3	SRR518821	Salmonella enterica	environmental	
+984220.3	SRR518799	Salmonella enterica	environmental	
+984221.3	SRR518822	Salmonella enterica	environmental	
+984222.3	SRR518850	Salmonella enterica	environmental	
+984223.3	SRR518856	Salmonella enterica	environmental	
+984224.3	SRR518851	Salmonella enterica	environmental	
+984225.3	SRR518852	Salmonella enterica	environmental	
+984226.3	SRR518829	Salmonella enterica	environmental	
+984227.3	SRR518794	Salmonella enterica	environmental	
+984228.3	SRR518823	Salmonella enterica	environmental	
+984229.3	SRR518803	Salmonella enterica	environmental	
+984230.3	SRR518763	Salmonella enterica	environmental	
+984231.3	SRR518764	Salmonella enterica	environmental	
+984232.3	SRR518773	Salmonella enterica	environmental	
+984233.3	SRR518765	Salmonella enterica	environmental	
+984234.3	SRR518795	Salmonella enterica	environmental	
 985002.19		Staphylococcus argenteus	feces	
+997329.3	SRR518759	Salmonella enterica	food production	meat product	chicken	
