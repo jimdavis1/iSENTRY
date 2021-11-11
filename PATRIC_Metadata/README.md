@@ -149,3 +149,26 @@ I updated the ontology files.  Notable updates include merging the lower GI cate
 * Envt-Clinical-11-21.txt
 
 The NCBI host file has assembled genomes at NCBI that are not yet integrated in PATRIC that we wanted to model.  The Body-11-21 file contains only the most genneral ontology for body site.  We are only currently modeling these.  The envt-clinical file merges the clinical category from the body site output with the environmental categories so that clinical can be modeled with environmental. 
+
+
+	cleanup_PATRIC_metadata.pl -hs Host-Ontology-11-21.txt -es Envt-Ontology-11-21.txt -bs Body-Site-Ontology-11-21.txt -oe test.envt -ob test.body -oh test.host  <11-2021.meta 
+
+	Host Clasified: 131483
+	Host Unclassified	5219
+	No Host	81488
+
+	Envt Processed: 86707
+	Environment Clasified: 22267
+	Environment Unclassified	28035
+	No Environment	36405
+
+	Total Human Host: 108336
+	Body Site Processed from Human Host: 69068
+	Human Host, data with no body site classification	18247
+	No Body Site for human host	21021
+
+	Host reclaimed from genomes with no declared host field: 2776
+	Body Site reclaimed from genomes with no declared human host: 6434
+	Unclassified with data, but not human body site	15033
+	Unclassified, no data	36405
+
