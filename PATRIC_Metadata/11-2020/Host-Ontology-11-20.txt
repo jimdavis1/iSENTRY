@@ -1,0 +1,516 @@
+Albacore, Thunnus alalunga	Albacore, Thunnus alalunga
+albacore	Albacore, Thunnus alalunga
+Alfalfa, Medicago sativa	Alfalfa, Medicago sativa
+Medicago sativa	Alfalfa, Medicago sativa
+alfalfa	Alfalfa, Medicago sativa
+Almond, Prunus dulcis	Almond, Prunus dulcis
+American bison, Bison bison	American bison, Bison bison
+american bison	American bison, Bison bison
+Arabian camel, Camelus dromedarius	Arabian camel, Camelus dromedarius
+Camelus dromedarius	Arabian camel, Camelus dromedarius
+arbian camel	Arabian camel, Camelus dromedarius
+Asian malaria mosquito, Anopheles stephensi	Asian malaria mosquito, Anopheles stephensi
+Atlantic awning clam, Solemya velum	Atlantic awning clam, Solemya velum
+atlantic awning clam	Atlantic awning clam, Solemya velum
+Atlantic salmon, Salmo salar	Atlantic salmon, Salmo salar
+Salmon, Salmo salar	Atlantic salmon, Salmo salar
+atlantic salmon	Atlantic salmon, Salmo salar
+Barley, Hordeum vulgare	Barley, Hordeum vulgare
+barley	Barley, Hordeum vulgare
+Barramundi perch, Lates calcarifer	Barramundi perch, Lates calcarifer
+Lates calcarifer	Barramundi perch, Lates calcarifer
+barramundi perch	Barramundi perch, Lates calcarifer
+Barrel medic, Medicago truncatula	Barrel medic, Medicago truncatula
+Medicago truncatula	Barrel medic, Medicago truncatula
+barrel medic	Barrel medic, Medicago truncatula
+Black pepper, Piper nigrum	Black pepper, Piper nigrum
+Black rat, Rattus rattus	Black rat, Rattus rattus
+Rattus rattus	Black rat, Rattus rattus
+Black-legged tick, Ixodes scapularis	Black-legged tick, Ixodes scapularis
+Ixodes scapularis	Black-legged tick, Ixodes scapularis
+Tick, Ixodes scapularis	Black-legged tick, Ixodes scapularis
+black-legged tick	Black-legged tick, Ixodes scapularis
+black-legged tick	Black-legged tick, Ixodes scapularis
+Black-headed gull, Chroicocephalus ridibundus	Black-headed gull, Chroicocephalus ridibundus
+black-headed gull	Black-headed gull, Chroicocephalus ridibundus
+Bok-choy, Brassica rapa subsp. chinensis	Bok-choy, Brassica rapa subsp. chinensis
+bok-choy	Bok-choy, Brassica rapa subsp. chinensis
+Bottlenose dolphin, Tursiops truncatus	Bottlenose dolphin, Tursiops truncatus
+Tursiops truncatus	Bottlenose dolphin, Tursiops truncatus
+bottlenose dolphin	Bottlenose dolphin, Tursiops truncatus
+bottlenose dolphin, Tursiops truncatus	Bottlenose dolphin, Tursiops truncatus
+dolphin	Bottlenose dolphin, Tursiops truncatus
+Bread wheat, Triticum aestivum	Bread wheat, Triticum aestivum
+Triticum aestivum	Bread wheat, Triticum aestivum
+bread wheat	Bread wheat, Triticum aestivum
+Brook trout, Salvelinus fontinalis	Brook trout, Salvelinus fontinalis
+brook trout	Brook trout, Salvelinus fontinalis
+Brown surgeonfish, Acanthurus nigrofuscus	Brown surgeonfish, Acanthurus nigrofuscus
+Brown-hooded cockroach, Cryptocercus punctulatus	Brown-hooded cockroach, Cryptocercus punctulatus
+brown-hooded cockroach	Brown-hooded cockroach, Cryptocercus punctulatus
+Button mushroom, Agaricus bisporus	Button mushroom, Agaricus bisporus
+Caenorhabditis elegans	Caenorhabditis elegans
+Caenorhabditis elegans MY316	Caenorhabditis elegans
+Capsicum annuum	Capsicum annuum
+Cassava, Manihot esculenta	Cassava, Manihot esculenta
+cassava	Cassava, Manihot esculenta
+Cat, Felis catus	Cat, Felis catus
+Cat	Cat, Felis catus
+Feline	Cat, Felis catus
+Felis Catus	Cat, Felis catus
+Felis catus	Cat, Felis catus
+cat	Cat, Felis catus
+Celery, Apium graveolens	Celery, Apium graveolens
+celery	Celery, Apium graveolens
+Channel catfish, Ictalurus punctatus	Channel catfish, Ictalurus punctatus
+channel catfish	Channel catfish, Ictalurus punctatus
+Chicken, Gallus gallus	Chicken, Gallus gallus
+Chicken	Chicken, Gallus gallus
+Young Chickens	Chicken, Gallus gallus
+ANIMAL-chicken	Chicken, Gallus gallus
+Chickens	Chicken, Gallus gallus
+Gallus gallus	Chicken, Gallus gallus
+Gallus gallus domesticus	Chicken, Gallus gallus
+Gallus gallus domesticus (chicken)	Chicken, Gallus gallus
+Young Chicken	Chicken, Gallus gallus
+animal-chicken-young chicken	Chicken, Gallus gallus
+chicken	Chicken, Gallus gallus
+egg laying hen	Chicken, Gallus gallus
+Animal-Chicken-Young Chicken	Chicken, Gallus gallus
+chicken	Chicken, Gallus gallus
+Chickpea, Cicer arietinum	Chickpea, Cicer arietinum
+Chickpea	Chickpea, Cicer arietinum
+Cicer arietinum	Chickpea, Cicer arietinum
+chickpea	Chickpea, Cicer arietinum
+Chimpanzee, Pan troglodytes	Chimpanzee, Pan troglodytes
+chimpanzee	Chimpanzee, Pan troglodytes
+Pan troglodytes verus	Chimpanzee, Pan troglodytes
+Chinook salmon, Oncorhynchus tshawytscha	Chinook salmon, Oncorhynchus tshawytscha
+Chinook salmon	Chinook salmon, Oncorhynchus tshawytscha
+Chiru, Pantholops hodgsonii	Chiru, Pantholops hodgsonii
+chiru	Chiru, Pantholops hodgsonii
+Cicer reticulatum	Cicer reticulatum
+Coffee, Coffea arabica	Coffee, Coffea arabica
+Coffea arabica	Coffee, Coffea arabica
+coffee	Coffee, Coffea arabica
+Coho salmon, Oncorhynchus kisutch	Coho salmon, Oncorhynchus kisutch
+Common Hazel, Corylus avellana	Common Hazel, Corylus avellana
+Common horse chestnut, Aesculus hippocastanum	Common horse chestnut, Aesculus hippocastanum
+Common oleander, Nerium oleander	Common oleander, Nerium oleander
+common oleander	Common oleander, Nerium oleander
+Common olive, Olea europaea	Common olive, Olea europaea
+Olive tree, Olea europaea	Common olive, Olea europaea
+olive	Common olive, Olea europaea
+Common tobacco, Nicotiana tabacum	Common tobacco, Nicotiana tabacum
+Tobacco	Common tobacco, Nicotiana tabacum
+Tobacco, Nicotiana tabacum	Common tobacco, Nicotiana tabacum
+tobacco	Common tobacco, Nicotiana tabacum
+Gossypium hirsutum	Cotton, Gossypium hirsutum
+Cotton, Gossypium hirsutum	Cotton, Gossypium hirsutum
+American cotton, Gossypium hirsutum	Cotton, Gossypium hirsutum
+cotton	Cotton, Gossypium hirsutum
+Cottonwood poplar, Populus deltoides	Cottonwood poplar, Populus deltoides
+Cottonwood poplar , Populus deltoides	Cottonwood poplar, Populus deltoides
+Eastern cottonwood, Populus deltoides	Cottonwood poplar, Populus deltoides
+cottonwood	Cottonwood poplar, Populus deltoides
+Bos taurus taurus	Cow, Bos taurus
+Cow, Bos taurus	Cow, Bos taurus
+Beef Cattle	Cow, Bos taurus
+Bos taurus	Cow, Bos taurus
+Bovine	Cow, Bos taurus
+Cattle	Cow, Bos taurus
+Cattle, Bos sp.	Cow, Bos taurus
+Cow	Cow, Bos taurus
+Dairy Cattle	Cow, Bos taurus
+bovine	Cow, Bos taurus
+cattle	Cow, Bos taurus
+cow	Cow, Bos taurus
+cow	Cow, Bos taurus
+cows	Cow, Bos taurus
+beef cattle	Cow, Bos taurus
+dairy cattle	Cow, Bos taurus
+Animal-Cattle-Steer	Cow, Bos taurus
+Animal-Cattle-Dairy Cow	Cow, Bos taurus
+Animal-Cattle-Beef Cow	Cow, Bos taurus
+animal-cattle-steer	Cow, Bos taurus
+Animal-Cattle-Heifer	Cow, Bos taurus
+animal-cattle-dairy cow	Cow, Bos taurus
+steer	Cow, Bos taurus
+Coyote, Canis latrans	Coyote, Canis latrans
+coyote	Coyote, Canis latrans
+Creeping bent grass, Agrostis stolonifera	Creeping bent grass, Agrostis stolonifera
+creeping bent grass	Creeping bent grass, Agrostis stolonifera
+Cucumber, Cucumis sativus	Cucumber, Cucumis sativus
+Cucumis sativus	Cucumber, Cucumis sativus
+cucumber	Cucumber, Cucumis sativus
+Dog, Canis lupus familiaris	Dog, Canis lupus familiaris
+Canine	Dog, Canis lupus familiaris
+Canis Lupus Domesticus	Dog, Canis lupus familiaris
+Canis Lupus Familiaris	Dog, Canis lupus familiaris
+Canis familiaris	Dog, Canis lupus familiaris
+Canis lupus	Dog, Canis lupus familiaris
+Canis lupus familiaris	Dog, Canis lupus familiaris
+Dog	Dog, Canis lupus familiaris
+dog	Dog, Canis lupus familiaris
+dog	Dog, Canis lupus familiaris
+Domestic ferret, Mustela putorius furo	Domestic ferret, Mustela putorius furo
+domestic ferret	Domestic ferret, Mustela putorius furo
+Domestic silkworm, Bombyx mori	Domestic silkworm, Bombyx mori
+ domestic silkworm	Domestic silkworm, Bombyx mori
+Bombyx mori	Domestic silkworm, Bombyx mori
+Silk worm, Bombyx mori	Domestic silkworm, Bombyx mori
+Duck, Anas platyrhynchos	Duck, Anas platyrhynchos
+Anas platyrhynchos	Duck, Anas platyrhynchos
+Duck	Duck, Anas platyrhynchos
+Mallard duck, Anas platyrhynchos	Duck, Anas platyrhynchos
+duck	Duck, Anas platyrhynchos
+mallard	Duck, Anas platyrhynchos
+Eastern oyster, Crassostrea virginica	Eastern oyster, Crassostrea virginica
+Crassostrea virginica	Eastern oyster, Crassostrea virginica
+Eastern oyster	Eastern oyster, Crassostrea virginica
+Oyster, Crassostrea virginica	Eastern oyster, Crassostrea virginica
+Eastern poison ivy, Toxicodendron radicans	Eastern poison ivy, Toxicodendron radicans
+poison ivy	Eastern poison ivy, Toxicodendron radicans
+Ectocarpus subulatus	Ectocarpus subulatus
+Elegant unicornfish, Naso elegans	Elegant unicornfish, Naso elegans
+Naso elegans	Elegant unicornfish, Naso elegans
+Elk, Cervus canadensis	Elk, Cervus canadensis
+elk	Elk, Cervus canadensis
+English oak, Quercus robur	English oak, Quercus robur
+english oak	English oak, Quercus robur
+English walnut, Juglans regia	English walnut, Juglans regia
+english walnut	English walnut, Juglans regia
+European hare, Lepus europaeus	European hare, Lepus europaeus
+Lepus europaeus	European hare, Lepus europaeus
+Hare, Lepus europaeus	European hare, Lepus europaeus
+european hare	European hare, Lepus europaeus
+Fallow deer, Dama dama	Fallow deer, Dama dama
+fallow deer	Fallow deer, Dama dama
+Fruit fly, Drosophila melanogaster	Fruit fly, Drosophila melanogaster
+Drosophila melanogaster	Fruit fly, Drosophila melanogaster
+Fruit fly, Drosophila	Fruit fly, Drosophila melanogaster
+drosophila	Fruit fly, Drosophila melanogaster
+fruit fly	Fruit fly, Drosophila melanogaster
+Giant grouper, Epinephelus lanceolatus	Giant grouper, Epinephelus lanceolatus
+giant grouper	Giant grouper, Epinephelus lanceolatus
+Goat, Capra hircus	Goat, Capra hircus
+Capra hircus	Goat, Capra hircus
+Caprine	Goat, Capra hircus
+Goat	Goat, Capra hircus
+caprine	Goat, Capra hircus
+goat	Goat, Capra hircus
+Golden kiwifruit, Actinidia chinensis	Golden kiwifruit, Actinidia chinensis
+Actinidia chinensis	Golden kiwifruit, Actinidia chinensis
+goat	Goat, Capra hircus
+Great gerbil, Rhombomys opimus	Great gerbil, Rhombomys opimus
+great gerbil	Great gerbil, Rhombomys opimus
+gerbil	Great gerbil, Rhombomys opimus
+Green peach aphid, Myzus persicae	Green peach aphid, Myzus persicae
+Myzus persicae	Green peach aphid, Myzus persicae
+Grey seal, Halichoerus grypus	Grey seal, Halichoerus grypus
+gray seal	Grey seal, Halichoerus grypus
+Guinea pig, Cavia porcellus	Guinea pig, Cavia porcellus
+ (Guinea pig)	Guinea pig, Cavia porcellus
+Guinea pig	Guinea pig, Cavia porcellus
+Guinea pig, Cavia	Guinea pig, Cavia porcellus
+Guinea-pig	Guinea pig, Cavia porcellus
+guinea pig	Guinea pig, Cavia porcellus
+guinea pig	Guinea pig, Cavia porcellus
+Harbor seal, Phoca vitulina	Harbor seal, Phoca vitulina
+Hazelnut, Corylus avellana	Hazelnut, Corylus avellana
+hazelnut	Hazelnut, Corylus avellana
+Honey bee, Apis mellifera	Honey bee, Apis mellifera
+Apis mellifera	Honey bee, Apis mellifera
+honey bee	Honey bee, Apis mellifera
+Hooker's sea lion, Phocarctos hookeri	Hooker's sea lion, Phocarctos hookeri
+hooker's sea lion	Hooker's sea lion, Phocarctos hookeri
+Horse, Equus caballus	Horse, Equus caballus
+Equine	Horse, Equus caballus
+Equus	Horse, Equus caballus
+Equus caballus	Horse, Equus caballus
+Equus ferus caballus	Horse, Equus caballus
+Horse	Horse, Equus caballus
+Horse (Mare)	Horse, Equus caballus
+Horse, foal	Horse, Equus caballus
+Mare	Horse, Equus caballus
+foal	Horse, Equus caballus
+horse	Horse, Equus caballus
+mare	Horse, Equus caballus
+House fly, Musca domestica	House fly, Musca domestica
+Fly, Musca domestica	House fly, Musca domestica
+house fly	House fly, Musca domestica
+Musca domestica	House fly, Musca domestica
+House sparrow, Passer domesticus	House sparrow, Passer domesticus
+Human, Homo sapiens	Human, Homo sapiens
+homo	Human, Homo sapiens
+Home sapiens	Human, Homo sapiens
+Homo sapiens	Human, Homo sapiens
+Homo sapiens sapiens	Human, Homo sapiens
+Human	Human, Homo sapiens
+Human (Infant)	Human, Homo sapiens
+boy	Human, Homo sapiens
+child	Human, Homo sapiens
+girl	Human, Homo sapiens
+homo sapiens	Human, Homo sapiens
+human	Human, Homo sapiens
+human	Human, Homo sapiens
+infant	Human, Homo sapiens
+man	Human, Homo sapiens
+woman	Human, Homo sapiens
+Ircinia ramosa	Ircinia ramosa
+Jackdaw, Corvus monedula	Jackdaw, Corvus monedula
+Corvus monedula	Jackdaw, Corvus monedula
+Jackdaw	Jackdaw, Corvus monedula
+Jackdraw	Jackdaw, Corvus monedula
+Jackdraw, Corvus monedula	Jackdaw, Corvus monedula
+jackdaw	Jackdaw, Corvus monedula
+jackdraw	Jackdaw, Corvus monedula
+jackdraw	Jackdaw, Corvus monedula
+Jackdraw, Corvus monedula	Jackdaw, Corvus monedula
+Corvus monedula	Jackdaw, Corvus monedula
+Jackdraw	Jackdaw, Corvus monedula
+jackdraw	Jackdaw, Corvus monedula
+Long-tailed ground squirrel, Citellus undulatus	Long-tailed ground squirrel, Citellus undulatus
+Citellus undulatus	Long-tailed ground squirrel, Citellus undulatus
+Kelp gull, Larus dominicanus	Kelp gull, Larus dominicanus
+kelp gull	Kelp gull, Larus dominicanus
+Kidney bean, Phaseolus vulgaris	Kidney bean, Phaseolus vulgaris
+Bean, Phaseolus vulgaris	Kidney bean, Phaseolus vulgaris
+French bean, Phaseolus vulgaris	Kidney bean, Phaseolus vulgaris
+Phaseolus vulgaris	Kidney bean, Phaseolus vulgaris
+french bean	Kidney bean, Phaseolus vulgaris
+Kiwifruit, Actinidia deliciosa	Kiwifruit, Actinidia deliciosa
+Actinidia deliciosa	Kiwifruit, Actinidia deliciosa
+kiwi	Kiwifruit, Actinidia deliciosa
+kiwifruit	Kiwifruit, Actinidia deliciosa
+Lime, Citrus aurantifolia	Lime, Citrus aurantifolia
+lime	Lime, Citrus aurantifolia
+Magellanic penguin, Spheniscus magellanicus	Magellanic penguin, Spheniscus magellanicus
+Magellanic penguin	Magellanic penguin, Spheniscus magellanicus
+Maize, Zea mays	Maize, Zea mays
+Corn	Maize, Zea mays
+Corn, Zea mays	Maize, Zea mays
+Corn, Zea mays subsp. Mays	Maize, Zea mays
+Corn, Zea mays subsp. mays	Maize, Zea mays
+Maize, Zea mays	Maize, Zea mays
+Zea mays	Maize, Zea mays
+Zea mays subsp. mays	Maize, Zea mays
+corn	Maize, Zea mays
+maize	Maize, Zea mays
+Medicago polymorpha	Medicago polymorpha
+Mongolian gerbil, Meriones unguiculatus	Mongolian gerbil, Meriones unguiculatus
+Gerbil, Meriones unguiculatus	Mongolian gerbil, Meriones unguiculatus
+Meriones unguiculatus	Mongolian gerbil, Meriones unguiculatus
+Mongolian gerbil	Mongolian gerbil, Meriones unguiculatus
+mongolian gerbil	Mongolian gerbil, Meriones unguiculatus
+Mosquito, Anopheles gambiae	Mosquito, Anopheles gambiae
+mosquito	Mosquito, Anopheles gambiae
+Mouse, Mus musculus	Mouse, Mus musculus
+House mouse	Mouse, Mus musculus
+House mouse, Mus musculus	Mouse, Mus musculus
+Mice,	Mouse, Mus musculus
+Mouse	Mouse, Mus musculus
+Mus musculus	Mouse, Mus musculus
+mouse	Mouse, Mus musculus
+mouse gut	Mouse, Mus musculus
+ob/ob mouse	Mouse, Mus musculus
+Noble cane, Saccharum officinarum	Noble cane, Saccharum officinarum
+noble cane	Noble cane, Saccharum officinarum
+Oat, Avena sativa	Oat, Avena sativa
+Oats	Oat, Avena sativa
+oat	Oat, Avena sativa
+Onion, Allium cepa	Onion, Allium cepa
+Common onion, Allium cepa	Onion, Allium cepa
+onion	Onion, Allium cepa
+Opossum, Didelphis virginiana	Opossum, Didelphis virginiana
+opossum	Opossum, Didelphis virginiana
+Orchard grass, Dactylis glomerata	Orchard grass, Dactylis glomerata
+orchard grass	Orchard grass, Dactylis glomerata
+Orius laevigatus	Orius laevigatus
+Pacific oyster, Crassostrea gigas	Pacific oyster, Crassostrea gigas
+Pacific white shrimp, Litopenaeus vannamei	Pacific white shrimp, Litopenaeus vannamei
+Litopenaeus vannamei	Pacific white shrimp, Litopenaeus vannamei
+Pacific white shrimp	Pacific white shrimp, Litopenaeus vannamei
+Pacific white shrimp, Penaeus vannamei	Pacific white shrimp, Litopenaeus vannamei
+Penaeus vannamei	Pacific white shrimp, Litopenaeus vannamei
+Shrimp, Litopenaeus vannamei	Pacific white shrimp, Litopenaeus vannamei
+pacific white shrimp	Pacific white shrimp, Litopenaeus vannamei
+Panamanian leafcutter ant, Acromyrmex echinatior	Panamanian leafcutter ant, Acromyrmex echinatior
+Panamanian leafcutter ant	Panamanian leafcutter ant, Acromyrmex echinatior
+Pea aphid, Acyrthosiphon pisum	Pea aphid, Acyrthosiphon pisum
+pea aphid	Pea aphid, Acyrthosiphon pisum
+Pea, Pisum sativum	Pea, Pisum sativum
+pea	Pea, Pisum sativum
+Peach, Prunus persica	Peach, Prunus persica
+Pear, Pyrus communis	Pear, Pyrus communis
+pear	Pear, Pyrus communis
+Perennial ryegrass, Lolium perenne	Perennial ryegrass, Lolium perenne
+Lolium perenne	Perennial ryegrass, Lolium perenne
+Lolium perenne	Perennial ryegrass, Lolium perenne
+perennial ryegrass	Perennial ryegrass, Lolium perenne
+Pig, Sus scrofa	Pig, Sus scrofa
+Animal-Swine-Sow	Pig, Sus scrofa
+Sus scrofa (WT)	Pig, Sus scrofa
+Hogs	Pig, Sus scrofa
+Pig	Pig, Sus scrofa
+Pig, Sus scrofa 	Pig, Sus scrofa
+Pig, Sus scrofa domesticus	Pig, Sus scrofa
+Pig, Sus sp.	Pig, Sus scrofa
+Piglet	Pig, Sus scrofa
+Porcine	Pig, Sus scrofa
+Sus	Pig, Sus scrofa
+Sus scrofa domesticus	Pig, Sus scrofa
+Sus scrofa scrofa	Pig, Sus scrofa
+Sus sp.	Pig, Sus scrofa
+Swine	Pig, Sus scrofa
+pig	Pig, Sus scrofa
+pig	Pig, Sus scrofa
+pig	Pig, Sus scrofa
+pigs	Pig, Sus scrofa
+Animal-Swine-Market Swine	Pig, Sus scrofa
+Animal-Swine-Sow	Pig, Sus scrofa
+animal-swine-market swine	Pig, Sus scrofa
+porcine rectal swab	Pig, Sus scrofa
+swine	Pig, Sus scrofa
+Plum, Prunus domestica	Plum, Prunus domestica
+plum	Plum, Prunus domestica
+Potato, Solanum tuberosum	Potato, Solanum tuberosum
+Potato	Potato, Solanum tuberosum
+Potato, Solanum tuberosum var. Felsina	Potato, Solanum tuberosum
+Solanum tuberosum	Potato, Solanum tuberosum
+potato	Potato, Solanum tuberosum
+Prairie dog, Cynomys gunnisoni	Prairie dog, Cynomys gunnisoni
+Gunnisons prairie dog, 	Prairie dog, Cynomys gunnisoni
+Rabbit, Oryctolagus cuniculus	Rabbit, Oryctolagus cuniculus
+Oryctolagus cuniculus	Rabbit, Oryctolagus cuniculus
+Rabbit	Rabbit, Oryctolagus cuniculus
+rabbit	Rabbit, Oryctolagus cuniculus
+rabbit	Rabbit, Oryctolagus cuniculus
+Raccoon, Procyon lotor	Raccoon, Procyon lotor
+Rainbow trout, Oncorhynchus mykiss	Rainbow trout, Oncorhynchus mykiss
+Oncorhynchus mykiss	Rainbow trout, Oncorhynchus mykiss
+rainbow trout	Rainbow trout, Oncorhynchus mykiss
+Rape, Brassica napus	Rape, Brassica napus
+Rat, Rattus norvegicus	Rat, Rattus norvegicus
+Norway rat, Rattus norvegicus	Rat, Rattus norvegicus
+Rat	Rat, Rattus norvegicus
+Rattus norvegicus	Rat, Rattus norvegicus
+rat	Rat, Rattus norvegicus
+Red deer, Cervus elaphus	Red deer, Cervus elaphus
+Red fox, Vulpes vulpes	Red fox, Vulpes vulpes
+red fox	Red fox, Vulpes vulpes
+Rhesus monkey, Macaca mulatta	Rhesus monkey, Macaca mulatta
+Macaca mulatta	Rhesus monkey, Macaca mulatta
+Rhesus macaque	Rhesus monkey, Macaca mulatta
+rhesus monkey	Rhesus monkey, Macaca mulatta
+Rice, Oryza sativa	Rice, Oryza sativa
+Oryza sativa	Rice, Oryza sativa
+Rice	Rice, Oryza sativa
+Rice, Oryza sativa cv. Lemont	Rice, Oryza sativa
+rice	Rice, Oryza sativa
+rice	Rice, Oryza sativa
+Ring-necked pheasant, Phasianus colchicus	Ring-necked pheasant, Phasianus colchicus
+ring-necked pheasant	Ring-necked pheasant, Phasianus colchicus
+Rivet wheat, Triticum turgidum	Rivet wheat, Triticum turgidum
+Wheat, Triticum turgidum	Rivet wheat, Triticum turgidum
+Rock pigeon, Columba livia	Rock pigeon, Columba livia
+Pigeon, Columba livia	Rock pigeon, Columba livia
+Sesbania pea,  Sesbania cannabina	Sesbania pea,  Sesbania cannabina
+Canicha, Sesbania cannabina	Sesbania pea,  Sesbania cannabina
+Sheep, Ovis aries	Sheep, Ovis aries
+Lamb	Sheep, Ovis aries
+Ovine	Sheep, Ovis aries
+Sheep	Sheep, Ovis aries
+Sheep, Lamb	Sheep, Ovis aries
+Sheep, Ovis sp.	Sheep, Ovis aries
+lamb	Sheep, Ovis aries
+ovine	Sheep, Ovis aries
+sheep	Sheep, Ovis aries
+low methane producing sheep	Sheep, Ovis aries
+high methane producing sheep	Sheep, Ovis aries
+sheep	Sheep, Ovis aries
+Silver leaf poplar, Populus alba	Silver leaf poplar, Populus alba
+Populus alba	Silver leaf poplar, Populus alba
+Sour cherry, Prunus cerasus	Sour cherry, Prunus cerasus
+Pie cherry, Prunus cerasus	Sour cherry, Prunus cerasus
+South American sea lion, Otaria flavescens	South American sea lion, Otaria flavescens
+Soybean, Glycine max	Soybean, Glycine max
+Soybean	Soybean, Glycine max
+Glycine max	Soybean, Glycine max
+Soybean, Glycine max	Soybean, Glycine max
+Soybean, Glycine max (L.) Merrill	Soybean, Glycine max
+Soybean, Glycine max cv. Jinju1	Soybean, Glycine max
+Soybean, Glycine soja Siebold & Zucc.	Soybean, Glycine max
+soybean	Soybean, Glycine max
+Spectacled eider, Somateria fischeri	Spectacled eider, Somateria fischeri
+spectacled eider	Spectacled eider, Somateria fischeri
+Striped sea bass, Morone saxatilis	Striped sea bass, Morone saxatilis
+striped sea bass	Striped sea bass, Morone saxatilis
+Sugarcane, Saccharum officinarum	Sugarcane, Saccharum officinarum
+sugarcane	Sugarcane, Saccharum officinarum
+Sweet cherry, Prunus avium	Sweet cherry, Prunus avium
+Prunus avium	Sweet cherry, Prunus avium
+sweet cherry	Sweet cherry, Prunus avium
+Sweet orange, Citrus sinensis	Sweet orange, Citrus sinensis
+sweet orange	Sweet orange, Citrus sinensis
+Taiga tick, Ixodes persulcatus	Taiga tick, Ixodes persulcatus
+Ixodes persulcatus	Taiga tick, Ixodes persulcatus
+Tick, Ixodes persulcatus	Taiga tick, Ixodes persulcatus
+Thale cress, Arabidopsis thaliana	Thale cress, Arabidopsis thaliana
+Arabidopsis	Thale cress, Arabidopsis thaliana
+Arabidopsis thaliana	Thale cress, Arabidopsis thaliana
+arabidopsis	Thale cress, Arabidopsis thaliana
+Tilapia, Oreochromis niloticus	Tilapia, Oreochromis niloticus
+Oreochromis niloticus	Tilapia, Oreochromis niloticus
+Fish, Nile tilapia	Tilapia, Oreochromis niloticus
+Fish, Tilapia	Tilapia, Oreochromis niloticus
+Fish, Tilapia, Oreochromis niloticus	Tilapia, Oreochromis niloticus
+Nile tilapia	Tilapia, Oreochromis niloticus
+Tilapia, Oreochromis sp.	Tilapia, Oreochromis niloticus
+nile tilapia	Tilapia, Oreochromis niloticus
+tilapia	Tilapia, Oreochromis niloticus
+tilapia	Tilapia, Oreochromis niloticus
+Tomato, Solanum lycopersicum	Tomato, Solanum lycopersicum
+Solanum lycopersicum	Tomato, Solanum lycopersicum
+Solanum lycopersicum (tomato)	Tomato, Solanum lycopersicum
+tomato	Tomato, Solanum lycopersicum
+tomato	Tomato, Solanum lycopersicum
+Turkey, Meleagris gallopavo	Turkey, Meleagris gallopavo
+Turkey	Meleagris gallopavo
+Meleagris gallopavo	Turkey, Meleagris gallopavo
+Meleagris	Turkey, Meleagris gallopavo
+Turkeys	Turkey, Meleagris gallopavo
+Young Turkey	Turkey, Meleagris gallopavo
+turkey	Turkey, Meleagris gallopavo
+Water buffalo, Bubalus bubalis	Water buffalo, Bubalus bubalis
+Bubalus bubalis	Water buffalo, Bubalus bubalis
+water buffalo	Water buffalo, Bubalus bubalis
+Wheat, Triticum aestivum	Wheat, Triticum aestivum
+Wheat	Wheat, Triticum aestivum
+wheat	Wheat, Triticum aestivum
+White Clover, Trifolium repens	White Clover, Trifolium repens
+Trifolium repens	White Clover, Trifolium repens
+White-tailed deer, Odocoileus virginianus	White-tailed deer, Odocoileus virginianus
+Odocoileus virginianus	White-tailed deer, Odocoileus virginianus
+Deer, Odocoileus virginianus	White-tailed deer, Odocoileus virginianus
+white-tailed deer	White-tailed deer, Odocoileus virginianus
+White-tufted-ear marmoset,  Callithrix jacchus	White-tufted-ear marmoset,  Callithrix jacchus
+Callithrix jacchus	White-tufted-ear marmoset,  Callithrix jacchus
+Marmoset, Callithrix jacchus	White-tufted-ear marmoset,  Callithrix jacchus
+Yellow yam, Dioscorea cayenensis	Yellow yam, Dioscorea cayenensis
+Yellow yam plant, Dioscorea cayenensis	Yellow yam, Dioscorea cayenensis
+Yellowfin tuna, Thunnus albacares	Yellowfin tuna, Thunnus albacares
+Zebrafish, Danio rerio	Zebrafish, Danio rerio
+Danio rerio	Zebrafish, Danio rerio
+zebrafish	Zebrafish, Danio rerio
+zebrafish	Zebrafish, Danio rerio
+Malus domestica	Apple, Malus domestica
+apple	Apple, Malus domestica
+Chrysomya sp. (blowfly)	Blowfly, Chrysomya sp.
+Pisum sativum	Pea, Pisum sativum
+Chroicocephalus novaehollandiae	Silver gull, Chroicocephalus novaehollandiae
+Phalacrocorax carbo	Great cormorant, Phalacrocorax carbo
+Vulpes zerda	Fennec fox, Vulpes zerda
+Holstein	Cow, Bos taurus
+Pyrus communis	Pear, Pyrus communis
+Lens culinaris	Lentil, Lens culinaris
