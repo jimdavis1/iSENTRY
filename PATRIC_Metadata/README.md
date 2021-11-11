@@ -1,6 +1,6 @@
 
 
-# MetaData Cleanup Work, last updated 3-2020
+# MetaData Cleanup Work, last updated 11-2021
 
 This repo contains the up to date metadata curation work that has been done for the iSENTRY project using the data from PATRIC.
 
@@ -37,9 +37,9 @@ I have generated a program, *`cleanup_PATRIC_metadata.pl`* that reads a tab-deli
   
  It also reads as input a set of otology tables (tab-delimited text format) for cleaning up the fields. Current versions are:  
  
- * Host-3-20.txt
- * Envt-3-20.txt
- * Body-3-20.txt
+ * Body-Site-Ontology-11-21.txt
+ * Host-Ontology-11-21.txt
+ * Envt-Ontology-11-21.txt
  
  These are managed by hand in a corresponding set of excel files. 
  
@@ -112,7 +112,7 @@ Overall out of the 321,355 genomes:
 The Non-PATRIC-genomes directory contains the full list of host and environmental metadata from PATRIC and other sources.  It also contains the additonal curated body sites for genomes that are not integrated in PATRIC.
 
 
-# 11-2020 updates:
+# 11-2020 Update
 
 I have updated the Host and Body site ontologies.  Nothing changed in Body site, except that I swapped the order of the fields so that the least specific field comes first.
 
@@ -140,3 +140,12 @@ I have updated the Host and Body site ontologies.  Nothing changed in Body site,
 	Unclassified, no data	33293
 
 I have also added a small script called `All_PATRIC_genomes.pl`.  It does a cleaner faster job of getting all PATRIC genome ids. 
+
+# 11-2021 Update
+I updated the ontology files.  Notable updates include merging the lower GI categories with stool for the body site ontology.  We also merged sewage and feces in the environmental ontology table.  There are several other smaller changes.  These were done to improve the accuracy of the classifiers.  The repo also contains 3 new files:
+
+* Host-2021.NCBI.txt
+* Body-11-21.clean.txt
+* Envt-Clinical-11-21.txt
+
+The NCBI host file has assembled genomes at NCBI that are not yet integrated in PATRIC that we wanted to model.  The Body-11-21 file contains only the most genneral ontology for body site.  We are only currently modeling these.  The envt-clinical file merges the clinical category from the body site output with the environmental categories so that clinical can be modeled with environmental. 
