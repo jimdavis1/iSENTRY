@@ -1,0 +1,380 @@
+sludge from a mesophilic anaerobic wastewater digester enriched on phosphite and carbon dioxide	bioreactor or biodigester	biodigester	anaerobic biodigester	
+anaerobic digester	bioreactor or biodigester	biodigester	anaerobic biodigester	
+anaerobic digester filtrate obtained from the belt filter press of the CVWRF wastewater 	bioreactor or biodigester	biodigester	anaerobic biodigester	
+closed biodigester	bioreactor or biodigester	biodigester		
+Ammonium sulfate bioreactor	bioreactor or biodigester	bioreactor	ammonium sulfate bioreactor	
+Bioreactor performing anaerobic oxidation of methane coupled to iron reduction	bioreactor or biodigester	bioreactor	anaerobic bioreactor	
+Conversion residue fermenting bioreactor	bioreactor or biodigester	bioreactor	anaerobic bioreactor	
+Thiocyanate stock biobioreactor	bioreactor or biodigester	bioreactor	cyanide and thiocyante bioreactor	
+Thiocyanate ramp bioreactor	bioreactor or biodigester	bioreactor	cyanide and thiocyante bioreactor	
+Cyanide and thiocyanate bioreactor	bioreactor or biodigester	bioreactor	cyanide and thiocyante bioreactor	
+Thiocyanate bioreactor	bioreactor or biodigester	bioreactor	cyanide and thiocyante bioreactor	
+Thiocyanate stock bioreactor	bioreactor or biodigester	bioreactor	cyanide and thiocyante bioreactor	
+bioreactor	bioreactor or biodigester	bioreactor		
+lab-scale wastewater treatment bioreactor	bioreactor or biodigester	bioreactor		
+Bioreactor	bioreactor or biodigester	bioreactor		
+bioreactor sludge	bioreactor or biodigester	bioreactor		
+Lab-scale methanogenic bioreactor treating purified terephthalic acid process wastewater	bioreactor or biodigester	bioreactor		
+Full-scale methanogenic bioreactor treating purified terephthalic acid process wastewater	bioreactor or biodigester	bioreactor		
+leaf litter	environmental	plant matter	compost	
+Leaf Litter	environmental	plant matter	compost	
+compost	environmental	plant matter	compost	
+wood	environmental	plant matter	wood	
+salt crust	environmental	salt crust	salt crust	
+enrichment from estuary sediment	environmental	sediment	estuary sediment	
+mangrove sediment	environmental	sediment	estuary sediment	
+river sediment	environmental	sediment	freshwater sediment	
+Prairie Pothole Region wetland sediments	environmental	sediment	freshwater sediment	
+lake sediment	environmental	sediment	freshwater sediment	
+hypersaline soda lake sediment	environmental	sediment	hypersaline sediment	
+deep-sea hydrothermal vent sediments from dive 4569_2 depth 12-15 cm	environmental	sediment	ocean sediment	deep sea hydrothermal vent sediment
+deep-sea hydrothermal vent sediments	environmental	sediment	ocean sediment	deep sea hydrothermal vent sediment
+deep-sea hydrothermal vent sediments from dive 4569_9 depth 0-3 cm	environmental	sediment	ocean sediment	deep sea hydrothermal vent sediment
+deep-sea hydrothermal vent sediments from dive 4569_9 depth 9-12 cm	environmental	sediment	ocean sediment	deep sea hydrothermal vent sediment
+deep-sea hydrothermal vent sediments from dive 4569_2 depth 21-24 cm	environmental	sediment	ocean sediment	deep sea hydrothermal vent sediment
+deep-sea hydrothermal vent sediments from dive 4569_2 depth 0-3 cm	environmental	sediment	ocean sediment	deep sea hydrothermal vent sediment
+deep-sea hydrothermal vent sediments from dive 4571_4 depth 12-15 cm	environmental	sediment	ocean sediment	deep sea hydrothermal vent sediment
+deep-sea hydrothermal vent sediments from dive 4569_4 depth 0-3 cm	environmental	sediment	ocean sediment	deep sea hydrothermal vent sediment
+deep-sea hydrothermal vent sediments from dive 4567_28 depth 0-3 cm	environmental	sediment	ocean sediment	deep sea hydrothermal vent sediment
+deep-sea hydrothermal vent sediments from dive 4484	environmental	sediment	ocean sediment	deep sea hydrothermal vent sediment
+marine sediment sample collected at a deep sea vent site during cruise AT15-25 on Alvin dive 4460; sediment was oily and the sediment surface was covered with a white microbial mat	environmental	sediment	ocean sediment	deep sea hydrothermal vent sediment
+marine hydrothermal sulfide sediment TVG13	environmental	sediment	ocean sediment	deep sea hydrothermal vent sediment
+marine hydrothermal sulfide sediment TVG11	environmental	sediment	ocean sediment	deep sea hydrothermal vent sediment
+marine hydrothermal sulfide sediment TVG12	environmental	sediment	ocean sediment	deep sea hydrothermal vent sediment
+deep sea sediment	environmental	sediment	ocean sediment	deep sea sediment
+marine sediment	environmental	sediment	ocean sediment	
+seawater at sediment depth	environmental	sediment	ocean sediment	
+sediment	environmental	sediment	ocean sediment	
+marine sediments	environmental	sediment	ocean sediment	
+deep-sea sediment	environmental	sediment	ocean sediment	
+deep-sea hydrothermal vent sediments from dive 4571_4 depth 0-3 cm	environmental	sediment	ocean sediment	deep sea hydrothermal vent sediment
+sediment	environmental	sediment		
+Sediment	environmental	sediment		
+sediments	environmental	sediment		
+Sediments	environmental	sediment		
+bulk soil from sugarcane field	environmental	soil	agricultural soil	
+agricultural soil	environmental	soil	agricultural soil	
+rhizosphere soil from sugare cane field	environmental	soil	agricultural soil	
+garden soil	environmental	soil	agricultural soil	
+beach sand	environmental	soil	beach sand	
+contaminated soil	environmental	soil	contaminated soil	
+desert soil	environmental	soil	desert soil	
+desert sand	environmental	soil	desert soil	
+forest soil	environmental	soil	forest soil	
+meadow soil	environmental	soil	meadow soil	
+Soil sample from Angelo meadow plot 1, 40cm depth, 4 days after first rain event (27mm) 26	environmental	soil	meadow soil	
+Soil sample from Angelo meadow plot 1, 40cm depth, 6 days after first rain event (27mm)	environmental	soil	meadow soil	
+Soil sample from Angelo meadow plot 1, 40cm depth, 2 days after first rain event (91mm)	environmental	soil	meadow soil	
+Soil sample from Angelo meadow plot 1, 20cm depth, 4 days after first rain event (27mm)	environmental	soil	meadow soil	
+Soil sample from Angelo meadow plot 2, 20cm depth, 2 days after second rain event (91mm)	environmental	soil	meadow soil	
+Soil sample from Angelo meadow plot 1, 40cm depth, pre rain	environmental	soil	meadow soil	
+Soil sample from Angelo meadow plot 1, 20cm depth, 2 days after second rain event (91mm)	environmental	soil	meadow soil	
+Soil sample from Angelo meadow plot 1, 40cm depth, 4 days after first rain event (27mm)	environmental	soil	meadow soil	
+Soil sample from Angelo meadow plot 1, 20cm depth, 6 days after first rain event (27mm)	environmental	soil	meadow soil	
+Soil sample from Angelo meadow plot 2, 20cm depth, 6 days after first rain event (27mm)	environmental	soil	meadow soil	
+mud	environmental	soil	mud	
+permafrost active layer soil	environmental	soil	permafrost soil	
+rhizosphere soil	environmental	soil	rhizosphere soil	
+soil	environmental	soil		
+Soil	environmental	soil		
+soil sample	environmental	soil		
+pooled data from three different soil samples	environmental	soil		
+Wyoming Soil	environmental	soil		
+brackish water collected from the surface of the Baltic Sea	environmental	water	brackish water	
+brackish water	environmental	water	brackish water	
+estuarine water	environmental	water	brackish water	
+brackish water; Sakinaw Lake	environmental	water	brackish water	
+Freshwater sample from upstream of wastewater treatment plant	environmental	water	freshwater	
+Drinking Water	environmental	water	freshwater	drinking or tap water
+drinking water	environmental	water	freshwater	drinking or tap water
+household water source	environmental	water	freshwater	drinking or tap water
+enrichment culture of hot tap water	environmental	water	freshwater	drinking or tap water
+Tap water	environmental	water	freshwater	drinking or tap water
+Advanced Water Purification Facility	environmental	water	freshwater	water purification facility
+household tap filter	environmental	water	freshwater	drinking or tap water
+lake water	environmental	water	freshwater	freshwater pond or lake
+freshwater lake	environmental	water	freshwater	freshwater pond or lake
+Lake Lanier	environmental	water	freshwater	freshwater pond or lake
+freshwater lake, 40-80 m depth	environmental	water	freshwater	freshwater pond or lake
+freshwater reservoir, 30 m depth	environmental	water	freshwater	freshwater pond or lake
+Lake freshwater	environmental	water	freshwater	freshwater pond or lake
+Switzerland: Lake Zurich, 5 m depth	environmental	water	freshwater	freshwater pond or lake
+freshwater lake, 5 m depth	environmental	water	freshwater	freshwater pond or lake
+Environmental (Pond)	environmental	water	freshwater	freshwater pond or lake
+Pond	environmental	water	freshwater	freshwater pond or lake
+pond water	environmental	water	freshwater	freshwater pond or lake
+pond	environmental	water	freshwater	freshwater pond or lake
+0.22 micron fraction from Freshwater Reservoir Amadorio	environmental	water	freshwater	freshwater pond or lake
+Tibetan Plateau lake	environmental	water	freshwater	freshwater pond or lake
+lake	environmental	water	freshwater	freshwater pond or lake
+Pond Water	environmental	water	freshwater	freshwater pond or lake
+freshwater reservoir from 10 m depth	environmental	water	freshwater	freshwater pond or lake
+groundwater	environmental	water	freshwater	groundwater
+groundwater filtered through a a 3.0 um filter and then through a 0.2 um filter 81	environmental	water	freshwater	groundwater
+groundwater filtered through a 3.0 um filter	environmental	water	freshwater	groundwater
+groundwater filtered through a a 3.0 um filter and then through a 0.2 um filter	environmental	water	freshwater	groundwater
+Canal	environmental	water	freshwater	irrigation or canal
+Irrigation water	environmental	water	freshwater	irrigation or canal
+river water	environmental	water	freshwater	river or stream
+River	environmental	water	freshwater	river or stream
+River water	environmental	water	freshwater	river or stream
+Noosa River	environmental	water	freshwater	river or stream
+river	environmental	water	freshwater	river or stream
+waterfall	environmental	water	freshwater	river or stream
+Environmental (Streams)	environmental	water	freshwater	river or stream
+creek water	environmental	water	freshwater	river or stream
+stream water	environmental	water	freshwater	river or stream
+alpine spring water	environmental	water	freshwater	river or stream
+non-axenic culture from freshwater	environmental	water	freshwater	
+Surface water	environmental	water	freshwater	surface water
+freshwater	environmental	water	freshwater	
+fresh water	environmental	water	freshwater	
+environmental watersal	environmental	water	freshwater	
+Freshwater	environmental	water	freshwater	
+iron-rich hot spring	environmental	water	hotspring	
+hotspring	environmental	water	hotspring	
+NG05 hot spring, Norris Geyser Basin	environmental	water	hotspring	
+GG12 hot spring, Gibbon Geyser Basin	environmental	water	hotspring	
+Ulu Slim Hot Spring	environmental	water	hotspring	
+Hot spring in Mutnovsky Volcano	environmental	water	hotspring	
+hot spring	environmental	water	hotspring	
+geothermally-influenced stream	environmental	water	hotspring	
+sediment from terrestrial hot spring	environmental	water	hotspring sediment	
+water from hydrothermal vent	environmental	water	hydrothermal vent	
+Beebe hydrothermal vent plume at at depth of 4900m	environmental	water	hydrothermal vent	
+hydrothermal vent	environmental	water	hydrothermal vent	
+marine hydrothermal chimney wall TVG10	environmental	water	hydrothermal vent	
+glacier	environmental	water	ice	glacier
+ice core	environmental	water	ice	ice core
+sea ice	environmental	water	ice	sea ice
+Maroochydoore River	environmental	water	river or stream	
+hypersaline soda lake brine	environmental	water	saline lake	
+endorheic salt-lake	environmental	water	saline lake	
+salt lake	environmental	water	saline lake	
+alkaline salt lake	environmental	water	saline lake	
+soda lakes, can thrive at pH 10 and salt concentrations up to 4 M sodium and 3 M potassium	environmental	water	saline lake	
+Open Ocean	environmental	water	seawater	
+marine	environmental	water	seawater	
+marine water sample	environmental	water	seawater	
+saline water (ENVO:00002010), including plankton (ENVO:xxxxxxxx)	environmental	water	seawater	
+seawater	environmental	water	seawater	
+single cell amplified by WGA-X; seawater	environmental	water	seawater	
+marine subsurface aquifer	environmental	water	seawater	
+marine water	environmental	water	seawater	
+Subsurface seawater	environmental	water	seawater	
+sea water	environmental	water	seawater	
+raw seawater	environmental	water	seawater	
+Oyster Pond	environmental	water	seawater	
+Filtered Seawater, 5-63 micron fraction	environmental	water	seawater	
+Filtered Seawater, >63 micron fraction	environmental	water	seawater	
+single cell amplified by MDA; seawater	environmental	water	seawater	
+Filtered Seawater, 0.2-1 micron fraction	environmental	water	seawater	
+Filtered Seawater, 1-5 micron fraction	environmental	water	seawater	
+Seawater	environmental	water	seawater	
+surface seawater	environmental	water	seawater	
+ocean water	environmental	water	seawater	
+saline water including plankton	environmental	water	seawater	
+summer tide-pools	environmental	water	seawater	
+Mediterranean seawater enriched with a specific particulate matter	environmental	water	seawater	
+Sea water	environmental	water	seawater	
+filtered seawater (large, >=63 micrometer filter)	environmental	water	seawater	
+Filtered seawater (64 uM filter)	environmental	water	seawater	
+Shore seawater	environmental	water	seawater	
+deep sea brine	environmental	water	seawater	
+sample BD02T64 sea water enriched with oil for 64 day	environmental	water	seawater	
+lagoon	environmental	water		
+Troups Creek Wetland	environmental	water		
+aquatic	environmental	water		
+deeply circulating subsurface aquifer fluids	environmental	water		
+water	environmental	water		
+environmental waters	environmental	water		
+Water	environmental	water		
+water sample	environmental	water		
+water samples from two horizons (5 m and 20 m) were filtered through the net (size 27-um) and then filtered through nitrocellulose filters with a pore size of 0.22 um	environmental	water		
+water column	environmental	water		
+water (10 gal)	environmental	water		
+environmental	environmental			
+environmental isolate	environmental			
+environment	environmental			
+environmental sample	environmental			
+Environmental (Forests)	environmental			
+Environment	environmental			
+Environmental isolate	environmental			
+enviornmental swabs	environmental			
+environmental swabs	environmental			
+Environmental swab	environmental			
+Environmental Swab	environmental			
+Enviornmental Swab	environmental			
+environmental	environmental			
+temperate grassland biome	environmental			
+Environmental	environmental			
+air	environmental			
+basaltic crustal fluids	environmental			
+rhizosphere	environmental			
+Enviromental	environmental			
+farm environment	farm environment			
+Pig farm	farm environment			
+Cattle farm	farm environment			
+Poultry Farm	farm environment			
+dairy farm	farm environment			
+Bovine Faeces	farm environment			
+Pooled pig faecal samples collected from floor of farm	farm environment			
+Dairy farm	farm environment			
+chicken droppings	farm environment			
+Pooled sheep faecal samples collected from floor of farm	farm environment			
+Pooled cattle faecal samples collected from floor of farm	farm environment			
+Farm environmental	farm environment			
+chicken litter	farm environment			
+hospital sewage	feces and sewage	hospital sewage		
+Hospital sewage	feces and sewage	hospital sewage		
+hospital wastewater	feces and sewage	hospital wastewater		
+hospital wastewaters	feces and sewage	hospital wastewater		
+Hospital waste water	feces and sewage	hospital wastewater		
+hospital effluent	feces and sewage	hospital wastewater		
+activated sludge	feces and sewage	sludge		
+sludge	feces and sewage	sludge		
+Feral swine feces	feces and sewage	swine feces	feral swine feces	
+treated wastewater	feces and sewage	treated wastewater		
+wastewater treatment plant	feces and sewage	waste water		
+waste water	feces and sewage	waste water		
+Wastewater	feces and sewage	waste water		
+wastewater	feces and sewage	waste water		
+wastewater inflow	feces and sewage	waste water		
+wastewater outflow	feces and sewage	waste water		
+Municipal wastewater, Sand Island WWTP	feces and sewage	waste water		
+Secondary wastewater	feces and sewage	waste water		
+Environment (waste water)	feces and sewage	waste water		
+Wastewater influent sample	feces and sewage	waste water		
+wastewater treatment plant effluent	feces and sewage	waste water		
+Freshwater sample from downstream of wastewater treatment plant	feces and sewage	waste water		
+municipal wastewater	feces and sewage	waste water		
+municipal wastewater	feces and sewage	waste water		
+Wastewater (Primary Effluent)	feces and sewage	waste water		
+sewage	feces and sewage			
+Sewage	feces and sewage			
+stool	feces and sewage			
+feces	feces and sewage			
+faeces	feces and sewage			
+Wastewater effluent sample	feces and sewage			
+beer	food production	alcohol product	beer	
+Red wine	food production	alcohol product	wine	
+Cabernet Sauvignon	food production	alcohol product	wine	
+wine	food production	alcohol product	wine	
+Chardonnay	food production	alcohol product	wine	
+Beer	food production	alcohol product	wine	
+Shiraz	food production	alcohol product	wine	
+Wine	food production	alcohol product	wine	
+cheese	food production	dairy product	cheese	
+Raw milk cheese	food production	dairy product	cheese	
+bryndza cheese	food production	dairy product	cheese	
+Gruyere	food production	dairy product	cheese	
+Cheese rind	food production	dairy product	cheese	
+wagashi (unripened soft cheese)	food production	dairy product	cheese	
+Cheese	food production	dairy product	cheese	
+swab (dairy plant - blue cheese)	food production	dairy product	cheese	
+pasta filata cheese	food production	dairy product	cheese	
+kefir	food production	dairy product	kefir	
+Bulk milk	food production	dairy product	milk	
+raw milk	food production	dairy product	milk	
+Milk	food production	dairy product	milk	
+pasteurized milk	food production	dairy product	milk	
+milk	food production	dairy product	milk	
+Raw Milk	food production	dairy product	milk	
+artisanal dairy product	food production	dairy product		
+fermented dairy product	food production	dairy product		
+sourdough	food production	dough	sourdough	
+Retail table eggs	food production	eggs		
+Chicken processing plant	food production	food processing environment		
+food processing environment	food production	food processing environment		
+Slaughterhouse	food production	food processing environment		
+Slaughterhouse-environment	food production	food processing environment		
+Food production environment	food production	food processing environment		
+product-raw-intact-beef	food production	meat product	beef	
+Ground Beef	food production	meat product	beef	
+comminuted beef	food production	meat product	beef	
+aerobically stored beef	food production	meat product	beef	
+ground beef	food production	meat product	beef	
+beef	food production	meat product	beef	
+Post-chill chicken carcass	food production	meat product	chicken	
+chicken drumstick	food production	meat product	chicken	
+Food (chicken)	food production	meat product	chicken	
+Chicken Breast	food production	meat product	chicken	
+raw intact chicken	food production	meat product	chicken	
+chicken carcass	food production	meat product	chicken	
+Chicken breast	food production	meat product	chicken	
+comminuted chicken	food production	meat product	chicken	
+Chicken Breasts	food production	meat product	chicken	
+retail chicken	food production	meat product	chicken	
+chicken meat	food production	meat product	chicken	
+Chicken Wings	food production	meat product	chicken	
+Chicken Thighs	food production	meat product	chicken	
+Chicken Legs	food production	meat product	chicken	
+chicken breast	food production	meat product	chicken	
+Gallus gallus; Chicken pieces	food production	meat product	chicken	
+chicken schnitzel	food production	meat product	chicken	
+Chicken Wing	food production	meat product	chicken	
+chicken carcass rinse samples	food production	meat product	chicken	
+Raw chicken meat	food production	meat product	chicken	
+meat	food production	meat product	meat	
+Pork Chop	food production	meat product	pork	
+Pork chop	food production	meat product	pork	
+Pork	food production	meat product	pork	
+Pork Chops	food production	meat product	pork	
+Product-Raw-Ground, Comminuted or Otherwise Nonintact-Pork	food production	meat product	pork	
+Pork Chops bone-in	food production	meat product	pork	
+pork	food production	meat product	pork	
+pork salami	food production	meat product	pork	
+salami	food production	meat product	salami	
+salami paste (production)	food production	meat product	salami paste	
+smoked salmon	food production	meat product	salmon	
+Ground Turkey	food production	meat product	turkey	
+ground turkey	food production	meat product	turkey	
+turkey breast	food production	meat product	turkey	
+Food (turkey)	food production	meat product	turkey	
+Comminuted Turkey	food production	meat product	turkey	
+minced meat	food production	meat product		
+flour/flour products	food production	plant product	flour	
+kimchi	food production	plant product	kimchi	
+peanut butter	food production	plant product	peanut butter	
+pickle	food production	plant product	pickle	
+Fresh produce	food production	plant product		
+food	food production			
+food product	food production			
+food(RTE)	food production			
+Retail Deli	food production			
+Food	food production			
+Hospital Bedding	hospital environment	hospital bedding		
+hospital shower hose biofilm	hospital environment	hospital shower		
+washroom sink in hospital intensive care unit	hospital environment	hospital sink		
+hospital NICU surfaces and sink samples	hospital environment	hospital sink		
+hospital sink drain	hospital environment	hospital sink		
+Hospital gel hand wash	hospital environment	hospital sink		
+Hospital-Room 1036, Sink	hospital environment	hospital sink		
+Hospital hot water tap	hospital environment	hospital sink		
+Hospital sink	hospital environment	hospital sink		
+alcohol foam dispenser in hospital intensive care unit	hospital environment	hospital surface		
+nursing call button in hospital intensive care unit	hospital environment	hospital surface		
+bedside rail in hospital intensive care unit	hospital environment	hospital surface		
+bedside light switch in hospital intensive care unit	hospital environment	hospital surface		
+hospital surface	hospital environment	hospital surface		
+hospital room swab	hospital environment	hospital surface		
+hand hygiene sink aerator of the surgical stepdown ward in National University Hospital	hospital environment	hospital surface		
+Hospital	hospital environment			
+hospital	hospital environment			
+neonatology unit from Hospital	hospital environment			
+Hospital environment	hospital environment			
+Cooling tower water	industrial	industrial water	cooling tower water	
+Mine wastewater	industrial	industrial water	mine wastewater	
+suncor tailing pond 6 meters	industrial	industrial water	mine wastewater	
+Suncor tailing pond sample	industrial	industrial water	mine wastewater	
+Oil polluted marine water	industrial	industrial water	polluted seawater	
+activated sludge of kraft-pulp mill effluents	industrial	industrial water		
+metal	industrial	metal	metal	
+metal/plastic	industrial	metal or plastic	metal or plastic	
+Richmond Mine AB20 location	industrial	mine		
+Richmond Mine C10 location	industrial	mine		
+Richmond Mine C75 location	industrial	mine		
+Cooling tower	industrial			
+water from electronic waste dumpsite	industrial			
+industrial sources	industrial			
+water	water			

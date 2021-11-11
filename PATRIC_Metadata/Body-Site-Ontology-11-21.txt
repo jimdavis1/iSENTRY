@@ -1,0 +1,592 @@
+Database Name	General Source	Specific Source	Disease	Clinical/Healthy
+abdomen	abdomen	abdomen		clinical
+abdominal	abdomen	abdomen		clinical
+abdominal fluid	abdomen	abdomen		clinical
+abdominal pain	abdomen	abdomen		clinical
+ascites	abdomen	abdomen		clinical
+ascitic fluid	abdomen	abdomen		clinical
+iai	abdomen	abdomen	intra-abdominal tract infection	clinical
+intra-abdominal	abdomen	abdomen		clinical
+intra-abdominal abscess	abdomen	abdomen	abscess	clinical
+intra-abdominal infection	abdomen	abdomen	intra-abdominal infection	clinical
+peritoneal fluid	abdomen	peritoneum		clinical
+peritonitis	abdomen	peritoneum	peritonitis	clinical
+amniotic fluid	amniotic fluid	amniotic fluid		clinical
+bone	bone and joint	bone		clinical
+osteomyelitis	bone and joint	bone	osteomyelitis	clinical
+joint	bone and joint	joint		clinical
+joint of pelvis	bone and joint	joint		clinical
+septic arthritis	bone and joint	joint	septic arthritis	clinical
+joint fluid	bone and joint	synovial fluid		clinical
+synovial fluid	bone and joint	synovial fluid		clinical
+brain	brain, spinal cord	brain		clinical
+brain abscess	brain, spinal cord	brain	brain abscess	clinical
+cerebro-spinal fluid	brain, spinal cord	cerebrospinal fluid		clinical
+cerebrospinal fluid	brain, spinal cord	cerebrospinal fluid		clinical
+csf	brain, spinal cord	cerebrospinal fluid		clinical
+human cerebrospinal fluid	brain, spinal cord	cerebrospinal fluid		clinical
+spinal fluid	brain, spinal cord	cerebrospinal fluid		clinical
+the cerebrospinal fluid of a single patient suffering from acute streptococcal meningitis	brain, spinal cord	cerebrospinal fluid	meningitis	clinical
+bacterial meningitidis	brain, spinal cord		meningitis	clinical
+bacterial meningitis	brain, spinal cord		meningitis	clinical
+meningitis	brain, spinal cord		meningitis	clinical
+bacteraemia	circulatory system	blood	bacteremia	clinical
+bacteremia	circulatory system	blood	bacteremia	clinical
+bacteriemia	circulatory system	blood	bacteremia	clinical
+bacterimia	circulatory system	blood	bacteremia	clinical
+blood	circulatory system	blood		clinical
+blood	circulatory system	blood		clinical
+blood 	circulatory system	blood		clinical
+blood from patient with bacteremia	circulatory system	blood	bacteremia	clinical
+blood infection	circulatory system	blood	blood infection	clinical
+blood plasma	circulatory system	blood		clinical
+blood sample	circulatory system	blood		clinical
+blood sample from patient with bacteremia	circulatory system	blood	bacteremia	clinical
+blood sample of individual with bacteremia	circulatory system	blood	bacteremia	clinical
+blood stream	circulatory system	blood		clinical
+blood stream infection	circulatory system	blood	bloodstream infection	clinical
+blood stream infection	circulatory system	blood		clinical
+blood stream infections	circulatory system	blood		clinical
+blood, central line	circulatory system	blood		clinical
+bloodstream	circulatory system	blood		clinical
+bloodstream infection	circulatory system	blood	bloodstream infection	clinical
+bodily fluid; blood	circulatory system	blood		clinical
+central venous catheter	circulatory system	blood		clinical
+clinical specimen, blood	circulatory system	blood		clinical
+enterococcus bacteremia	circulatory system	blood	bacteremia	clinical
+haemophagocytic lymphohistiocytosis	circulatory system	blood	haemophagocytic lymphohistiocytosis	clinical
+human blood	circulatory system	blood		clinical
+human blood (homo sapiens)	circulatory system	blood		clinical
+hus	circulatory system	blood	hemolytic uremic syndrome	clinical
+lemierre's syndrome	circulatory system	blood	lemierres syndrome	clinical
+peripheral blood	circulatory system	blood		clinical
+plasma cell leukemia	circulatory system	blood	plasma cell leukemia	clinical
+pneumococcal hemolytic uremic syndrome	circulatory system	blood	hemolytic uremic syndrome	clinical
+blood sepsis	circulatory system	blood	sepsis	clinical
+endocarditis	circulatory system	endocardium	endocarditis	clinical
+endocarditis	circulatory system	endocardium	endocarditis	clinical
+infective endocarditis	circulatory system	endocardium	infective endocarditis	clinical
+subacute bacterial endocarditis	circulatory system	endocardium	endocarditis	clinical
+hemolytic uremic syndrome	circulatory system		hemolytic uremic syndrome	clinical
+hemolytic uremic syndrome	circulatory system		hemolytic uremic syndrome	clinical
+hemolytic uremic syndrome	circulatory system		hemolytic uremic syndrome	clinical
+hemolytic uremic syndrome (hus)	circulatory system		hemolytic uremic syndrome	clinical
+ear	ear	ear		clinical
+ear swab	ear	ear		clinical
+middle ear	ear	middle ear		clinical
+otitis media	ear	middle ear	otitis media	clinical
+cornea	eye	cornea		clinical
+corneal scraping	eye	cornea		clinical
+keratitis	eye	cornea	keratitis	clinical
+microbial keratitis	eye	cornea	microbial keratitis	clinical
+conjunctiva	eye	eye		clinical
+conjunctivitis	eye	eye	conjunctivitis	clinical
+eye	eye	eye		clinical
+eye infection	eye	eye	eye infection	clinical
+general eye	eye	eye		clinical
+human eye	eye	eye		clinical
+right conjunctiva of a child with trachoma	eye	eye	trachoma	clinical
+trachoma	eye	eye	trachoma	clinical
+gall bladder	gall bladder	gall bladder		clinical
+bile	GI tract and stool	bile		clinical
+bile (fluid)	GI tract and stool	bile		clinical
+other (bile)	GI tract and stool	bile		clinical
+gastrointestinal tract; colon	GI tract and stool	colon		clinical
+duodenal cancer	GI tract and stool	duodenum	duodenal cancer	clinical
+duodenal mucosa of celiac disease patient	GI tract and stool	duodenum	celiac disease	clinical
+duodenal ulcer	GI tract and stool	duodenum	duodenal ulcer	clinical
+duodenum	GI tract and stool	duodenum		clinical
+intestinal cancer	GI tract and stool	intestine	cancer	clinical
+intestinal metaplasia	GI tract and stool	intestine	intestinal metaplasia	clinical
+intestinal metaplasia	GI tract and stool	intestine	intestinal metaplasia	clinical
+intestine	GI tract and stool	intestine		clinical
+intestine of patients with crohn's disease	GI tract and stool	intestine	chrons disease	clinical
+surgical intestinal biopsy	GI tract and stool	intestine		clinical
+peri-anal swab culture	GI tract and stool	peri-anus		clinical
+perirectal	GI tract and stool	perirectum		clinical
+perirectal swab	GI tract and stool	perirectum	diptheria	clinical
+rectal	GI tract and stool	rectum		clinical
+rectal carriage	GI tract and stool	rectum		clinical
+rectal colonization	GI tract and stool	rectum		clinical
+rectal swab	GI tract and stool	rectum		clinical
+rectal swap	GI tract and stool	rectum		clinical
+rectum	GI tract and stool	rectum		clinical
+gastric biopsies	GI tract and stool	stomach		clinical
+gastric biopsy tissue	GI tract and stool	stomach		clinical
+gastric cancer	GI tract and stool	stomach	gastric cancer	clinical
+gastric cancer	GI tract and stool	stomach	gastric cancer	clinical
+gastric deseases	GI tract and stool	stomach		clinical
+gastric mucosa	GI tract and stool	stomach		clinical
+gastric sample	GI tract and stool	stomach		clinical
+gastric tissue	GI tract and stool	stomach		clinical
+gastric ulcer	GI tract and stool	stomach	gastric ulcer	clinical
+gastroscopic antral biopsy specimen	GI tract and stool	stomach		clinical
+human stomach	GI tract and stool	stomach		clinical
+stomach	GI tract and stool	stomach		clinical
+cholera	GI tract and stool		cholera	clinical
+clinical sample from patient with gastroenteritis	GI tract and stool		gastroenteritis	clinical
+clostridium difficile colitis	GI tract and stool		clostridium difficile colitis	clinical
+crohn's disease	GI tract and stool		crohns disease	clinical
+crohns disease	GI tract and stool		crohns disease	clinical
+functional dyspepsia	GI tract and stool		functional dyspepsia	clinical
+gastric biopsy	GI tract and stool			clinical
+gastric diseases	GI tract and stool		gastric disease	clinical
+gastritis	GI tract and stool		gastritis	clinical
+gastroenteritis	GI tract and stool		gastroenteritis	clinical
+gastroenteritis	GI tract and stool		gastroenteritis	clinical
+gastrointestinal	GI tract and stool			clinical
+gastrointestinal tract	GI tract and stool			clinical
+gastrointestinal tract; gut	GI tract and stool			clinical
+gut	GI tract and stool			clinical
+human gut	GI tract and stool			clinical
+gut microbiota	GI tract and stool			clinical
+hospitalized patient with severe cholera-like disease	GI tract and stool		cholera-like disease	clinical
+intra-abdominal tract infection	GI tract and stool		itra-abdominal tract infection	clinical
+itra-abdominal tract infection	GI tract and stool		itra-abdominal tract infection	clinical
+mild gastritis	GI tract and stool		gastritis	clinical
+non-atrophic gastritis	GI tract and stool		non-atrophic gastritis	clinical
+premature infant gut	GI tract and stool			clinical
+salmonella gastroenteritis	GI tract and stool		salmonella gastroenteritis	clinical
+severe gastritis	GI tract and stool		gastritis	clinical
+the human gastrointestinal tract	GI tract and stool			clinical
+ulcerative colitis	GI tract and stool		ulcerative colitis	clinical
+vibrio gastroenteritis	GI tract and stool		vibrio gastroenteritis	clinical
+396 human stool samples we identified 7,381 such metagenomic species	GI tract and stool			clinical
+adult feces	GI tract and stool			clinical
+bloody diarrhea	GI tract and stool		diarrhea	clinical
+bloody diarrhoea	GI tract and stool		diarrhea	clinical
+diarreal	GI tract and stool		diarrhea	clinical
+diarrhea	GI tract and stool		diarrhea	clinical
+diarrheal	GI tract and stool		diarrhea	clinical
+diarrheal disease	GI tract and stool		diarrhea	clinical
+diarrheal stool	GI tract and stool		diarrhea	clinical
+diarrhoea	GI tract and stool		diarrhea	clinical
+diarrhoea, antibiotic-associated	GI tract and stool		diarrhea	clinical
+diarrhoeal disease	GI tract and stool		diarrhea	clinical
+diarrhoeal stool	GI tract and stool			clinical
+faecal	GI tract and stool			clinical
+faeces	GI tract and stool			clinical
+Human fecal samples	GI tract and stool			clinical
+fecal	GI tract and stool			clinical
+fecal sample	GI tract and stool			clinical
+fecal swab	GI tract and stool			clinical
+feces	GI tract and stool			clinical
+feces	GI tract and stool			clinical
+feces (healthy adult)	GI tract and stool			healthy
+feces from female	GI tract and stool			clinical
+feces from healthy adult	GI tract and stool			healthy
+feces from healthy adult	GI tract and stool			healthy
+host stool sample	GI tract and stool			clinical
+human faecal sample	GI tract and stool			clinical
+human faeces	GI tract and stool			clinical
+Human (feces)	GI tract and stool			clinical
+human feces	GI tract and stool			clinical
+human stool	GI tract and stool			clinical
+infant feces	GI tract and stool			clinical
+infant stool	GI tract and stool			clinical
+isolated from diarrheal patient	GI tract and stool		diarrhea	clinical
+isolated from diarrheal patient	GI tract and stool		diarrhea	clinical
+korean adult feces	GI tract and stool			clinical
+mild, self-limited diarrhea	GI tract and stool		diarrhea	clinical
+patient stool	GI tract and stool			clinical
+preterm infant faecal sample	GI tract and stool			clinical
+seafood comsumption associated diarrhea	GI tract and stool		seafood comsumption associated diarrhea	clinical
+secretory diarrhea	GI tract and stool		diarrhea	clinical
+stool	GI tract and stool			clinical
+stool sample	GI tract and stool			clinical
+stool sample from 52 year old healthy male	GI tract and stool			healthy
+stool sample from 53 year old healthy female	GI tract and stool			healthy
+stool sample from 84 year old male with stage 3 colorectal cancer	GI tract and stool		colorectal cancer	clinical
+stool sample from patient with cholera	GI tract and stool		cholera	clinical
+stool sample of individual with bacteremia	GI tract and stool			clinical
+stool specimen from a guillain-barre syndrome patient	GI tract and stool		guillain-barre syndrome	clinical
+stool, clinical	GI tract and stool			clinical
+watery diarrhea	GI tract and stool		diarrhea	clinical
+groin	groin	groin		clinical
+human milk	human milk	human milk		clinical
+liver abscess	liver	liver	liver abscess	clinical
+lymph node	lymphatic system	lymphatic system		clinical
+malt lymphoma	lymphatic system	lymphatic system	lymphoma	clinical
+aspiration pneumonia	nasal, oral,  pharynx and respiratory	lung	pneumonia	clinical
+bal	nasal, oral,  pharynx and respiratory	lung		clinical
+bronch	nasal, oral,  pharynx and respiratory	lung		clinical
+bronchi	nasal, oral,  pharynx and respiratory	lung		clinical
+bronchial	nasal, oral,  pharynx and respiratory	lung		clinical
+bronchial alveolar lavage	nasal, oral,  pharynx and respiratory	lung		clinical
+bronchial aspirate	nasal, oral,  pharynx and respiratory	lung		clinical
+bronchial fluid	nasal, oral,  pharynx and respiratory	lung		clinical
+bronchial lavage	nasal, oral,  pharynx and respiratory	lung		clinical
+bronchial secretions	nasal, oral,  pharynx and respiratory	lung		clinical
+bronchial wash	nasal, oral,  pharynx and respiratory	lung		clinical
+bronchial washing	nasal, oral,  pharynx and respiratory	lung		clinical
+bronchial washings	nasal, oral,  pharynx and respiratory	lung		clinical
+bronchiole; epithelial lining fluid	nasal, oral,  pharynx and respiratory	lung		clinical
+broncho-alveolar lavage	nasal, oral,  pharynx and respiratory	lung		clinical
+bronchoalveolar lavage	nasal, oral,  pharynx and respiratory	lung		clinical
+bronchoalveolar lavage fluid	nasal, oral,  pharynx and respiratory	lung		clinical
+bronchoaspiration material	nasal, oral,  pharynx and respiratory	lung		clinical
+bronchoscope from bronchoalveolar lavage (bal)	nasal, oral,  pharynx and respiratory	lung		clinical
+bronchoscopy	nasal, oral,  pharynx and respiratory	lung		clinical
+broncoalveolar lavage	nasal, oral,  pharynx and respiratory	lung		clinical
+chronic obstructive pulmonary disease	nasal, oral,  pharynx and respiratory	lung	chronic obstructive pulmonary disease	clinical
+copd	nasal, oral,  pharynx and respiratory	lung	chronic obstructive pulmonary disease	clinical
+cystic fibrosis lung infection	nasal, oral,  pharynx and respiratory	lung	cystic fibrosis	clinical
+epithelial lining fluid; bronchiole 	nasal, oral,  pharynx and respiratory	lung		clinical
+lower respiratory tract infections	nasal, oral,  pharynx and respiratory	lung	lower respiratory tract infection	clinical
+lower respiratory tract secrection	nasal, oral,  pharynx and respiratory	lung		clinical
+lung	nasal, oral,  pharynx and respiratory	lung		clinical
+lung disease	nasal, oral,  pharynx and respiratory	lung		clinical
+lung infections	nasal, oral,  pharynx and respiratory	lung	lung infection	clinical
+lungs of cystic fibrosis patient a	nasal, oral,  pharynx and respiratory	lung	cystic fibrosis	clinical
+lungs of cystic fibrosis patient c	nasal, oral,  pharynx and respiratory	lung	cystic fibrosis	clinical
+m. abscessus lung disease	nasal, oral,  pharynx and respiratory	lung	m. abscessus lung disease	clinical
+nontuberculous mycobacterial lung disease	nasal, oral,  pharynx and respiratory	lung	nontuberculous mycobacterial lung disease	clinical
+pleural fluid	nasal, oral,  pharynx and respiratory	lung		clinical
+pnemonia	nasal, oral,  pharynx and respiratory	lung	pneumonia	clinical
+pneumonia	nasal, oral,  pharynx and respiratory	lung	pneumonia	clinical
+pneumonia due to klebsiella pneumoniae	nasal, oral,  pharynx and respiratory	lung	pneumonia due to klebsiella pneumoniae	clinical
+pneumoniae	nasal, oral,  pharynx and respiratory	lung	pneumonia	clinical
+pulmonary	nasal, oral,  pharynx and respiratory	lung		clinical
+pulmonary disease	nasal, oral,  pharynx and respiratory	lung	pulmonary disease	clinical
+pulmonary infection	nasal, oral,  pharynx and respiratory	lung	pulmonary infection	clinical
+pulmonary infection	nasal, oral,  pharynx and respiratory	lung	pulmonary infection	clinical
+pulmonary tuberculosis	nasal, oral,  pharynx and respiratory	lung	pulmonary tuberculosis	clinical
+ventilator associated pneumonia	nasal, oral,  pharynx and respiratory	lung	pneumonia	clinical
+ventilator-associated pneumonia	nasal, oral,  pharynx and respiratory	lung	pneumonia	clinical
+airways; nasal	nasal, oral,  pharynx and respiratory	nasal		clinical
+bodily fluid; nasal	nasal, oral,  pharynx and respiratory	nasal		clinical
+bodily fluid; nose	nasal, oral,  pharynx and respiratory	nasal		clinical
+female nares	nasal, oral,  pharynx and respiratory	nasal		clinical
+nares	nasal, oral,  pharynx and respiratory	nasal		clinical
+nasal	nasal, oral,  pharynx and respiratory	nasal		clinical
+nasal cavity	nasal, oral,  pharynx and respiratory	nasal		clinical
+nasal lavage	nasal, oral,  pharynx and respiratory	nasal		clinical
+nasal swab	nasal, oral,  pharynx and respiratory	nasal		clinical
+nose	nasal, oral,  pharynx and respiratory	nasal		clinical
+pharyngotonsillitis	nasal, oral,  pharynx and respiratory	nasal, oral and pharynx	pharyngotonsillitis	clinical
+airways; nasopharynx	nasal, oral,  pharynx and respiratory	nasopharynx		clinical
+nasopharyngeal swab	nasal, oral,  pharynx and respiratory	nasopharynx		clinical
+nasopharyngeal swabs	nasal, oral,  pharynx and respiratory	nasopharynx		clinical
+nasopharynx	nasal, oral,  pharynx and respiratory	nasopharynx		clinical
+nasophaynx	nasal, oral,  pharynx and respiratory	nasopharynx		clinical
+the nasopharynx of a child	nasal, oral,  pharynx and respiratory	nasopharynx		clinical
+dental abscess	nasal, oral,  pharynx and respiratory	oral cavity	dental abscess	clinical
+dental plaque	nasal, oral,  pharynx and respiratory	oral cavity	dental plaque	clinical
+gingivitis	nasal, oral,  pharynx and respiratory	oral cavity	gingivitis	clinical
+oral	nasal, oral,  pharynx and respiratory	oral cavity		clinical
+oral cavity	nasal, oral,  pharynx and respiratory	oral cavity		clinical
+oral cavity- mouth	nasal, oral,  pharynx and respiratory	oral cavity		clinical
+oral; gingival crevices	nasal, oral,  pharynx and respiratory	oral cavity		clinical
+periodontal pocket	nasal, oral,  pharynx and respiratory	oral cavity		clinical
+periodontitis	nasal, oral,  pharynx and respiratory	oral cavity	periodontitis	clinical
+plaque (caries +)	nasal, oral,  pharynx and respiratory	oral cavity	plaque	clinical
+plaque (carries -)	nasal, oral,  pharynx and respiratory	oral cavity	plaque	clinical
+saliva	nasal, oral,  pharynx and respiratory	oral cavity		clinical
+subgingival dental plaque	nasal, oral,  pharynx and respiratory	oral cavity	subgingival dental plaque	clinical
+subgingival plaque	nasal, oral,  pharynx and respiratory	oral cavity	subgingival dental plaque	clinical
+subgingival plaque biofilm	nasal, oral,  pharynx and respiratory	oral cavity		clinical
+subgingival plaque, from a periodontal pocket at least 6mm deep	nasal, oral,  pharynx and respiratory	oral cavity	plaque	clinical
+supragingival plaque isolated from 88 juvenile twins	nasal, oral,  pharynx and respiratory	oral cavity	supragingival plaque 	clinical
+the human oral cavity	nasal, oral,  pharynx and respiratory	oral cavity		clinical
+tongue	nasal, oral,  pharynx and respiratory	oral cavity		clinical
+oropharynx	nasal, oral,  pharynx and respiratory	oropharynx		clinical
+pharyngeal exudate	nasal, oral,  pharynx and respiratory	pharynx		clinical
+pharyngeal mucosa	nasal, oral,  pharynx and respiratory	pharynx		clinical
+pharyngeal swab	nasal, oral,  pharynx and respiratory	pharynx		clinical
+pharyngitis	nasal, oral,  pharynx and respiratory	pharynx	pharyngitis	clinical
+pharynx	nasal, oral,  pharynx and respiratory	pharynx		clinical
+chronic rhinosinusitis	nasal, oral,  pharynx and respiratory	sinus		clinical
+sinus	nasal, oral,  pharynx and respiratory	sinus		clinical
+sputum or oropharyngeal	nasal, oral,  pharynx and respiratory	sputum		clinical
+Clinical, sputum	nasal, oral,  pharynx and respiratory	sputum		clinical
+cf sputum	nasal, oral,  pharynx and respiratory	sputum	cystic fibrosis	clinical
+cystic fibrosis sputum	nasal, oral,  pharynx and respiratory	sputum	cystic fibrosis	clinical
+lung; sputum	nasal, oral,  pharynx and respiratory	sputum		clinical
+sputum of adult cystic fibrosis patient	nasal, oral,  pharynx and respiratory	sputum	cystic fibrosis	clinical
+sputum of child cystic fibrosis patient	nasal, oral,  pharynx and respiratory	sputum	cystic fibrosis	clinical
+sputum sample	nasal, oral,  pharynx and respiratory	sputum		clinical
+sputum; lung	nasal, oral,  pharynx and respiratory	sputum		clinical
+the sputum of an individual with cystic fibrosis	nasal, oral,  pharynx and respiratory	sputum	cystic fibrosis	clinical
+sputum from cystic fibrosis patients	nasal, oral,  pharynx and respiratory	sputum	cystic fibrosis	clinical
+human sputum	nasal, oral,  pharynx and respiratory	sputum		clinical
+sputum	nasal, oral,  pharynx and respiratory	sputum		clinical
+sputum induced	nasal, oral,  pharynx and respiratory	sputum		clinical
+bodily fluid; throat	nasal, oral,  pharynx and respiratory	throat		clinical
+fever, throat pain	nasal, oral,  pharynx and respiratory	throat	fever, throat pain	clinical
+sore throat	nasal, oral,  pharynx and respiratory	throat	sore throat	clinical
+throat	nasal, oral,  pharynx and respiratory	throat		clinical
+throat culture	nasal, oral,  pharynx and respiratory	throat		clinical
+throat swab	nasal, oral,  pharynx and respiratory	throat		clinical
+throat swab	nasal, oral,  pharynx and respiratory	throat		clinical
+school-age children suffering with faringo-tonsillitis from bologna metropolitan area were collected	nasal, oral,  pharynx and respiratory	tonsil	tonsillitis	clinical
+tonsillitis	nasal, oral,  pharynx and respiratory	tonsil	tonsillitis	clinical
+endotracheal aspirate	nasal, oral,  pharynx and respiratory	trachea		clinical
+endotracheal aspiration	nasal, oral,  pharynx and respiratory	trachea		clinical
+endotracheal tube	nasal, oral,  pharynx and respiratory	trachea		clinical
+trach	nasal, oral,  pharynx and respiratory	trachea		clinical
+trach asp	nasal, oral,  pharynx and respiratory	trachea		clinical
+trach aspirate	nasal, oral,  pharynx and respiratory	trachea		clinical
+trachael aspirate	nasal, oral,  pharynx and respiratory	trachea		clinical
+trachea	nasal, oral,  pharynx and respiratory	trachea		clinical
+tracheal aspirate	nasal, oral,  pharynx and respiratory	trachea		clinical
+tracheal aspiration	nasal, oral,  pharynx and respiratory	trachea		clinical
+tracheal secretion	nasal, oral,  pharynx and respiratory	trachea		clinical
+acute respiratory insufficiency	nasal, oral,  pharynx and respiratory		acute respiratory insufficiency	clinical
+airways	nasal, oral,  pharynx and respiratory			clinical
+airways; upper respiratory tract	nasal, oral,  pharynx and respiratory			clinical
+cf	nasal, oral,  pharynx and respiratory		cystic fibrosis	clinical
+chronic respiratory insufficiency	nasal, oral,  pharynx and respiratory			clinical
+cystic fibrosis	nasal, oral,  pharynx and respiratory		cystic fibrosis	clinical
+cystic fibrosis isolate	nasal, oral,  pharynx and respiratory		cystic fibrosis	clinical
+cystic fibrosis patient	nasal, oral,  pharynx and respiratory		cystic fibrosis	clinical
+diphtheria	nasal, oral,  pharynx and respiratory		diptheria	clinical
+endotracheal aspirate/bronchoalveolar lavage fluid	nasal, oral,  pharynx and respiratory			clinical
+pertussis	nasal, oral,  pharynx and respiratory		pertussis	clinical
+respiratory	nasal, oral,  pharynx and respiratory			clinical
+respiratory corynebacterium diphtheriae	nasal, oral,  pharynx and respiratory		diptheria	clinical
+respiratory infection	nasal, oral,  pharynx and respiratory		respiratory tract infection	clinical
+respiratory sample	nasal, oral,  pharynx and respiratory			clinical
+respiratory system	nasal, oral,  pharynx and respiratory			clinical
+respiratory system	nasal, oral,  pharynx and respiratory			clinical
+respiratory tract	nasal, oral,  pharynx and respiratory			clinical
+respiratory tract infection	nasal, oral,  pharynx and respiratory		respiratory tract infection	clinical
+respiratory tract infections	nasal, oral,  pharynx and respiratory		respiratory tract infection	clinical
+rti	nasal, oral,  pharynx and respiratory		respiratory tract infection	clinical
+staphylococcus aureus respiratory disease	nasal, oral,  pharynx and respiratory		staphylococcus aureus respiratory disease	clinical
+subacute cough	nasal, oral,  pharynx and respiratory		subacute cough	clinical
+tracheobronchial aspirate	nasal, oral,  pharynx and respiratory			clinical
+whooping cough	nasal, oral,  pharynx and respiratory		pertussis	clinical
+neck/axilla	neck, axilla	neck, axilla		clinical
+perineum	perineum	perineum		clinical
+placenta	placenta	placenta		clinical
+atopic dermatitis	skin, soft tissue	skin		clinical
+burn	skin, soft tissue	skin		clinical
+buruli ulcer	skin, soft tissue	skin	buruli ulcer	clinical
+cellulitis	skin, soft tissue	skin	cellulitis	clinical
+cutaneous ulcer	skin, soft tissue	skin	cutaneous ulcer	clinical
+female behind the ears	skin, soft tissue	skin		clinical
+human skin	skin, soft tissue	skin		clinical
+pyoderma	skin, soft tissue	skin	pyoderma	clinical
+s. aureus skin and soft tissue infection	skin, soft tissue	skin	skin and soft tissue infection	clinical
+skin	skin, soft tissue	skin		clinical
+skin and soft tissue	skin, soft tissue	skin		clinical
+skin and soft tissue infection	skin, soft tissue	skin	skin and soft tissue infection	clinical
+skin infection	skin, soft tissue	skin	skin infection	clinical
+skin infection	skin, soft tissue	skin		clinical
+skin lesion	skin, soft tissue	skin	skin lesion	clinical
+skin lesions	skin, soft tissue	skin	skin lesion	clinical
+skin of human	skin, soft tissue	skin		clinical
+skin swab	skin, soft tissue	skin		clinical
+skin; right arm	skin, soft tissue	skin		clinical
+soft-skin infection or carrier	skin, soft tissue	skin		clinical
+the cheek skin of 268 japanese infants 1 month and 6 months after birth	skin, soft tissue	skin		clinical
+necrotizing fasciitis	skin, soft tissue	soft tissue	necrotizing fasciitis	clinical
+soft tissue	skin, soft tissue	soft tissue		clinical
+staphylococcus aureus soft tissue infection or abscess	skin, soft tissue	soft tissue	staphylococcus aureus soft tissue infection or abscess	clinical
+cervical	urogenital tract	cervix		clinical
+cervix	urogenital tract	cervix		clinical
+endo-cervical swab	urogenital tract	cervix		clinical
+penile	urogenital tract	penis		clinical
+penile discharge	urogenital tract	penis		clinical
+penis/urethra	urogenital tract	penis,urethra		clinical
+prostate	urogenital tract	prostate		clinical
+prostatic tissue	urogenital tract	prostate		clinical
+nongonococcal urethritis	urogenital tract	urethra	nongonococcal urethritis	clinical
+urethra	urogenital tract	urethra		clinical
+urethral swab	urogenital tract	urethra		clinical
+urethritis	urogenital tract	urethra	urethritis	clinical
+urethritis	urogenital tract	urethra	urethritis	clinical
+dysuria	urogenital tract	urine	dysuria	clinical
+excreted bodily substance; urine	urogenital tract	urine		clinical
+midstream urine	urogenital tract	urine		clinical
+urine	urogenital tract	urine		clinical
+urine sample	urogenital tract	urine		clinical
+urogenital tract tract; vaginal	urogenital tract	vagina		clinical
+urogenital tract; vaginal	urogenital tract	vagina		clinical
+vagina	urogenital tract	vagina		clinical
+vaginal	urogenital tract	vagina		clinical
+vaginal fluid	urogenital tract	vagina		clinical
+vaginal microbiome	urogenital tract	vagina		clinical
+vaginal mucus	urogenital tract	vagina		clinical
+vaginal swab	urogenital tract	vagina		clinical
+genital	urogenital tract			clinical
+gonorrhea	urogenital tract		gonorrhea	clinical
+gonorrhea	urogenital tract			clinical
+indwelling urinary catheter	urogenital tract			clinical
+isolate obtained from scrapings of the urogenital tract of a woman with inflammatory diseases of the reproductive organs	urogenital tract			clinical
+patient with urinary tract infection	urogenital tract		urinary tract infection	clinical
+recurrent uti	urogenital tract		urinary tract infection	clinical
+std eval	urogenital tract			clinical
+urinary infection	urogenital tract		urinary tract infection	clinical
+urinary tract	urogenital tract			clinical
+urinary tract infection	urogenital tract		urinary tract infection	clinical
+urinary tract infection	urogenital tract		urinary tract infection	clinical
+urinary tract infections	urogenital tract		urinary tract infection	clinical
+urinary tract of patient suffering from type-2 diabetes	urogenital tract		type-2 diabetes	clinical
+urine culture	urogenital tract			clinical
+urine cvs	urogenital tract			clinical
+urine infection	urogenital tract		urinary tract infection	clinical
+urinogenital fluid	urogenital tract			clinical
+urogenital disease	urogenital tract		urogenital disease	clinical
+urogenital tract	urogenital tract			clinical
+uti	urogenital tract		urinary tract infection	clinical
+uti urinary tract	urogenital tract		urinary tract infection	clinical
+finger	wound	finger		clinical
+foot	wound	foot		clinical
+abcess	wound		abscess	clinical
+abdominal abscess	wound		abdominal abscess	clinical
+abdominal wound	wound		wound	clinical
+abscess	wound		abscess	clinical
+foot wound	wound		wound	clinical
+human wound	wound		wound	clinical
+leg ulcer	wound		leg ulcer	clinical
+leg wound	wound		wound	clinical
+lesion swab	wound		wound	clinical
+sternal wound	wound		wound	clinical
+surgical wound	wound		wound	clinical
+surgical wound infection	wound		wound	clinical
+toe wound	wound		wound	clinical
+warwound (surv)	wound		wound	clinical
+wound	wound		wound	clinical
+wound abdominal	wound		wound	clinical
+wound biopsy	wound		wound	clinical
+wound drainage fluid	wound		wound	clinical
+wound exudate	wound		wound	clinical
+wound exudate of bone fracture from a chinese 76-year-old male	wound		wound	clinical
+wound fluid	wound		wound	clinical
+wound fluid from a diabetic patient	wound		wound	clinical
+wound infection	wound		wound	clinical
+wound infection post surgery	wound		wound	clinical
+wound labia	wound		wound	clinical
+wound or pus swab	wound		wound	clinical
+wound scalp	wound		wound	clinical
+wound secretion	wound		wound	clinical
+wound swab	wound		wound	clinical
+wound swab sample	wound		wound	clinical
+wound/abscess	wound		wound	clinical
+hospital-acquired infection/sepsis			sepsis	clinical
+sepsis			sepsis	clinical
+septicemia			sepsis	clinical
+staphylococcus aureus bloodstream infection or sepsis			sepsis	clinical
+19 patient samples				clinical
+acinetobacter infection			acinetobacter infection	clinical
+acinetobacter infections			acinetobacter infection	clinical
+acute disseminated melioidosis			melioidosis	clinical
+adenocarcinoma			cancer	clinical
+adult invasive disease				clinical
+anticubital site				clinical
+antrum				clinical
+aspirate				clinical
+associated infection				clinical
+bacterial infection				clinical
+bacterial infection				clinical
+bacterial infectious disease				clinical
+biological fluid or tissue				clinical
+biopsy				clinical
+blood culture				clinical
+blood culture of a hospitalized patient				clinical
+blood cultures from patients				clinical
+blood/csf				clinical
+bodily fluid				clinical
+botulism			botulism	clinical
+brucelliosis			brucellosis	clinical
+brucellosis			brucellosis	clinical
+campylobacteriosis			campylobacteriosis	clinical
+cancer			cancer	clinical
+catheter				clinical
+catheter tip				clinical
+chlamydial infection			chlamydial infection	clinical
+chronic infection				clinical
+chronic melioidosis			melioidosis	clinical
+clinical				clinical
+clinical gonorrhea patients			gonorrhea	clinical
+clinical isolate				clinical
+clinical material				clinical
+clinical or host-associated bacteria				clinical
+clinical sample				clinical
+clinical specimen				clinical
+clostridium difficile infection			clostridium difficile infection	clinical
+disease case				clinical
+diseased				clinical
+excreted bodily substance				clinical
+extrapulmonary tuberculosis			tuberculosis	clinical
+fever			fever	clinical
+fluid				clinical
+food poisoning			food poisoning	clinical
+hard tick-borne relapsing fever (borrelia miyamotoi disease)			hard tick-borne relapsing fever (borrelia miyamotoi disease)	clinical
+healthy				healthy
+healthy adult 3c				healthy
+healthy carrier				healthy
+healthy control				healthy
+healthy participant				healthy
+healthy participants				healthy
+healthy person				healthy
+healthy volunteer				healthy
+hemoculture				clinical
+human clinical sample				clinical
+human patient				clinical
+icu patients				clinical
+infant				clinical
+infectious disease				clinical
+invasive				clinical
+invasive disease				clinical
+late onset disease				clinical
+legionellosis			legionellosis	clinical
+leptospirosis			leptospirosis	clinical
+listeriosis			listeriosis	clinical
+mdr-tb			tuberculosis	clinical
+melioidosis			melioidosis	clinical
+meningococcemia			meningococcemia	clinical
+metaplasia				clinical
+miscellaneous body fluid				clinical
+mycobacteriosis			mycobacteriosis	clinical
+neonatal invasive disease				clinical
+nocardiosis			nocardiosis	clinical
+normal				healthy
+nosocomial infection			nosocomial infection	clinical
+nosocomial infections				clinical
+orthopedic joint implant				clinical
+patient				clinical
+patient fluids				clinical
+patient sample				clinical
+patient ulcer				clinical
+patient with severe clostridium difficile associated disease			patient with severe clostridium difficile associated disease	clinical
+patients				clinical
+patients (n=15) from 9 norwegian hospital laboratories				clinical
+patients with invasive disease				clinical
+patients with symptoms				clinical
+pneumococcal disease			pneumococcal disease	clinical
+pneumonia/sepsis				clinical
+post surgical secretion				clinical
+premature infant				clinical
+prosthetic joint infection				clinical
+puncture fluids				clinical
+s. aureus infection				clinical
+salmonellosis			salmonellosis	clinical
+secretion				clinical
+several infections				clinical
+shigellosis			shigellosis	clinical
+sick				clinical
+staph infection			staph infection	clinical
+staphylococcal infection			staphylococcal infection	clinical
+stenotrophomonas maltophilia bacteremia			bacteremia	clinical
+syphilis			syphilis	clinical
+systemic salmonella infection			systemic salmonella infection	clinical
+tb			tuberculosis	clinical
+tissue				clinical
+tissues				clinical
+tuberculosis			tuberculosis	clinical
+tuberculosis patient			tuberculosis	clinical
+tularemia			tularemia	clinical
+typhoid fever			typhoid fever	clinical
+ulcer				clinical
+ulceroglandular tularemia			ulceroglandular tularemia	clinical
+vaginal-rectal				clinical
+vaginal/rectal				clinical
+vibrio infection			vibrio infection	clinical
+vietnamese medical tourist				clinical
+Human invasive infection				clinical
+mucus				clinical
+other (pus)				clinical
+pus				clinical
+suppuration				clinical
